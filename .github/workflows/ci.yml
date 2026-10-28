@@ -15,3 +15,10 @@ jobs:
         run: |
           PYTHONPATH=src python -m facility_pred.data_gen --out /tmp/data
           diff /tmp/data/bookings.csv data/bookings.csv
+      - name: Train, evaluate and export end to end
+        run: PYTHONPATH=src python -W ignore -m facility_pred.run all
+      - name: Metrics match the committed results
+        run: python -c "
+          import json
+          a=json.load(open('results/metrics.json'))['model']['overall']['mean_k_of_4']
+          print('mean k of 4:', a); assert 0.30 < a < 0.40"
