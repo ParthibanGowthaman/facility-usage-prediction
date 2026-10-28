@@ -1,0 +1,23 @@
+name: Full retrain (manual)
+on: workflow_dispatch
+jobs:
+  retrain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Tune, refit and evaluate from scratch
+        run: PYTHONPATH=src python -W ignore -m facility_pred.run all
+      - name: Show whether results differ from the committed ones
+        run: git diff --stat results/metrics.json models/chosen_params.json || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: retrained-outputs
+          path: |
+            results/
+            outputs/
+            models/

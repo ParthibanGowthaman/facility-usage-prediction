@@ -100,9 +100,14 @@ def generate(seed=42, n_residents=300):
                     hours=habit_hour, minutes=habit_min + int(rng.normal(0, 8)))
                 if cand <= usage - pd.Timedelta(minutes=30):
                     booking = cand
-            if booking is None:  # ad-hoc: heavy-tailed lead time
-                lead_h = float(np.clip(rng.lognormal(np.log(14), 1.0), 0.5, 240))
-                booking = usage - pd.Timedelta(hours=lead_h)
+            if booking is None:  # ad-hoc: heavy-tailed lead time, made while awake (07:00-22:59)
+                for _ in range(50):
+                    lead_h = float(np.clip(rng.lognormal(np.log(14), 1.0), 0.5, 240))
+                    booking = usage - pd.Timedelta(hours=lead_h)
+                    if 7 <= booking.hour < 23:
+                        break
+                else:  # no waking-hours draw found: book the previous evening
+                    booking = (usage.normalize() - pd.Timedelta(days=1)) + pd.Timedelta(hours=20)
             booking = booking.floor("min")
             if booking < START:
                 continue

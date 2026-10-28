@@ -1,67 +1,78 @@
 # Test-split results
 
-2572 bookings from 2025-11-01 onward.
+2736 bookings from 2025-11-01 onward.
 
-## Overall (test split, 2572 bookings)
+## Overall (test split, 2736 bookings)
 
 ```
-             value
-Mean k of 4  34.9%
-All 4 match   4.1%
+             Value
+Mean k of 4  36.1%
+All 4 match   3.7%
 ```
 
 ## Per-output metrics
 
 ```
-         accuracy macro_f1 top3_accuracy within_1_day within_1_hour mae_hours day_accuracy clock_within_30min clock_within_60min clock_mae_min
-facility    45.6%    40.0%         81.6%                                                                                                      
-day         40.1%                               60.4%                                                                                         
-hour        38.3%                                             57.7%      3.51                                                                 
-nudge       15.4%                                                                    22.9%              63.1%              64.8%        172.08
+                              Value
+Output   Metric                    
+facility accuracy             45.1%
+         macro_f1             41.6%
+         top3_accuracy        82.0%
+day      accuracy             42.5%
+         within_1_day         63.1%
+hour     accuracy             39.6%
+         within_1_hour        58.4%
+         mae_hours             3.49
+nudge    accuracy             17.4%
+         day_accuracy         27.5%
+         clock_within_30min   62.9%
+         clock_within_60min   66.2%
+         clock_mae_min       121.47
 ```
 
 ## Model vs baselines
 
 ```
                           Facility acc Day acc Hour acc Nudge acc Mean k of 4 All 4 match
-model (gradient boosting)        45.6%   40.1%    38.3%     15.4%       34.9%        4.1%
-baseline: majority               27.8%   14.4%    18.4%      1.4%       15.5%        0.1%
-baseline: repeat_last            37.6%   12.9%    27.4%      5.6%       20.9%        0.5%
-baseline: resident_habit         48.8%   27.1%    40.9%     11.5%       32.1%        3.3%
+Method                                                                                   
+model (gradient boosting)        45.1%   42.5%    39.6%     17.4%       36.1%        3.7%
+baseline: majority               26.4%   15.1%    17.0%      0.7%       14.8%        0.0%
+baseline: repeat_last            37.6%   12.5%    26.7%      6.3%       20.8%        0.5%
+baseline: resident_habit         47.6%   27.5%    39.8%     12.7%       31.9%        2.9%
 ```
 
-## By amount of resident history
+## By amount of resident history (hit rates)
 
 ```
-            n facility    day   hour  nudge mean_k_of_4
-history                                                
-1-9        52    42.3%  36.5%  34.6%  17.3%       32.7%
-10-29     415    41.9%  33.7%  35.9%  10.6%       30.5%
-30+      2105    46.5%  41.5%  38.8%  16.3%       35.8%
+               Bookings Facility    Day   Hour  Nudge Mean k of 4
+Prior bookings                                                   
+1-9                  56    44.6%  30.4%  39.3%  10.7%       31.2%
+10-29               423    44.9%  35.0%  37.8%  16.5%       33.6%
+30+                2257    45.1%  44.2%  39.9%  17.7%       36.7%
 ```
 
-## By actual facility
+## By actual facility (hit rates)
 
 ```
-                     n facility    day   hour  nudge
-y_fac                                               
-Gym                714    71.1%  42.4%  52.2%  16.7%
-Pool               409    50.9%  37.4%  44.0%  14.9%
-Badminton Court    503    44.1%  37.4%  39.2%  13.5%
-Tennis Court       362    31.5%  44.8%  33.4%  14.4%
-Clubhouse          316    18.7%  38.0%  18.4%  14.9%
-Multipurpose Hall  268    23.5%  39.6%  20.5%  18.7%
+                  Bookings Facility    Day   Hour  Nudge
+Actual facility                                         
+Gym                    723    62.7%  44.3%  54.9%  17.6%
+Pool                   522    51.5%  42.3%  45.8%  17.6%
+Badminton Court        454    44.1%  42.5%  33.9%  17.2%
+Tennis Court           374    28.6%  37.7%  33.7%  15.5%
+Clubhouse              369    36.9%  42.5%  30.6%  19.0%
+Multipurpose Hall      294    23.1%  44.2%  18.4%  17.0%
 ```
 
 ## Facility confusion (counts)
 
 ```
-predicted          Badminton Court  Clubhouse  Gym  Multipurpose Hall  Pool  Tennis Court
-actual                                                                                   
-Badminton Court                222         24  115                 17    81            44
-Clubhouse                       30         59  105                 23    60            39
-Gym                             38         11  508                 39    79            39
-Multipurpose Hall               29         13   74                 63    45            44
-Pool                            48         17   88                 18   208            30
-Tennis Court                    30         24  109                 27    58           114
+predicted         Badminton Court Clubhouse  Gym Multipurpose Hall Pool Tennis Court
+actual                                                                              
+Badminton Court               200        47  115                12   44           36
+Clubhouse                      52       136   69                15   58           39
+Gym                            97        32  453                37   67           37
+Multipurpose Hall              32        24   96                68   46           28
+Pool                           58        42  104                17  269           32
+Tennis Court                   62        32  101                16   56          107
 ```

@@ -18,7 +18,7 @@ def _past(bookings, fac_names, n=3):
     """Text for each booking's previous n bookings, newest last: 'Gym / Mon / 07:00 / booked Sun 18:20'."""
     b = bookings.sort_values(["booking_ts", "booking_id"])
     line = (b.facility_id.map(fac_names) + " / " + b.usage_ts.dt.dayofweek.map(dict(enumerate(DAYS))) + " / "
-            + b.usage_ts.dt.strftime("%H:%M") + " / booked " + b.booking_ts.dt.dayofweek.map(dict(enumerate(DAYS)))
+            + b.usage_ts.dt.strftime("%H:00") + " / booked " + b.booking_ts.dt.dayofweek.map(dict(enumerate(DAYS)))
             + " " + b.booking_ts.dt.strftime("%H:%M"))
     g = pd.DataFrame({"resident_id": b.resident_id, "line": line})
     cols = [g.groupby("resident_id").line.shift(i) for i in range(n, 0, -1)]
@@ -46,13 +46,21 @@ def review_table(X, P, h, bookings, fac_names):
     return t
 
 
+def _fmt(cell, label):
+    """Number format for a summary cell: MAEs as plain decimals, other fractions as percentages."""
+    if isinstance(cell.value, float):
+        cell.number_format = "0.00" if "mae" in label.lower() else "0.0%"
+
+
 def write_workbook(path, table, summary_blocks):
-    """summary_blocks: list of (title, DataFrame). Written to a 'Summary' sheet, then 'Predictions'."""
+    """summary_blocks: list of (title, numeric DataFrame). Written to a 'Summary' sheet, then 'Predictions'.
+    Cells stay numeric (sortable); formats are applied afterwards."""
     with pd.ExcelWriter(path, engine="openpyxl") as xw:
-        row = 0
+        row, spans = 0, []
         for title, df in summary_blocks:
             pd.DataFrame([[title]]).to_excel(xw, "Summary", startrow=row, index=False, header=False)
             df.to_excel(xw, "Summary", startrow=row + 1)
+            spans.append((row + 3, row + 2 + len(df), df))  # first/last data row (1-based), frame
             row += len(df) + 4
         table.to_excel(xw, "Predictions", index=False)
         ws, summ = xw.sheets["Predictions"], xw.sheets["Summary"]
@@ -67,6 +75,13 @@ def write_workbook(path, table, summary_blocks):
             for i in flag_cols:
                 r[i - 1].fill = GREEN if r[i - 1].value == "YES" else RED
         ws.freeze_panes, ws.auto_filter.ref = "C2", ws.dimensions
+        for first, last, df in spans:
+            for r in summ.iter_rows(min_row=first, max_row=last):
+                label = " ".join(str(c.value) for c in r if isinstance(c.value, str))
+                for j, c in enumerate(r):
+                    k = j - df.index.nlevels
+                    head = str(df.columns[k]) if 0 <= k < len(df.columns) else ""
+                    _fmt(c, label + " " + head)
         summ.column_dimensions["A"].width = 30
         for i in range(2, 12):
             summ.column_dimensions[get_column_letter(i)].width = 16

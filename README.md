@@ -27,15 +27,15 @@ pytest -q                             # leakage and reproducibility tests
 `outputs/prediction_review.xlsx` (+ `.csv`). `run train` and `run evaluate` run the two halves separately.
 Results are deterministic: rerunning reproduces `results/metrics.json` exactly.
 
-## Result on the held-out period (2,572 bookings, from 2025-11-01)
+## Result on the held-out period (2,736 bookings, from 2025-11-01)
 
 | | Facility | Day | Hour | Nudge | Mean k of 4 | All 4 |
 |---|---|---|---|---|---|---|
-| Model | 45.6% | 40.1% | 38.3% | 15.4% | 34.9% | 4.1% |
-| Baseline: resident's own habit | 48.8% | 27.1% | 40.9% | 11.5% | 32.1% | 3.3% |
+| Model | 45.1% | 42.5% | 39.6% | 17.4% | 36.1% | 3.7% |
+| Baseline: resident's own habit | 47.6% | 27.5% | 39.8% | 12.7% | 31.9% | 2.9% |
 
-The model wins overall and clearly on usage day, but a simple per-resident habit rule is slightly better on facility and
-hour. Nudge hit = nudge weekday correct and booking time within 30 minutes. See the technical document for limitations.
+The model wins overall and clearly on usage day and nudge, but a simple per-resident habit rule is slightly better on facility and
+ties on hour. Nudge hit = nudge weekday correct and booking time within 30 minutes. See the technical document for limitations.
 
 ## Layout
 

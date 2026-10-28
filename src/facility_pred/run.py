@@ -8,6 +8,7 @@ import argparse
 import json
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 
 from . import data_gen, evaluate as E, models as M, review
@@ -38,9 +39,12 @@ def train():
 def _pct(df):
     """Format fractions as percentages; MAE columns (hours / minutes) as plain numbers."""
     out = df.copy().astype(object)
-    for c in df.columns:
-        fmt = (lambda v: f"{v:.2f}") if "mae" in str(c) else (lambda v: f"{v:.1%}")
-        out[c] = df[c].map(lambda v: fmt(v) if isinstance(v, float) and pd.notna(v) else ("" if pd.isna(v) else v))
+    for i in range(len(df)):
+        mae = "mae" in " ".join(map(str, np.atleast_1d(df.index[i]))).lower()
+        for j, c in enumerate(df.columns):
+            v = df.iloc[i, j]
+            if isinstance(v, float):
+                out.iloc[i, j] = f"{v:.2f}" if mae or "mae" in str(c) else f"{v:.1%}"
     return out
 
 
@@ -69,12 +73,19 @@ def evaluate():
     by_fac.index = by_fac.index.map(lambda i: fac[f"F{int(i) + 1}"])
     conf = pd.crosstab(test.y_fac.map(lambda i: fac[f"F{int(i) + 1}"]), P.p_fac.map(lambda i: fac[f"F{int(i) + 1}"]),
                        rownames=["actual"], colnames=["predicted"])
-    overall = pd.DataFrame({"value": model_m["overall"]}).rename(index={"mean_k_of_4": "Mean k of 4", "all_4_match": "All 4 match"})
-
-    blocks = [(f"Overall (test split, {len(test)} bookings)", _pct(overall)),
-              ("Per-output metrics", _pct(per_out)),
-              ("Model vs baselines", _pct(comp)),
-              ("By amount of resident history", _pct(by_hist)), ("By actual facility", _pct(by_fac)),
+    overall = pd.DataFrame({"Value": model_m["overall"]}).rename(
+        index={"mean_k_of_4": "Mean k of 4", "all_4_match": "All 4 match"})
+    per_out = per_out.stack().rename("Value").to_frame()
+    per_out.index.names = ["Output", "Metric"]
+    comp.index.name = "Method"
+    by_hist = by_hist.rename(columns=str.title).rename(columns={"N": "Bookings", "Mean_K_Of_4": "Mean k of 4"})
+    by_hist.index.name = "Prior bookings"
+    by_fac = by_fac.rename(columns=str.title).rename(columns={"N": "Bookings"})
+    by_fac.index.name = "Actual facility"
+    blocks = [(f"Overall (test split, {len(test)} bookings)", overall),
+              ("Per-output metrics", per_out),
+              ("Model vs baselines", comp),
+              ("By amount of resident history (hit rates)", by_hist), ("By actual facility (hit rates)", by_fac),
               ("Facility confusion (counts)", conf)]
     table = review.review_table(test, P, h, bookings, fac)
     Path("outputs").mkdir(exist_ok=True)
@@ -82,7 +93,7 @@ def evaluate():
     table.to_csv("outputs/prediction_review.csv", index=False)
 
     md = ["# Test-split results\n", f"{len(test)} bookings from {test.booking_ts.min():%Y-%m-%d} onward.\n"]
-    md += [f"## {t}\n\n```\n{d.to_string()}\n```\n" for t, d in blocks]
+    md += [f"## {t}\n\n```\n{_pct(d).to_string()}\n```\n" for t, d in blocks]
     (RESULTS / "results.md").write_text("\n".join(md))
     print(comp.map(lambda v: f"{v:.1%}").to_string())
     print("\nwrote results/metrics.json, results/results.md, outputs/prediction_review.xlsx")
