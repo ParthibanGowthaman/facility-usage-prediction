@@ -1,0 +1,2737 @@
+booking_id,resident_id,predicted_facility,predicted_day,predicted_hour,predicted_nudge_day,predicted_nudge_time
+B-012387,R-342,Pool,Mon,17:00,Sun,17:03
+B-012388,R-101,Gym,Sat,18:00,Fri,17:51
+B-012389,R-234,Badminton Court,Thu,19:00,Wed,08:40
+B-012390,R-169,Pool,Mon,18:00,Sun,21:20
+B-012391,R-192,Multipurpose Hall,Tue,15:00,Mon,08:51
+B-012392,R-136,Badminton Court,Wed,18:00,Wed,09:39
+B-012393,R-147,Clubhouse,Sat,19:00,Fri,16:10
+B-012394,R-311,Pool,Wed,07:00,Tue,13:10
+B-012395,R-111,Gym,Sun,19:00,Sat,09:32
+B-012396,R-101,Gym,Sun,18:00,Sat,17:51
+B-012397,R-275,Gym,Mon,07:00,Sun,10:13
+B-012398,R-353,Gym,Thu,19:00,Thu,10:11
+B-012399,R-221,Badminton Court,Tue,07:00,Mon,10:14
+B-012400,R-177,Pool,Sat,07:00,Fri,10:16
+B-012401,R-237,Gym,Tue,19:00,Tue,16:01
+B-012402,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-012403,R-338,Clubhouse,Sun,11:00,Sat,11:24
+B-012404,R-193,Multipurpose Hall,Sat,18:00,Thu,18:38
+B-012405,R-242,Gym,Fri,19:00,Thu,11:49
+B-012406,R-347,Pool,Sun,18:00,Sun,12:29
+B-012407,R-153,Pool,Sat,08:00,Fri,19:06
+B-012408,R-230,Badminton Court,Tue,19:00,Mon,12:54
+B-012409,R-181,Pool,Wed,07:00,Tue,21:51
+B-012410,R-230,Badminton Court,Mon,19:00,Sun,12:54
+B-012411,R-324,Gym,Sun,06:00,Sat,10:50
+B-012412,R-319,Badminton Court,Mon,11:00,Sun,13:38
+B-012413,R-260,Pool,Mon,18:00,Sun,15:39
+B-012414,R-360,Tennis Court,Sun,18:00,Sat,16:07
+B-012415,R-237,Gym,Tue,19:00,Tue,16:01
+B-012416,R-375,Gym,Thu,06:00,Wed,16:30
+B-012417,R-384,Pool,Sat,07:00,Fri,16:43
+B-012418,R-221,Badminton Court,Wed,07:00,Tue,10:14
+B-012419,R-114,Gym,Fri,19:00,Thu,19:09
+B-012420,R-178,Pool,Sun,17:00,Sat,19:06
+B-012421,R-183,Badminton Court,Sun,06:00,Sat,15:23
+B-012422,R-300,Gym,Fri,19:00,Thu,08:30
+B-012423,R-292,Gym,Fri,19:00,Thu,20:01
+B-012424,R-135,Tennis Court,Thu,18:00,Wed,15:29
+B-012425,R-210,Gym,Sat,07:00,Fri,20:10
+B-012426,R-372,Badminton Court,Sun,21:00,Sat,14:46
+B-012427,R-379,Multipurpose Hall,Sun,06:00,Sat,12:40
+B-012428,R-343,Multipurpose Hall,Sun,18:00,Sat,20:00
+B-012429,R-309,Gym,Mon,18:00,Sun,20:51
+B-012430,R-112,Badminton Court,Thu,19:00,Wed,21:25
+B-012431,R-200,Clubhouse,Wed,07:00,Tue,15:26
+B-012432,R-261,Pool,Sun,11:00,Sat,08:29
+B-012433,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-012434,R-221,Badminton Court,Tue,07:00,Mon,10:14
+B-012435,R-366,Gym,Wed,18:00,Wed,10:05
+B-012436,R-117,Gym,Mon,07:00,Sun,10:50
+B-012437,R-321,Tennis Court,Mon,17:00,Sun,09:51
+B-012438,R-388,Gym,Sun,06:00,Sat,18:49
+B-012439,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-012440,R-225,Gym,Sun,11:00,Sat,09:51
+B-012441,R-163,Multipurpose Hall,Mon,17:00,Sun,18:29
+B-012442,R-239,Multipurpose Hall,Mon,07:00,Sun,10:58
+B-012443,R-314,Clubhouse,Fri,19:00,Thu,11:18
+B-012444,R-122,Clubhouse,Fri,11:00,Thu,15:27
+B-012445,R-166,Clubhouse,Wed,11:00,Tue,11:26
+B-012446,R-207,Gym,Sun,19:00,Sun,12:00
+B-012447,R-141,Badminton Court,Mon,21:00,Sun,18:45
+B-012448,R-242,Gym,Tue,19:00,Tue,11:49
+B-012449,R-398,Badminton Court,Sun,07:00,Sun,10:50
+B-012450,R-118,Clubhouse,Sun,19:00,Sat,10:30
+B-012451,R-289,Tennis Court,Thu,07:00,Wed,20:19
+B-012452,R-154,Gym,Wed,06:00,Sun,13:27
+B-012453,R-154,Badminton Court,Wed,06:00,Tue,13:27
+B-012454,R-319,Clubhouse,Wed,11:00,Tue,13:38
+B-012455,R-172,Gym,Sun,19:00,Sat,21:24
+B-012456,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-012457,R-125,Multipurpose Hall,Tue,20:00,Tue,10:45
+B-012458,R-203,Tennis Court,Mon,18:00,Sun,15:15
+B-012459,R-203,Tennis Court,Thu,18:00,Wed,15:15
+B-012460,R-287,Badminton Court,Sun,17:00,Sat,10:58
+B-012461,R-220,Pool,Mon,18:00,Sun,21:33
+B-012462,R-153,Pool,Sun,17:00,Sat,19:06
+B-012463,R-369,Gym,Fri,18:00,Thu,17:14
+B-012464,R-197,Gym,Sun,19:00,Sat,18:05
+B-012465,R-285,Pool,Tue,11:00,Mon,18:22
+B-012466,R-125,Multipurpose Hall,Mon,19:00,Mon,10:45
+B-012467,R-356,Gym,Fri,11:00,Thu,18:46
+B-012468,R-163,Gym,Mon,17:00,Sun,18:29
+B-012469,R-386,Pool,Thu,18:00,Thu,19:26
+B-012470,R-284,Pool,Mon,07:00,Sun,19:46
+B-012471,R-183,Badminton Court,Mon,21:00,Sun,15:23
+B-012472,R-188,Pool,Tue,18:00,Mon,20:07
+B-012473,R-188,Pool,Fri,18:00,Thu,20:07
+B-012474,R-229,Gym,Wed,06:00,Tue,12:49
+B-012475,R-142,Tennis Court,Sat,07:00,Fri,20:34
+B-012476,R-222,Pool,Mon,17:00,Sun,18:54
+B-012477,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-012478,R-352,Gym,Mon,18:00,Mon,08:23
+B-012479,R-273,Gym,Wed,06:00,Tue,08:18
+B-012480,R-324,Gym,Wed,15:00,Tue,13:20
+B-012481,R-261,Pool,Wed,11:00,Tue,08:29
+B-012482,R-191,Clubhouse,Sun,11:00,Sat,12:11
+B-012483,R-192,Multipurpose Hall,Sun,15:00,Sat,08:51
+B-012484,R-252,Gym,Tue,07:00,Mon,20:39
+B-012485,R-166,Clubhouse,Thu,11:00,Wed,11:26
+B-012486,R-366,Gym,Wed,18:00,Wed,10:05
+B-012487,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-012488,R-166,Clubhouse,Thu,11:00,Wed,11:26
+B-012489,R-216,Gym,Mon,19:00,Mon,11:27
+B-012490,R-216,Gym,Tue,19:00,Tue,11:27
+B-012491,R-218,Gym,Sun,06:00,Sat,14:40
+B-012492,R-123,Gym,Tue,06:00,Mon,11:42
+B-012493,R-242,Gym,Thu,19:00,Wed,11:49
+B-012494,R-242,Gym,Thu,19:00,Wed,11:49
+B-012495,R-347,Pool,Thu,18:00,Thu,12:29
+B-012496,R-128,Pool,Sat,11:00,Fri,17:47
+B-012497,R-154,Badminton Court,Wed,06:00,Sun,13:27
+B-012498,R-298,Gym,Sat,18:00,Thu,14:42
+B-012499,R-329,Pool,Sat,07:00,Fri,14:14
+B-012500,R-259,Badminton Court,Wed,07:00,Tue,10:39
+B-012501,R-157,Pool,Wed,19:00,Tue,14:40
+B-012502,R-107,Badminton Court,Thu,19:00,Tue,12:00
+B-012503,R-249,Badminton Court,Sat,19:00,Fri,15:35
+B-012504,R-165,Badminton Court,Sat,21:00,Fri,16:56
+B-012505,R-370,Tennis Court,Wed,08:00,Tue,10:21
+B-012506,R-199,Gym,Tue,19:00,Mon,10:55
+B-012507,R-285,Clubhouse,Tue,17:00,Mon,18:22
+B-012508,R-105,Gym,Wed,17:00,Tue,18:15
+B-012509,R-305,Badminton Court,Mon,20:00,Fri,18:23
+B-012510,R-284,Pool,Tue,07:00,Mon,19:46
+B-012511,R-109,Pool,Tue,07:00,Mon,20:25
+B-012512,R-364,Gym,Wed,07:00,Tue,21:29
+B-012513,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-012514,R-364,Gym,Thu,07:00,Wed,21:29
+B-012515,R-131,Gym,Wed,18:00,Mon,21:25
+B-012516,R-149,Gym,Fri,07:00,Thu,10:46
+B-012517,R-371,Badminton Court,Wed,19:00,Tue,20:14
+B-012518,R-378,Pool,Wed,18:00,Tue,15:00
+B-012519,R-324,Gym,Wed,06:00,Tue,13:20
+B-012520,R-159,Gym,Fri,18:00,Thu,10:08
+B-012521,R-311,Pool,Wed,07:00,Tue,13:10
+B-012522,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-012523,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-012524,R-234,Badminton Court,Tue,19:00,Tue,08:40
+B-012525,R-322,Tennis Court,Fri,18:00,Thu,17:00
+B-012526,R-306,Badminton Court,Mon,19:00,Sun,08:55
+B-012527,R-226,Multipurpose Hall,Tue,15:00,Mon,20:37
+B-012528,R-204,Multipurpose Hall,Thu,20:00,Wed,09:57
+B-012529,R-368,Gym,Sat,18:00,Fri,09:49
+B-012530,R-275,Gym,Sun,07:00,Sat,10:13
+B-012531,R-241,Pool,Wed,07:00,Tue,16:48
+B-012532,R-125,Multipurpose Hall,Tue,19:00,Tue,10:45
+B-012533,R-291,Clubhouse,Wed,07:00,Tue,19:34
+B-012534,R-254,Gym,Fri,19:00,Fri,11:33
+B-012535,R-272,Badminton Court,Thu,21:00,Wed,19:02
+B-012536,R-320,Gym,Wed,06:00,Tue,12:47
+B-012537,R-347,Pool,Thu,18:00,Thu,12:29
+B-012538,R-327,Gym,Sun,21:00,Sat,13:03
+B-012539,R-288,Tennis Court,Thu,18:00,Wed,13:03
+B-012540,R-354,Clubhouse,Tue,07:00,Mon,16:54
+B-012541,R-155,Multipurpose Hall,Mon,18:00,Sun,13:15
+B-012542,R-312,Pool,Tue,18:00,Tue,12:32
+B-012543,R-298,Gym,Thu,18:00,Wed,14:42
+B-012544,R-224,Gym,Wed,07:00,Tue,15:08
+B-012545,R-251,Gym,Wed,06:00,Tue,15:04
+B-012546,R-101,Pool,Wed,18:00,Tue,17:51
+B-012547,R-384,Pool,Mon,07:00,Sun,16:43
+B-012548,R-370,Clubhouse,Fri,08:00,Thu,10:21
+B-012549,R-276,Tennis Court,Tue,07:00,Mon,08:04
+B-012550,R-144,Pool,Mon,07:00,Sun,16:36
+B-012551,R-108,Tennis Court,Sat,19:00,Fri,16:48
+B-012552,R-261,Pool,Wed,11:00,Tue,08:29
+B-012553,R-300,Gym,Wed,19:00,Wed,08:30
+B-012554,R-315,Gym,Sun,18:00,Sat,17:08
+B-012555,R-394,Gym,Tue,07:00,Mon,18:10
+B-012556,R-101,Gym,Sat,18:00,Fri,17:51
+B-012557,R-291,Clubhouse,Wed,07:00,Tue,19:34
+B-012558,R-372,Tennis Court,Tue,21:00,Mon,14:46
+B-012559,R-304,Multipurpose Hall,Wed,15:00,Tue,20:30
+B-012560,R-267,Tennis Court,Sat,08:00,Thu,20:23
+B-012561,R-134,Badminton Court,Sat,19:00,Thu,21:13
+B-012562,R-198,Gym,Thu,06:00,Wed,08:52
+B-012563,R-357,Tennis Court,Fri,18:00,Thu,21:33
+B-012564,R-181,Pool,Wed,07:00,Tue,21:51
+B-012565,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-012566,R-319,Clubhouse,Wed,11:00,Tue,13:38
+B-012567,R-248,Pool,Sun,17:00,Sat,08:43
+B-012568,R-192,Multipurpose Hall,Sun,15:00,Sat,08:51
+B-012569,R-261,Pool,Thu,17:00,Wed,08:29
+B-012570,R-366,Gym,Wed,18:00,Wed,10:05
+B-012571,R-337,Gym,Wed,19:00,Tue,09:05
+B-012572,R-297,Badminton Court,Sun,19:00,Sun,09:18
+B-012573,R-181,Pool,Sun,07:00,Sat,21:51
+B-012574,R-127,Tennis Court,Sat,18:00,Fri,10:08
+B-012575,R-118,Clubhouse,Thu,19:00,Wed,10:30
+B-012576,R-400,Pool,Sun,17:00,Sat,15:33
+B-012577,R-145,Pool,Sun,17:00,Sun,10:23
+B-012578,R-104,Badminton Court,Fri,19:00,Thu,10:30
+B-012579,R-149,Gym,Thu,07:00,Wed,10:46
+B-012580,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-012581,R-166,Badminton Court,Thu,11:00,Wed,11:26
+B-012582,R-277,Tennis Court,Mon,18:00,Sun,11:41
+B-012583,R-265,Badminton Court,Sat,07:00,Fri,13:05
+B-012584,R-262,Badminton Court,Wed,20:00,Tue,15:15
+B-012585,R-229,Gym,Wed,19:00,Tue,12:49
+B-012586,R-379,Multipurpose Hall,Tue,06:00,Mon,12:40
+B-012587,R-363,Gym,Fri,19:00,Thu,12:50
+B-012588,R-363,Gym,Wed,19:00,Wed,12:50
+B-012589,R-330,Tennis Court,Mon,17:00,Sun,16:08
+B-012590,R-102,Gym,Thu,20:00,Wed,14:26
+B-012591,R-310,Gym,Thu,18:00,Wed,08:45
+B-012592,R-345,Clubhouse,Sun,11:00,Sat,15:07
+B-012593,R-203,Badminton Court,Wed,18:00,Tue,15:15
+B-012594,R-249,Badminton Court,Thu,20:00,Wed,15:35
+B-012595,R-121,Badminton Court,Sun,16:00,Sat,20:00
+B-012596,R-262,Badminton Court,Thu,20:00,Wed,15:15
+B-012597,R-214,Gym,Wed,06:00,Tue,14:31
+B-012598,R-369,Gym,Tue,18:00,Mon,17:14
+B-012599,R-394,Gym,Thu,07:00,Wed,18:10
+B-012600,R-208,Gym,Wed,18:00,Tue,16:45
+B-012601,R-298,Gym,Thu,06:00,Wed,14:42
+B-012602,R-149,Gym,Fri,07:00,Thu,10:46
+B-012603,R-219,Clubhouse,Mon,19:00,Sun,20:03
+B-012604,R-241,Pool,Thu,07:00,Wed,16:48
+B-012605,R-304,Pool,Thu,15:00,Wed,20:30
+B-012606,R-237,Gym,Tue,19:00,Tue,16:01
+B-012607,R-325,Pool,Sun,18:00,Sat,21:07
+B-012608,R-206,Badminton Court,Thu,19:00,Wed,21:24
+B-012609,R-367,Badminton Court,Tue,18:00,Mon,08:02
+B-012610,R-248,Pool,Fri,17:00,Thu,08:43
+B-012611,R-304,Multipurpose Hall,Sat,15:00,Fri,20:30
+B-012612,R-234,Pool,Sat,19:00,Sat,08:40
+B-012613,R-373,Pool,Wed,18:00,Mon,08:29
+B-012614,R-300,Gym,Fri,19:00,Thu,08:30
+B-012615,R-337,Gym,Sat,19:00,Fri,09:06
+B-012616,R-387,Gym,Fri,18:00,Wed,17:39
+B-012617,R-136,Badminton Court,Wed,18:00,Wed,09:39
+B-012618,R-347,Pool,Thu,18:00,Thu,12:29
+B-012619,R-127,Pool,Sat,07:00,Fri,10:08
+B-012620,R-159,Gym,Thu,18:00,Wed,10:08
+B-012621,R-126,Multipurpose Hall,Fri,17:00,Thu,10:27
+B-012622,R-159,Gym,Thu,18:00,Wed,10:08
+B-012623,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-012624,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-012625,R-254,Gym,Thu,19:00,Thu,11:33
+B-012626,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-012627,R-207,Gym,Mon,19:00,Mon,12:00
+B-012628,R-273,Gym,Wed,06:00,Tue,08:18
+B-012629,R-209,Gym,Sat,07:00,Fri,19:54
+B-012630,R-123,Gym,Fri,06:00,Thu,11:42
+B-012631,R-135,Tennis Court,Thu,18:00,Wed,15:29
+B-012632,R-154,Gym,Thu,06:00,Wed,13:27
+B-012633,R-272,Badminton Court,Thu,21:00,Wed,19:02
+B-012634,R-254,Gym,Thu,19:00,Thu,11:33
+B-012635,R-393,Clubhouse,Tue,16:00,Mon,14:14
+B-012636,R-224,Gym,Thu,07:00,Wed,15:08
+B-012637,R-188,Pool,Fri,18:00,Thu,20:07
+B-012638,R-298,Gym,Sat,06:00,Thu,14:42
+B-012639,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-012640,R-203,Badminton Court,Wed,19:00,Tue,15:15
+B-012641,R-224,Badminton Court,Wed,21:00,Tue,15:08
+B-012642,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-012643,R-322,Gym,Fri,18:00,Thu,17:00
+B-012644,R-289,Tennis Court,Thu,07:00,Wed,20:19
+B-012645,R-214,Gym,Thu,06:00,Wed,14:54
+B-012646,R-387,Gym,Fri,18:00,Wed,17:39
+B-012647,R-226,Multipurpose Hall,Sun,15:00,Sat,20:37
+B-012648,R-193,Multipurpose Hall,Sun,19:00,Fri,18:38
+B-012649,R-114,Gym,Fri,19:00,Thu,19:09
+B-012650,R-109,Clubhouse,Fri,18:00,Thu,20:25
+B-012651,R-292,Badminton Court,Tue,19:00,Mon,20:01
+B-012652,R-382,Pool,Sat,17:00,Fri,19:55
+B-012653,R-366,Gym,Sun,18:00,Sun,10:05
+B-012654,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-012655,R-162,Pool,Sat,18:00,Fri,20:19
+B-012656,R-267,Tennis Court,Sat,07:00,Fri,20:23
+B-012657,R-188,Pool,Fri,18:00,Thu,20:07
+B-012658,R-300,Gym,Sun,19:00,Sat,08:30
+B-012659,R-220,Tennis Court,Fri,18:00,Thu,21:33
+B-012660,R-326,Gym,Thu,19:00,Thu,18:14
+B-012661,R-220,Pool,Sun,18:00,Sat,21:33
+B-012662,R-382,Gym,Sat,07:00,Fri,19:55
+B-012663,R-285,Pool,Fri,17:00,Thu,18:05
+B-012664,R-276,Gym,Tue,07:00,Mon,08:04
+B-012665,R-313,Tennis Court,Mon,07:00,Sun,08:19
+B-012666,R-305,Badminton Court,Fri,20:00,Tue,18:23
+B-012667,R-148,Pool,Sat,18:00,Fri,08:47
+B-012668,R-193,Gym,Sun,19:00,Sat,18:38
+B-012669,R-321,Tennis Court,Thu,17:00,Wed,09:51
+B-012670,R-319,Clubhouse,Sat,11:00,Wed,13:38
+B-012671,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-012672,R-118,Gym,Sat,19:00,Fri,10:30
+B-012673,R-117,Gym,Fri,07:00,Thu,10:50
+B-012674,R-287,Badminton Court,Sat,19:00,Fri,10:58
+B-012675,R-199,Badminton Court,Thu,19:00,Wed,10:55
+B-012676,R-212,Gym,Tue,07:00,Mon,11:16
+B-012677,R-195,Gym,Sun,18:00,Sun,14:34
+B-012678,R-107,Badminton Court,Thu,19:00,Wed,12:00
+B-012679,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-012680,R-242,Gym,Sun,19:00,Sat,11:49
+B-012681,R-275,Gym,Sun,07:00,Sat,10:13
+B-012682,R-170,Clubhouse,Sat,16:00,Sat,12:29
+B-012683,R-160,Clubhouse,Sun,07:00,Sat,13:09
+B-012684,R-363,Tennis Court,Fri,19:00,Thu,12:50
+B-012685,R-240,Gym,Sun,18:00,Sat,12:53
+B-012686,R-288,Tennis Court,Mon,18:00,Sun,13:03
+B-012687,R-172,Gym,Sat,19:00,Sat,21:24
+B-012688,R-311,Pool,Sat,07:00,Fri,13:10
+B-012689,R-331,Gym,Sat,06:00,Fri,13:36
+B-012690,R-389,Badminton Court,Fri,19:00,Thu,13:39
+B-012691,R-263,Pool,Thu,17:00,Wed,10:20
+B-012692,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-012693,R-180,Badminton Court,Mon,17:00,Sat,16:06
+B-012694,R-137,Pool,Sat,07:00,Fri,16:43
+B-012695,R-271,Pool,Sat,07:00,Fri,13:42
+B-012696,R-187,Clubhouse,Sat,11:00,Fri,17:41
+B-012697,R-387,Gym,Thu,18:00,Tue,17:39
+B-012698,R-105,Tennis Court,Fri,17:00,Thu,18:15
+B-012699,R-135,Tennis Court,Sun,18:00,Sun,15:29
+B-012700,R-105,Tennis Court,Wed,19:00,Tue,18:15
+B-012701,R-139,Gym,Thu,05:00,Wed,16:08
+B-012702,R-285,Tennis Court,Mon,11:00,Sun,18:05
+B-012703,R-167,Multipurpose Hall,Wed,19:00,Tue,18:59
+B-012704,R-257,Clubhouse,Fri,19:00,Thu,20:01
+B-012705,R-210,Gym,Sun,19:00,Sat,20:10
+B-012706,R-390,Multipurpose Hall,Sun,18:00,Sat,20:39
+B-012707,R-289,Tennis Court,Fri,07:00,Thu,20:19
+B-012708,R-368,Gym,Sat,06:00,Fri,09:49
+B-012709,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-012710,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-012711,R-134,Badminton Court,Sun,19:00,Sat,21:13
+B-012712,R-132,Badminton Court,Wed,21:00,Tue,21:16
+B-012713,R-273,Gym,Sat,06:00,Fri,08:18
+B-012714,R-220,Tennis Court,Sun,18:00,Sat,21:33
+B-012715,R-169,Pool,Mon,18:00,Sun,21:20
+B-012716,R-299,Pool,Sat,18:00,Fri,20:49
+B-012717,R-251,Gym,Sun,06:00,Sat,15:04
+B-012718,R-367,Badminton Court,Mon,20:00,Sun,08:02
+B-012719,R-248,Pool,Sun,17:00,Sat,08:43
+B-012720,R-108,Tennis Court,Thu,11:00,Wed,16:48
+B-012721,R-203,Tennis Court,Mon,19:00,Sun,15:15
+B-012722,R-159,Gym,Thu,18:00,Tue,10:08
+B-012723,R-213,Gym,Tue,18:00,Mon,17:13
+B-012724,R-398,Badminton Court,Thu,07:00,Thu,10:50
+B-012725,R-166,Clubhouse,Wed,11:00,Tue,11:26
+B-012726,R-343,Pool,Sat,18:00,Fri,20:00
+B-012727,R-242,Gym,Sun,19:00,Sat,11:49
+B-012728,R-247,Gym,Tue,19:00,Mon,10:41
+B-012729,R-230,Badminton Court,Sun,19:00,Sat,12:54
+B-012730,R-298,Gym,Sat,06:00,Fri,14:42
+B-012731,R-218,Gym,Fri,06:00,Thu,14:40
+B-012732,R-235,Pool,Wed,18:00,Tue,17:15
+B-012733,R-172,Gym,Sun,19:00,Sun,21:24
+B-012734,R-347,Pool,Sun,18:00,Sun,12:29
+B-012735,R-249,Badminton Court,Sat,20:00,Fri,15:35
+B-012736,R-400,Pool,Sun,17:00,Sat,15:33
+B-012737,R-370,Clubhouse,Fri,08:00,Thu,10:21
+B-012738,R-360,Pool,Mon,18:00,Sun,16:07
+B-012739,R-180,Badminton Court,Mon,19:00,Sat,16:06
+B-012740,R-318,Gym,Wed,07:00,Tue,16:54
+B-012741,R-315,Gym,Sun,18:00,Sat,17:08
+B-012742,R-222,Pool,Thu,17:00,Wed,18:54
+B-012743,R-364,Gym,Thu,07:00,Wed,21:29
+B-012744,R-143,Clubhouse,Sun,19:00,Sat,09:57
+B-012745,R-387,Gym,Thu,18:00,Wed,17:57
+B-012746,R-161,Gym,Sun,06:00,Sat,21:12
+B-012747,R-131,Gym,Sun,07:00,Fri,21:25
+B-012748,R-199,Badminton Court,Tue,18:00,Mon,10:55
+B-012749,R-201,Pool,Thu,07:00,Wed,07:56
+B-012750,R-297,Badminton Court,Sun,19:00,Sat,09:18
+B-012751,R-313,Tennis Court,Mon,07:00,Sun,08:19
+B-012752,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-012753,R-300,Gym,Fri,19:00,Thu,08:30
+B-012754,R-324,Gym,Sun,06:00,Sat,13:20
+B-012755,R-143,Clubhouse,Sun,19:00,Sat,09:57
+B-012756,R-275,Gym,Sun,07:00,Sat,10:13
+B-012757,R-117,Gym,Mon,07:00,Sun,10:50
+B-012758,R-275,Gym,Thu,07:00,Wed,10:13
+B-012759,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-012760,R-140,Gym,Tue,07:00,Mon,11:20
+B-012761,R-338,Clubhouse,Fri,11:00,Thu,11:24
+B-012762,R-103,Tennis Court,Wed,18:00,Tue,11:22
+B-012763,R-365,Clubhouse,Fri,19:00,Thu,12:04
+B-012764,R-192,Multipurpose Hall,Tue,15:00,Mon,08:51
+B-012765,R-387,Gym,Thu,18:00,Wed,17:57
+B-012766,R-242,Gym,Thu,19:00,Wed,11:49
+B-012767,R-347,Pool,Sun,18:00,Sun,12:29
+B-012768,R-229,Gym,Thu,06:00,Wed,12:49
+B-012769,R-312,Pool,Mon,18:00,Mon,12:32
+B-012770,R-319,Pool,Mon,18:00,Sun,13:38
+B-012771,R-132,Badminton Court,Sun,21:00,Sat,21:16
+B-012772,R-295,Pool,Tue,07:00,Mon,14:44
+B-012773,R-242,Gym,Thu,19:00,Thu,11:52
+B-012774,R-372,Badminton Court,Sun,21:00,Sat,14:46
+B-012775,R-360,Gym,Mon,07:00,Sun,16:07
+B-012776,R-335,Clubhouse,Sat,11:00,Fri,16:30
+B-012777,R-306,Badminton Court,Thu,06:00,Wed,09:14
+B-012778,R-241,Pool,Wed,07:00,Tue,16:48
+B-012779,R-333,Tennis Court,Tue,18:00,Mon,17:05
+B-012780,R-115,Tennis Court,Sun,18:00,Fri,17:27
+B-012781,R-248,Pool,Mon,17:00,Sun,08:43
+B-012782,R-305,Badminton Court,Wed,20:00,Tue,18:23
+B-012783,R-305,Badminton Court,Wed,20:00,Tue,18:23
+B-012784,R-356,Gym,Wed,11:00,Tue,18:46
+B-012785,R-285,Pool,Mon,17:00,Sun,18:05
+B-012786,R-125,Multipurpose Hall,Mon,19:00,Mon,10:45
+B-012787,R-324,Gym,Wed,06:00,Tue,08:57
+B-012788,R-176,Badminton Court,Fri,20:00,Thu,20:23
+B-012789,R-366,Gym,Sun,18:00,Sun,10:05
+B-012790,R-390,Multipurpose Hall,Sat,18:00,Fri,20:39
+B-012791,R-194,Badminton Court,Tue,19:00,Mon,13:11
+B-012792,R-182,Clubhouse,Fri,18:00,Thu,21:37
+B-012793,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-012794,R-352,Gym,Wed,18:00,Wed,08:23
+B-012795,R-149,Gym,Fri,07:00,Wed,10:46
+B-012796,R-285,Clubhouse,Tue,17:00,Mon,18:22
+B-012797,R-384,Pool,Sat,07:00,Fri,16:43
+B-012798,R-148,Pool,Tue,18:00,Mon,08:47
+B-012799,R-230,Badminton Court,Mon,19:00,Sun,12:54
+B-012800,R-310,Gym,Thu,18:00,Wed,08:45
+B-012801,R-376,Pool,Sun,17:00,Sat,08:57
+B-012802,R-163,Multipurpose Hall,Sat,17:00,Fri,18:29
+B-012803,R-247,Gym,Tue,19:00,Mon,10:41
+B-012804,R-125,Gym,Mon,20:00,Mon,10:45
+B-012805,R-251,Gym,Wed,06:00,Tue,15:04
+B-012806,R-353,Gym,Thu,19:00,Thu,10:11
+B-012807,R-227,Pool,Thu,07:00,Wed,19:52
+B-012808,R-123,Gym,Tue,06:00,Mon,11:42
+B-012809,R-191,Clubhouse,Sun,11:00,Sat,12:11
+B-012810,R-379,Multipurpose Hall,Tue,15:00,Mon,12:40
+B-012811,R-347,Pool,Thu,18:00,Thu,12:29
+B-012812,R-362,Tennis Court,Thu,07:00,Wed,07:58
+B-012813,R-393,Clubhouse,Tue,16:00,Mon,14:14
+B-012814,R-214,Gym,Wed,06:00,Tue,14:54
+B-012815,R-329,Pool,Wed,07:00,Tue,14:14
+B-012816,R-298,Gym,Thu,06:00,Wed,14:15
+B-012817,R-165,Badminton Court,Sat,21:00,Fri,16:56
+B-012818,R-127,Pool,Sun,18:00,Sat,10:08
+B-012819,R-203,Badminton Court,Mon,19:00,Sun,15:15
+B-012820,R-109,Pool,Tue,07:00,Mon,20:12
+B-012821,R-183,Badminton Court,Sat,21:00,Fri,15:23
+B-012822,R-139,Gym,Sun,06:00,Sat,16:08
+B-012823,R-237,Gym,Fri,19:00,Fri,16:01
+B-012824,R-360,Pool,Sun,08:00,Sat,16:07
+B-012825,R-387,Multipurpose Hall,Thu,18:00,Tue,17:57
+B-012826,R-282,Badminton Court,Fri,19:00,Thu,16:50
+B-012827,R-335,Clubhouse,Wed,18:00,Tue,16:30
+B-012828,R-208,Gym,Fri,18:00,Thu,16:45
+B-012829,R-197,Gym,Wed,19:00,Tue,18:05
+B-012830,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-012831,R-394,Gym,Tue,07:00,Mon,18:10
+B-012832,R-336,Clubhouse,Tue,11:00,Mon,12:14
+B-012833,R-101,Pool,Sat,18:00,Fri,17:51
+B-012834,R-152,Pool,Sat,17:00,Fri,19:04
+B-012835,R-324,Gym,Wed,06:00,Tue,19:31
+B-012836,R-284,Pool,Mon,07:00,Sun,19:46
+B-012837,R-292,Badminton Court,Fri,20:00,Thu,20:01
+B-012838,R-221,Gym,Tue,07:00,Mon,10:14
+B-012839,R-109,Multipurpose Hall,Tue,18:00,Mon,20:12
+B-012840,R-132,Badminton Court,Sun,21:00,Sat,21:16
+B-012841,R-276,Multipurpose Hall,Tue,07:00,Mon,08:04
+B-012842,R-300,Gym,Wed,19:00,Tue,08:30
+B-012843,R-163,Multipurpose Hall,Sat,17:00,Fri,18:29
+B-012844,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-012845,R-352,Gym,Wed,18:00,Wed,08:23
+B-012846,R-300,Tennis Court,Fri,19:00,Thu,08:30
+B-012847,R-123,Gym,Fri,06:00,Thu,11:42
+B-012848,R-356,Gym,Wed,11:00,Tue,18:46
+B-012849,R-261,Pool,Sun,17:00,Sat,08:29
+B-012850,R-306,Gym,Wed,06:00,Tue,09:14
+B-012851,R-337,Gym,Wed,19:00,Tue,09:06
+B-012852,R-171,Pool,Wed,18:00,Tue,08:29
+B-012853,R-111,Gym,Tue,19:00,Mon,09:32
+B-012854,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-012855,R-366,Gym,Wed,18:00,Wed,10:05
+B-012856,R-104,Badminton Court,Fri,19:00,Thu,10:30
+B-012857,R-363,Gym,Wed,19:00,Wed,12:50
+B-012858,R-201,Pool,Thu,07:00,Wed,07:56
+B-012859,R-149,Gym,Thu,07:00,Wed,10:46
+B-012860,R-117,Gym,Fri,07:00,Thu,10:50
+B-012861,R-199,Gym,Sat,18:00,Fri,10:55
+B-012862,R-166,Clubhouse,Thu,11:00,Wed,11:26
+B-012863,R-131,Gym,Wed,06:00,Tue,21:25
+B-012864,R-191,Clubhouse,Wed,11:00,Tue,12:11
+B-012865,R-182,Pool,Fri,18:00,Thu,21:37
+B-012866,R-312,Pool,Tue,18:00,Tue,12:32
+B-012867,R-363,Tennis Court,Fri,19:00,Fri,12:50
+B-012868,R-288,Tennis Court,Thu,18:00,Wed,13:03
+B-012869,R-229,Gym,Thu,06:00,Wed,12:49
+B-012870,R-194,Badminton Court,Thu,19:00,Wed,13:11
+B-012871,R-319,Clubhouse,Wed,18:00,Tue,13:38
+B-012872,R-329,Pool,Wed,07:00,Tue,14:14
+B-012873,R-102,Multipurpose Hall,Tue,16:00,Mon,14:26
+B-012874,R-313,Tennis Court,Wed,07:00,Tue,08:19
+B-012875,R-224,Badminton Court,Sun,21:00,Sat,15:08
+B-012876,R-237,Gym,Fri,19:00,Thu,16:01
+B-012877,R-384,Pool,Wed,07:00,Tue,16:43
+B-012878,R-213,Gym,Tue,18:00,Mon,17:13
+B-012879,R-322,Gym,Wed,18:00,Tue,17:00
+B-012880,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-012881,R-322,Gym,Fri,18:00,Thu,17:00
+B-012882,R-354,Clubhouse,Sat,19:00,Fri,16:54
+B-012883,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-012884,R-154,Gym,Mon,06:00,Sun,13:27
+B-012885,R-305,Badminton Court,Wed,20:00,Sun,18:23
+B-012886,R-241,Pool,Wed,07:00,Tue,16:48
+B-012887,R-235,Pool,Wed,18:00,Tue,17:15
+B-012888,R-383,Gym,Mon,07:00,Sun,20:14
+B-012889,R-249,Badminton Court,Thu,20:00,Wed,15:35
+B-012890,R-161,Gym,Wed,06:00,Tue,21:12
+B-012891,R-304,Multipurpose Hall,Wed,15:00,Tue,20:30
+B-012892,R-134,Pool,Fri,19:00,Thu,21:13
+B-012893,R-364,Gym,Wed,07:00,Tue,21:29
+B-012894,R-134,Badminton Court,Fri,19:00,Thu,21:13
+B-012895,R-172,Gym,Sat,19:00,Sat,21:24
+B-012896,R-261,Pool,Thu,11:00,Wed,08:29
+B-012897,R-121,Badminton Court,Sat,18:00,Fri,20:00
+B-012898,R-143,Clubhouse,Sun,19:00,Sat,09:57
+B-012899,R-275,Gym,Thu,07:00,Wed,10:13
+B-012900,R-113,Clubhouse,Sat,11:00,Fri,10:21
+B-012901,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-012902,R-260,Pool,Sun,18:00,Sat,15:39
+B-012903,R-366,Gym,Mon,18:00,Mon,10:05
+B-012904,R-398,Badminton Court,Thu,07:00,Wed,10:50
+B-012905,R-285,Pool,Fri,11:00,Thu,18:22
+B-012906,R-135,Tennis Court,Thu,18:00,Wed,15:29
+B-012907,R-269,Tennis Court,Sun,07:00,Sat,11:30
+B-012908,R-373,Pool,Wed,18:00,Mon,08:29
+B-012909,R-347,Pool,Thu,18:00,Thu,12:29
+B-012910,R-280,Gym,Sun,18:00,Sat,12:44
+B-012911,R-154,Gym,Mon,06:00,Sun,13:27
+B-012912,R-288,Tennis Court,Mon,18:00,Sun,13:03
+B-012913,R-306,Gym,Wed,06:00,Tue,09:14
+B-012914,R-386,Pool,Thu,18:00,Thu,19:26
+B-012915,R-251,Badminton Court,Wed,06:00,Tue,15:04
+B-012916,R-295,Pool,Thu,07:00,Wed,14:44
+B-012917,R-129,Multipurpose Hall,Sun,11:00,Sat,16:03
+B-012918,R-137,Pool,Wed,07:00,Tue,16:43
+B-012919,R-328,Gym,Sun,19:00,Sat,17:17
+B-012920,R-242,Tennis Court,Tue,19:00,Tue,11:52
+B-012921,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-012922,R-387,Gym,Thu,18:00,Wed,17:57
+B-012923,R-197,Gym,Sun,19:00,Sat,17:55
+B-012924,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-012925,R-105,Badminton Court,Wed,19:00,Tue,18:15
+B-012926,R-211,Tennis Court,Sun,18:00,Sat,21:40
+B-012927,R-178,Pool,Sun,17:00,Sat,19:06
+B-012928,R-188,Pool,Tue,18:00,Mon,20:25
+B-012929,R-271,Gym,Sat,07:00,Fri,13:42
+B-012930,R-289,Pool,Thu,07:00,Wed,20:19
+B-012931,R-206,Badminton Court,Sat,19:00,Fri,21:24
+B-012932,R-298,Gym,Thu,06:00,Wed,14:15
+B-012933,R-382,Pool,Mon,07:00,Sun,19:55
+B-012934,R-214,Gym,Thu,06:00,Wed,14:31
+B-012935,R-394,Gym,Thu,07:00,Wed,18:10
+B-012936,R-282,Badminton Court,Fri,19:00,Thu,16:50
+B-012937,R-247,Gym,Sat,19:00,Sat,10:41
+B-012938,R-249,Badminton Court,Thu,20:00,Wed,15:35
+B-012939,R-170,Clubhouse,Sat,16:00,Sat,12:29
+B-012940,R-300,Gym,Sun,19:00,Sun,08:30
+B-012941,R-300,Gym,Sun,19:00,Sat,08:30
+B-012942,R-248,Pool,Fri,17:00,Thu,08:43
+B-012943,R-186,Pool,Tue,18:00,Mon,08:45
+B-012944,R-234,Badminton Court,Sat,19:00,Sat,08:40
+B-012945,R-256,Multipurpose Hall,Thu,18:00,Wed,08:31
+B-012946,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-012947,R-143,Clubhouse,Sun,19:00,Sat,09:57
+B-012948,R-321,Tennis Court,Mon,17:00,Sun,09:51
+B-012949,R-321,Tennis Court,Mon,17:00,Sun,09:44
+B-012950,R-287,Badminton Court,Sun,20:00,Sat,10:58
+B-012951,R-365,Clubhouse,Wed,19:00,Tue,12:04
+B-012952,R-340,Gym,Sat,06:00,Fri,12:11
+B-012953,R-363,Gym,Fri,19:00,Thu,12:50
+B-012954,R-240,Gym,Sun,18:00,Sat,12:53
+B-012955,R-230,Badminton Court,Sun,19:00,Sat,12:54
+B-012956,R-158,Gym,Sun,07:00,Sat,10:07
+B-012957,R-313,Tennis Court,Mon,07:00,Sun,08:19
+B-012958,R-253,Tennis Court,Fri,08:00,Thu,13:26
+B-012959,R-296,Gym,Sat,06:00,Fri,14:21
+B-012960,R-298,Gym,Sun,06:00,Sat,14:15
+B-012961,R-251,Gym,Sun,06:00,Sat,15:04
+B-012962,R-230,Badminton Court,Mon,19:00,Sun,12:54
+B-012963,R-274,Gym,Thu,19:00,Thu,16:25
+B-012964,R-135,Tennis Court,Thu,18:00,Wed,15:29
+B-012965,R-208,Gym,Fri,18:00,Fri,16:45
+B-012966,R-208,Gym,Sat,18:00,Sat,16:45
+B-012967,R-369,Gym,Sun,18:00,Sat,17:14
+B-012968,R-105,Badminton Court,Fri,19:00,Thu,18:15
+B-012969,R-114,Clubhouse,Sat,07:00,Fri,19:09
+B-012970,R-305,Badminton Court,Fri,20:00,Thu,18:23
+B-012971,R-285,Pool,Fri,11:00,Thu,18:22
+B-012972,R-292,Badminton Court,Fri,19:00,Thu,20:01
+B-012973,R-153,Tennis Court,Sat,17:00,Fri,19:06
+B-012974,R-253,Tennis Court,Wed,08:00,Tue,13:26
+B-012975,R-289,Tennis Court,Fri,07:00,Thu,20:19
+B-012976,R-172,Gym,Sat,19:00,Sat,21:24
+B-012977,R-326,Gym,Thu,19:00,Wed,18:14
+B-012978,R-363,Tennis Court,Fri,19:00,Thu,12:50
+B-012979,R-101,Pool,Sat,18:00,Fri,17:51
+B-012980,R-186,Pool,Sat,18:00,Fri,08:45
+B-012981,R-337,Gym,Sat,19:00,Fri,09:06
+B-012982,R-350,Gym,Sun,18:00,Sat,19:00
+B-012983,R-287,Badminton Court,Sun,20:00,Sat,10:58
+B-012984,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-012985,R-103,Badminton Court,Fri,18:00,Thu,11:22
+B-012986,R-314,Clubhouse,Fri,19:00,Thu,11:18
+B-012987,R-104,Badminton Court,Fri,19:00,Thu,10:30
+B-012988,R-189,Clubhouse,Fri,11:00,Thu,10:42
+B-012989,R-170,Clubhouse,Fri,16:00,Fri,12:29
+B-012990,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-012991,R-331,Gym,Fri,07:00,Thu,13:36
+B-012992,R-387,Gym,Fri,18:00,Wed,17:57
+B-012993,R-384,Pool,Sat,07:00,Fri,16:43
+B-012994,R-236,Pool,Sun,18:00,Sat,13:49
+B-012995,R-220,Tennis Court,Mon,18:00,Sun,21:33
+B-012996,R-393,Clubhouse,Sat,16:00,Thu,14:14
+B-012997,R-222,Pool,Thu,17:00,Wed,18:54
+B-012998,R-345,Clubhouse,Sun,11:00,Sat,15:07
+B-012999,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-013000,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-013001,R-137,Pool,Sat,07:00,Fri,16:43
+B-013002,R-128,Clubhouse,Sat,11:00,Fri,17:47
+B-013003,R-326,Gym,Thu,19:00,Wed,18:14
+B-013004,R-193,Gym,Sat,19:00,Thu,18:38
+B-013005,R-193,Gym,Sun,18:00,Fri,18:38
+B-013006,R-153,Pool,Sun,17:00,Sat,19:06
+B-013007,R-382,Gym,Mon,07:00,Sun,19:55
+B-013008,R-257,Clubhouse,Tue,11:00,Mon,20:01
+B-013009,R-289,Gym,Sat,07:00,Fri,20:19
+B-013010,R-267,Tennis Court,Sun,07:00,Sat,20:23
+B-013011,R-162,Pool,Sat,18:00,Fri,20:19
+B-013012,R-148,Pool,Sat,18:00,Fri,08:47
+B-013013,R-390,Multipurpose Hall,Sat,17:00,Fri,20:39
+B-013014,R-154,Gym,Wed,06:00,Tue,13:27
+B-013015,R-199,Multipurpose Hall,Sat,06:00,Fri,10:55
+B-013016,R-206,Badminton Court,Sat,19:00,Fri,21:24
+B-013017,R-192,Multipurpose Hall,Tue,15:00,Mon,08:51
+B-013018,R-381,Badminton Court,Sun,19:00,Sat,09:31
+B-013019,R-225,Gym,Wed,11:00,Tue,10:08
+B-013020,R-222,Pool,Mon,17:00,Sun,18:54
+B-013021,R-127,Pool,Sat,07:00,Fri,10:08
+B-013022,R-109,Pool,Fri,15:00,Thu,20:12
+B-013023,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-013024,R-172,Gym,Sat,19:00,Sat,21:24
+B-013025,R-269,Tennis Court,Sun,07:00,Sat,11:30
+B-013026,R-314,Clubhouse,Sun,19:00,Sat,11:18
+B-013027,R-338,Badminton Court,Fri,11:00,Thu,11:24
+B-013028,R-365,Clubhouse,Sun,19:00,Sat,12:04
+B-013029,R-251,Gym,Sun,06:00,Sat,15:04
+B-013030,R-242,Gym,Sun,19:00,Sun,11:52
+B-013031,R-230,Badminton Court,Sun,19:00,Sat,12:54
+B-013032,R-118,Clubhouse,Sat,19:00,Fri,10:30
+B-013033,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-013034,R-142,Tennis Court,Sat,07:00,Fri,20:34
+B-013035,R-250,Pool,Mon,07:00,Sun,11:00
+B-013036,R-308,Badminton Court,Sun,06:00,Sat,14:09
+B-013037,R-397,Pool,Fri,07:00,Thu,14:07
+B-013038,R-218,Gym,Mon,06:00,Sun,14:40
+B-013039,R-393,Clubhouse,Tue,16:00,Sun,14:14
+B-013040,R-325,Pool,Sat,18:00,Fri,21:07
+B-013041,R-120,Multipurpose Hall,Mon,10:00,Sun,15:15
+B-013042,R-180,Pool,Mon,19:00,Sun,16:06
+B-013043,R-139,Pool,Wed,06:00,Tue,16:08
+B-013044,R-360,Gym,Sun,07:00,Sat,16:07
+B-013045,R-379,Multipurpose Hall,Sun,15:00,Sat,12:40
+B-013046,R-382,Gym,Sun,07:00,Sat,19:55
+B-013047,R-119,Pool,Sat,18:00,Sat,16:49
+B-013048,R-333,Tennis Court,Fri,18:00,Thu,17:05
+B-013049,R-369,Gym,Sun,18:00,Sat,17:14
+B-013050,R-391,Gym,Sun,07:00,Sat,14:54
+B-013051,R-105,Tennis Court,Sat,19:00,Fri,18:15
+B-013052,R-305,Badminton Court,Mon,20:00,Sun,18:23
+B-013053,R-388,Gym,Tue,06:00,Mon,18:49
+B-013054,R-231,Multipurpose Hall,Tue,15:00,Mon,18:56
+B-013055,R-178,Pool,Sun,17:00,Sat,19:06
+B-013056,R-324,Gym,Sun,06:00,Sat,19:31
+B-013057,R-285,Pool,Mon,11:00,Sun,18:22
+B-013058,R-218,Multipurpose Hall,Sun,06:00,Sat,14:40
+B-013059,R-220,Tennis Court,Sun,18:00,Sat,21:33
+B-013060,R-103,Badminton Court,Mon,18:00,Sun,11:22
+B-013061,R-182,Clubhouse,Tue,16:00,Mon,21:37
+B-013062,R-134,Badminton Court,Sun,19:00,Sat,21:13
+B-013063,R-109,Multipurpose Hall,Tue,07:00,Mon,20:12
+B-013064,R-131,Gym,Sun,07:00,Fri,21:25
+B-013065,R-324,Gym,Wed,06:00,Tue,19:31
+B-013066,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-013067,R-201,Pool,Fri,07:00,Thu,07:56
+B-013068,R-219,Clubhouse,Mon,19:00,Sun,20:03
+B-013069,R-237,Gym,Tue,19:00,Mon,16:01
+B-013070,R-203,Badminton Court,Thu,19:00,Wed,15:15
+B-013071,R-376,Gym,Wed,18:00,Tue,08:57
+B-013072,R-248,Pool,Sun,17:00,Sat,08:43
+B-013073,R-225,Gym,Wed,18:00,Tue,10:08
+B-013074,R-275,Gym,Sun,07:00,Sat,10:13
+B-013075,R-118,Clubhouse,Sun,19:00,Sat,10:30
+B-013076,R-370,Tennis Court,Wed,08:00,Tue,10:21
+B-013077,R-247,Gym,Sat,19:00,Fri,10:41
+B-013078,R-135,Tennis Court,Sun,18:00,Sat,15:29
+B-013079,R-103,Tennis Court,Wed,18:00,Tue,11:22
+B-013080,R-125,Multipurpose Hall,Tue,20:00,Tue,10:45
+B-013081,R-155,Multipurpose Hall,Wed,18:00,Tue,13:15
+B-013082,R-194,Badminton Court,Sun,19:00,Sat,13:11
+B-013083,R-389,Clubhouse,Sun,19:00,Sat,13:39
+B-013084,R-387,Multipurpose Hall,Sun,18:00,Fri,17:57
+B-013085,R-227,Pool,Thu,07:00,Tue,19:52
+B-013086,R-347,Pool,Sun,18:00,Sun,12:29
+B-013087,R-203,Badminton Court,Thu,19:00,Wed,15:15
+B-013088,R-200,Pool,Mon,07:00,Sun,15:26
+B-013089,R-262,Badminton Court,Wed,20:00,Tue,15:15
+B-013090,R-237,Gym,Tue,19:00,Tue,16:01
+B-013091,R-360,Pool,Mon,07:00,Sun,16:07
+B-013092,R-369,Gym,Tue,18:00,Sun,17:14
+B-013093,R-333,Tennis Court,Tue,18:00,Mon,17:05
+B-013094,R-322,Gym,Wed,18:00,Tue,17:00
+B-013095,R-315,Gym,Sun,18:00,Sun,17:08
+B-013096,R-387,Gym,Thu,18:00,Wed,17:57
+B-013097,R-285,Pool,Tue,11:00,Mon,18:22
+B-013098,R-117,Gym,Sat,07:00,Fri,10:50
+B-013099,R-284,Pool,Mon,07:00,Sun,19:46
+B-013100,R-200,Pool,Mon,07:00,Sat,15:26
+B-013101,R-216,Gym,Mon,19:00,Sun,11:27
+B-013102,R-169,Pool,Sun,18:00,Sat,21:20
+B-013103,R-172,Gym,Sun,19:00,Sat,21:24
+B-013104,R-364,Gym,Thu,07:00,Wed,21:29
+B-013105,R-133,Pool,Mon,07:00,Sun,22:00
+B-013106,R-312,Pool,Mon,18:00,Mon,12:32
+B-013107,R-248,Pool,Mon,17:00,Sun,08:43
+B-013108,R-180,Pool,Mon,19:00,Sun,16:06
+B-013109,R-329,Pool,Sat,07:00,Fri,14:14
+B-013110,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-013111,R-266,Tennis Court,Tue,18:00,Mon,20:51
+B-013112,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-013113,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-013114,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-013115,R-366,Gym,Wed,18:00,Wed,10:05
+B-013116,R-129,Clubhouse,Sun,10:00,Sat,16:03
+B-013117,R-363,Tennis Court,Wed,19:00,Wed,12:50
+B-013118,R-111,Gym,Sun,19:00,Sat,09:32
+B-013119,R-236,Pool,Sun,18:00,Sat,13:49
+B-013120,R-159,Gym,Thu,18:00,Tue,10:08
+B-013121,R-319,Pool,Mon,18:00,Sun,13:38
+B-013122,R-394,Gym,Tue,07:00,Mon,18:10
+B-013123,R-149,Gym,Fri,07:00,Thu,10:46
+B-013124,R-111,Gym,Fri,19:00,Thu,09:32
+B-013125,R-372,Badminton Court,Tue,21:00,Mon,14:46
+B-013126,R-173,Gym,Sun,18:00,Sat,11:42
+B-013127,R-212,Gym,Tue,07:00,Mon,11:16
+B-013128,R-325,Pool,Sun,18:00,Sat,21:07
+B-013129,R-295,Pool,Tue,07:00,Mon,14:44
+B-013130,R-330,Tennis Court,Mon,17:00,Sun,16:08
+B-013131,R-372,Badminton Court,Tue,18:00,Mon,14:46
+B-013132,R-154,Gym,Wed,06:00,Tue,13:27
+B-013133,R-385,Badminton Court,Tue,19:00,Tue,17:23
+B-013134,R-109,Pool,Tue,07:00,Mon,20:12
+B-013135,R-369,Gym,Fri,18:00,Fri,17:14
+B-013136,R-187,Clubhouse,Sat,11:00,Fri,17:41
+B-013137,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-013138,R-305,Badminton Court,Wed,20:00,Tue,18:23
+B-013139,R-222,Pool,Thu,17:00,Wed,18:54
+B-013140,R-291,Badminton Court,Thu,07:00,Wed,19:34
+B-013141,R-180,Badminton Court,Sat,19:00,Sat,16:06
+B-013142,R-121,Badminton Court,Sat,16:00,Fri,20:00
+B-013143,R-144,Pool,Mon,07:00,Sun,16:36
+B-013144,R-364,Gym,Thu,07:00,Wed,21:29
+B-013145,R-206,Badminton Court,Thu,19:00,Wed,21:24
+B-013146,R-220,Pool,Mon,18:00,Sun,21:33
+B-013147,R-133,Badminton Court,Wed,07:00,Tue,22:00
+B-013148,R-126,Pool,Thu,17:00,Wed,10:27
+B-013149,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-013150,R-367,Badminton Court,Mon,18:00,Sun,08:02
+B-013151,R-291,Clubhouse,Wed,07:00,Tue,19:34
+B-013152,R-179,Gym,Tue,06:00,Mon,08:58
+B-013153,R-143,Clubhouse,Sun,19:00,Sat,09:47
+B-013154,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-013155,R-136,Badminton Court,Wed,18:00,Wed,09:39
+B-013156,R-214,Gym,Wed,06:00,Tue,14:31
+B-013157,R-127,Pool,Thu,07:00,Tue,10:08
+B-013158,R-370,Tennis Court,Thu,08:00,Wed,10:21
+B-013159,R-199,Multipurpose Hall,Sat,06:00,Fri,10:55
+B-013160,R-158,Tennis Court,Sun,07:00,Sat,10:07
+B-013161,R-145,Pool,Sun,17:00,Sun,10:23
+B-013162,R-309,Badminton Court,Tue,19:00,Mon,20:51
+B-013163,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-013164,R-188,Pool,Tue,18:00,Mon,20:25
+B-013165,R-166,Clubhouse,Wed,11:00,Tue,11:26
+B-013166,R-242,Gym,Tue,19:00,Tue,12:03
+B-013167,R-142,Tennis Court,Tue,07:00,Mon,20:34
+B-013168,R-363,Badminton Court,Fri,19:00,Thu,12:50
+B-013169,R-319,Clubhouse,Wed,18:00,Tue,13:38
+B-013170,R-132,Badminton Court,Sun,21:00,Sat,21:16
+B-013171,R-298,Gym,Sun,06:00,Sat,14:15
+B-013172,R-298,Gym,Thu,06:00,Wed,14:15
+B-013173,R-131,Gym,Wed,07:00,Mon,21:25
+B-013174,R-157,Clubhouse,Wed,19:00,Tue,14:40
+B-013175,R-295,Pool,Thu,07:00,Wed,14:33
+B-013176,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-013177,R-209,Gym,Sat,07:00,Fri,19:54
+B-013178,R-360,Pool,Sun,07:00,Sat,16:07
+B-013179,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-013180,R-335,Clubhouse,Wed,11:00,Tue,16:30
+B-013181,R-215,Gym,Sun,18:00,Sat,16:55
+B-013182,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-013183,R-229,Gym,Thu,06:00,Wed,12:49
+B-013184,R-318,Gym,Wed,07:00,Tue,16:54
+B-013185,R-105,Gym,Wed,19:00,Tue,18:15
+B-013186,R-222,Pool,Thu,17:00,Wed,18:54
+B-013187,R-219,Clubhouse,Thu,19:00,Wed,20:03
+B-013188,R-137,Pool,Wed,07:00,Tue,16:43
+B-013189,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-013190,R-378,Multipurpose Hall,Wed,18:00,Tue,15:00
+B-013191,R-289,Tennis Court,Thu,07:00,Wed,20:19
+B-013192,R-364,Gym,Wed,07:00,Tue,21:29
+B-013193,R-172,Gym,Sun,19:00,Sun,21:24
+B-013194,R-112,Tennis Court,Thu,19:00,Wed,21:25
+B-013195,R-133,Badminton Court,Wed,07:00,Tue,22:00
+B-013196,R-210,Gym,Sat,07:00,Fri,20:10
+B-013197,R-240,Gym,Sun,18:00,Sat,12:53
+B-013198,R-304,Pool,Thu,15:00,Wed,20:30
+B-013199,R-248,Pool,Fri,17:00,Thu,08:43
+B-013200,R-261,Pool,Sun,17:00,Sat,08:29
+B-013201,R-300,Gym,Fri,19:00,Thu,08:30
+B-013202,R-192,Multipurpose Hall,Sun,15:00,Sat,08:51
+B-013203,R-387,Gym,Thu,18:00,Tue,17:57
+B-013204,R-366,Gym,Wed,18:00,Wed,10:05
+B-013205,R-125,Gym,Tue,19:00,Tue,10:45
+B-013206,R-149,Gym,Fri,07:00,Thu,10:46
+B-013207,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-013208,R-101,Pool,Wed,18:00,Tue,17:51
+B-013209,R-297,Badminton Court,Sun,19:00,Sun,09:18
+B-013210,R-107,Badminton Court,Tue,19:00,Sun,12:00
+B-013211,R-270,Gym,Sat,19:00,Fri,11:50
+B-013212,R-347,Pool,Thu,18:00,Thu,12:29
+B-013213,R-275,Gym,Mon,07:00,Sun,10:13
+B-013214,R-384,Pool,Mon,07:00,Sun,16:43
+B-013215,R-230,Badminton Court,Sun,19:00,Sat,12:54
+B-013216,R-154,Gym,Wed,06:00,Tue,13:27
+B-013217,R-188,Pool,Fri,18:00,Thu,20:25
+B-013218,R-393,Clubhouse,Sat,16:00,Fri,14:14
+B-013219,R-398,Badminton Court,Sun,19:00,Sat,10:50
+B-013220,R-324,Gym,Wed,18:00,Tue,19:31
+B-013221,R-308,Badminton Court,Sun,19:00,Sat,14:09
+B-013222,R-249,Badminton Court,Sat,20:00,Fri,15:35
+B-013223,R-254,Gym,Fri,19:00,Fri,11:33
+B-013224,R-129,Multipurpose Hall,Fri,11:00,Thu,16:03
+B-013225,R-241,Pool,Thu,07:00,Wed,16:48
+B-013226,R-165,Clubhouse,Tue,21:00,Mon,16:56
+B-013227,R-131,Gym,Sun,07:00,Sat,21:25
+B-013228,R-137,Pool,Fri,07:00,Thu,16:43
+B-013229,R-307,Clubhouse,Tue,11:00,Sun,20:17
+B-013230,R-105,Gym,Sat,19:00,Fri,18:15
+B-013231,R-285,Pool,Fri,11:00,Thu,18:22
+B-013232,R-193,Badminton Court,Sat,19:00,Thu,18:38
+B-013233,R-114,Gym,Sat,07:00,Fri,19:09
+B-013234,R-327,Gym,Sun,21:00,Sat,13:03
+B-013235,R-109,Pool,Fri,07:00,Thu,20:12
+B-013236,R-390,Multipurpose Hall,Sun,17:00,Sat,20:39
+B-013237,R-304,Tennis Court,Thu,15:00,Wed,20:30
+B-013238,R-220,Tennis Court,Fri,18:00,Thu,21:33
+B-013239,R-203,Badminton Court,Wed,19:00,Tue,15:15
+B-013240,R-379,Multipurpose Hall,Tue,15:00,Mon,12:40
+B-013241,R-237,Gym,Tue,19:00,Mon,16:01
+B-013242,R-300,Gym,Sun,19:00,Sat,08:30
+B-013243,R-234,Badminton Court,Tue,19:00,Tue,08:40
+B-013244,R-136,Badminton Court,Sun,18:00,Sat,09:39
+B-013245,R-201,Pool,Thu,07:00,Wed,07:56
+B-013246,R-117,Gym,Fri,07:00,Thu,10:50
+B-013247,R-247,Gym,Sat,19:00,Sat,10:41
+B-013248,R-278,Pool,Mon,17:00,Sun,14:12
+B-013249,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-013250,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-013251,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-013252,R-101,Pool,Sun,18:00,Sat,17:51
+B-013253,R-303,Gym,Tue,21:00,Mon,11:19
+B-013254,R-123,Gym,Tue,06:00,Mon,11:42
+B-013255,R-242,Gym,Thu,19:00,Thu,12:03
+B-013256,R-194,Badminton Court,Tue,19:00,Mon,13:11
+B-013257,R-326,Gym,Thu,19:00,Thu,18:14
+B-013258,R-236,Pool,Sat,18:00,Fri,13:49
+B-013259,R-118,Clubhouse,Thu,19:00,Wed,10:30
+B-013260,R-295,Pool,Tue,07:00,Mon,14:33
+B-013261,R-180,Badminton Court,Sat,17:00,Fri,16:06
+B-013262,R-108,Tennis Court,Thu,11:00,Wed,16:48
+B-013263,R-355,Badminton Court,Fri,10:00,Thu,17:09
+B-013264,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-013265,R-187,Clubhouse,Sat,11:00,Fri,17:41
+B-013266,R-128,Pool,Fri,07:00,Thu,17:47
+B-013267,R-128,Clubhouse,Sat,07:00,Fri,17:47
+B-013268,R-170,Clubhouse,Sat,16:00,Sat,12:29
+B-013269,R-114,Clubhouse,Sat,07:00,Fri,19:09
+B-013270,R-386,Pool,Thu,18:00,Thu,19:26
+B-013271,R-343,Multipurpose Hall,Sun,18:00,Sat,20:00
+B-013272,R-267,Tennis Court,Sun,08:00,Sat,20:23
+B-013273,R-304,Multipurpose Hall,Sat,15:00,Fri,20:30
+B-013274,R-299,Pool,Thu,18:00,Wed,20:49
+B-013275,R-356,Clubhouse,Fri,11:00,Thu,18:46
+B-013276,R-134,Badminton Court,Fri,19:00,Thu,21:13
+B-013277,R-134,Badminton Court,Sun,19:00,Sat,21:13
+B-013278,R-363,Gym,Fri,19:00,Fri,12:50
+B-013279,R-142,Tennis Court,Mon,07:00,Sun,20:34
+B-013280,R-324,Gym,Sun,18:00,Sat,19:31
+B-013281,R-135,Tennis Court,Thu,18:00,Thu,11:16
+B-013282,R-352,Gym,Mon,18:00,Mon,08:23
+B-013283,R-368,Gym,Wed,18:00,Tue,09:49
+B-013284,R-104,Badminton Court,Wed,19:00,Tue,10:30
+B-013285,R-247,Gym,Tue,19:00,Tue,10:41
+B-013286,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-013287,R-117,Gym,Sat,07:00,Fri,10:50
+B-013288,R-269,Tennis Court,Sat,19:00,Fri,11:30
+B-013289,R-138,Clubhouse,Sat,16:00,Thu,11:32
+B-013290,R-362,Pool,Thu,07:00,Wed,07:58
+B-013291,R-230,Badminton Court,Sun,19:00,Sat,12:54
+B-013292,R-363,Gym,Wed,19:00,Tue,12:50
+B-013293,R-170,Clubhouse,Fri,16:00,Fri,12:29
+B-013294,R-387,Multipurpose Hall,Fri,18:00,Thu,17:57
+B-013295,R-296,Gym,Sat,07:00,Fri,14:21
+B-013296,R-238,Badminton Court,Fri,19:00,Thu,13:04
+B-013297,R-193,Gym,Sat,19:00,Fri,18:38
+B-013298,R-319,Badminton Court,Mon,18:00,Sun,13:38
+B-013299,R-360,Gym,Sun,07:00,Sat,16:07
+B-013300,R-218,Multipurpose Hall,Mon,06:00,Sun,14:40
+B-013301,R-326,Gym,Fri,19:00,Fri,18:14
+B-013302,R-251,Gym,Wed,06:00,Tue,15:04
+B-013303,R-203,Badminton Court,Wed,19:00,Tue,15:15
+B-013304,R-319,Pool,Mon,18:00,Sun,13:38
+B-013305,R-180,Pool,Sat,17:00,Fri,16:06
+B-013306,R-163,Tennis Court,Sat,17:00,Fri,18:29
+B-013307,R-274,Gym,Fri,19:00,Fri,16:25
+B-013308,R-230,Badminton Court,Mon,19:00,Sun,12:54
+B-013309,R-164,Badminton Court,Thu,17:00,Wed,16:40
+B-013310,R-318,Gym,Sat,07:00,Fri,16:54
+B-013311,R-235,Pool,Sat,18:00,Fri,17:15
+B-013312,R-193,Gym,Sun,19:00,Fri,18:38
+B-013313,R-178,Pool,Mon,17:00,Sun,19:06
+B-013314,R-285,Tennis Court,Mon,11:00,Sun,18:22
+B-013315,R-289,Tennis Court,Fri,07:00,Thu,20:19
+B-013316,R-162,Pool,Fri,18:00,Thu,20:19
+B-013317,R-173,Gym,Sun,18:00,Sat,11:42
+B-013318,R-267,Tennis Court,Sun,08:00,Sat,20:23
+B-013319,R-373,Pool,Sat,18:00,Fri,08:29
+B-013320,R-304,Multipurpose Hall,Sat,15:00,Fri,20:30
+B-013321,R-252,Gym,Mon,07:00,Sun,20:39
+B-013322,R-169,Pool,Sun,18:00,Sat,21:20
+B-013323,R-169,Pool,Mon,18:00,Sun,21:20
+B-013324,R-298,Gym,Sat,06:00,Fri,14:15
+B-013325,R-273,Gym,Wed,06:00,Tue,08:18
+B-013326,R-153,Pool,Mon,17:00,Sun,19:06
+B-013327,R-220,Tennis Court,Sun,18:00,Sat,21:33
+B-013328,R-222,Pool,Mon,17:00,Sun,18:54
+B-013329,R-261,Pool,Sun,17:00,Sat,08:29
+B-013330,R-358,Gym,Sat,18:00,Fri,15:45
+B-013331,R-172,Gym,Sat,19:00,Sat,21:24
+B-013332,R-143,Clubhouse,Fri,19:00,Thu,09:47
+B-013333,R-159,Gym,Thu,18:00,Wed,10:08
+B-013334,R-127,Pool,Sat,07:00,Thu,10:08
+B-013335,R-102,Multipurpose Hall,Thu,19:00,Thu,14:26
+B-013336,R-358,Gym,Sun,18:00,Sat,15:45
+B-013337,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-013338,R-123,Gym,Tue,06:00,Mon,11:42
+B-013339,R-191,Clubhouse,Sun,11:00,Sat,12:11
+B-013340,R-379,Multipurpose Hall,Sun,06:00,Sat,12:40
+B-013341,R-197,Gym,Sun,19:00,Sat,17:55
+B-013342,R-230,Badminton Court,Mon,19:00,Sun,12:54
+B-013343,R-155,Multipurpose Hall,Wed,18:00,Tue,13:15
+B-013344,R-389,Badminton Court,Fri,11:00,Thu,13:39
+B-013345,R-236,Pool,Sun,18:00,Sat,13:49
+B-013346,R-275,Gym,Sun,07:00,Sat,10:13
+B-013347,R-343,Pool,Sun,18:00,Sat,20:00
+B-013348,R-203,Badminton Court,Thu,19:00,Wed,15:15
+B-013349,R-132,Badminton Court,Sun,21:00,Fri,21:16
+B-013350,R-360,Pool,Sun,07:00,Sat,16:07
+B-013351,R-369,Gym,Fri,18:00,Thu,17:14
+B-013352,R-282,Badminton Court,Wed,07:00,Tue,16:50
+B-013353,R-213,Multipurpose Hall,Tue,18:00,Mon,17:13
+B-013354,R-147,Clubhouse,Sat,19:00,Fri,16:10
+B-013355,R-101,Gym,Sun,17:00,Sat,17:51
+B-013356,R-285,Pool,Fri,17:00,Thu,18:22
+B-013357,R-278,Pool,Sun,17:00,Sat,14:12
+B-013358,R-231,Multipurpose Hall,Tue,15:00,Mon,18:56
+B-013359,R-114,Gym,Fri,07:00,Thu,19:09
+B-013360,R-227,Pool,Thu,07:00,Wed,19:52
+B-013361,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-013362,R-267,Tennis Court,Sat,08:00,Fri,20:23
+B-013363,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-013364,R-266,Tennis Court,Thu,20:00,Wed,20:51
+B-013365,R-172,Gym,Sun,19:00,Sun,21:24
+B-013366,R-211,Gym,Sun,18:00,Sat,21:40
+B-013367,R-158,Gym,Sun,07:00,Sat,10:07
+B-013368,R-347,Pool,Sun,18:00,Sun,12:29
+B-013369,R-115,Tennis Court,Tue,08:00,Mon,17:27
+B-013370,R-145,Pool,Wed,17:00,Wed,10:23
+B-013371,R-313,Tennis Court,Wed,07:00,Sun,08:19
+B-013372,R-300,Gym,Fri,19:00,Wed,08:30
+B-013373,R-319,Pool,Mon,18:00,Sun,13:38
+B-013374,R-127,Tennis Court,Thu,18:00,Wed,10:08
+B-013375,R-321,Tennis Court,Mon,17:00,Sun,09:44
+B-013376,R-398,Badminton Court,Sun,07:00,Sat,10:50
+B-013377,R-117,Gym,Mon,07:00,Sun,10:50
+B-013378,R-398,Badminton Court,Thu,07:00,Wed,10:50
+B-013379,R-125,Gym,Sun,17:00,Sat,10:45
+B-013380,R-125,Multipurpose Hall,Mon,17:00,Mon,10:45
+B-013381,R-269,Tennis Court,Sun,07:00,Sat,11:30
+B-013382,R-250,Pool,Wed,07:00,Tue,11:00
+B-013383,R-216,Gym,Tue,19:00,Mon,11:27
+B-013384,R-169,Pool,Mon,18:00,Sun,21:20
+B-013385,R-366,Gym,Wed,18:00,Wed,10:05
+B-013386,R-155,Multipurpose Hall,Tue,18:00,Sun,13:15
+B-013387,R-311,Pool,Wed,07:00,Tue,13:10
+B-013388,R-238,Pool,Thu,07:00,Wed,13:04
+B-013389,R-329,Pool,Wed,07:00,Tue,14:14
+B-013390,R-290,Badminton Court,Sun,19:00,Sat,21:18
+B-013391,R-382,Gym,Sat,07:00,Fri,19:55
+B-013392,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-013393,R-262,Badminton Court,Wed,20:00,Tue,15:15
+B-013394,R-275,Gym,Mon,07:00,Sun,10:13
+B-013395,R-259,Badminton Court,Thu,19:00,Wed,14:36
+B-013396,R-139,Gym,Wed,06:00,Tue,16:08
+B-013397,R-224,Badminton Court,Wed,21:00,Tue,15:08
+B-013398,R-115,Tennis Court,Mon,11:00,Sun,17:27
+B-013399,R-384,Pool,Mon,07:00,Sun,16:43
+B-013400,R-187,Clubhouse,Sat,11:00,Fri,17:41
+B-013401,R-195,Gym,Sun,18:00,Sat,11:45
+B-013402,R-305,Gym,Fri,20:00,Thu,18:23
+B-013403,R-364,Gym,Thu,07:00,Wed,21:29
+B-013404,R-238,Pool,Thu,07:00,Wed,13:04
+B-013405,R-284,Pool,Tue,07:00,Mon,19:46
+B-013406,R-252,Multipurpose Hall,Mon,07:00,Sun,20:39
+B-013407,R-193,Gym,Sat,19:00,Fri,18:38
+B-013408,R-172,Gym,Sat,19:00,Sat,21:24
+B-013409,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-013410,R-202,Clubhouse,Fri,11:00,Thu,21:41
+B-013411,R-220,Pool,Fri,18:00,Thu,21:33
+B-013412,R-290,Clubhouse,Wed,19:00,Mon,21:18
+B-013413,R-352,Gym,Mon,18:00,Sun,08:23
+B-013414,R-384,Pool,Mon,07:00,Sun,16:43
+B-013415,R-212,Gym,Thu,07:00,Wed,11:16
+B-013416,R-252,Tennis Court,Mon,07:00,Sun,20:39
+B-013417,R-279,Gym,Fri,16:00,Thu,08:21
+B-013418,R-300,Gym,Fri,19:00,Thu,08:30
+B-013419,R-337,Gym,Wed,19:00,Tue,09:06
+B-013420,R-143,Clubhouse,Wed,19:00,Tue,09:47
+B-013421,R-353,Gym,Thu,19:00,Thu,10:38
+B-013422,R-368,Gym,Sat,18:00,Fri,09:49
+B-013423,R-366,Gym,Wed,18:00,Wed,10:05
+B-013424,R-219,Clubhouse,Mon,19:00,Sun,20:03
+B-013425,R-113,Clubhouse,Sat,11:00,Fri,10:21
+B-013426,R-324,Gym,Sun,18:00,Sat,19:31
+B-013427,R-103,Tennis Court,Wed,18:00,Tue,11:22
+B-013428,R-216,Gym,Tue,19:00,Mon,11:27
+B-013429,R-166,Clubhouse,Wed,11:00,Tue,11:26
+B-013430,R-137,Pool,Sat,07:00,Fri,16:43
+B-013431,R-123,Gym,Tue,06:00,Mon,11:42
+B-013432,R-295,Pool,Tue,07:00,Mon,14:33
+B-013433,R-191,Clubhouse,Sun,11:00,Sat,12:11
+B-013434,R-193,Gym,Sun,19:00,Fri,18:38
+B-013435,R-319,Pool,Mon,18:00,Sun,13:38
+B-013436,R-339,Gym,Thu,06:00,Wed,13:31
+B-013437,R-104,Badminton Court,Wed,19:00,Tue,10:30
+B-013438,R-370,Tennis Court,Fri,08:00,Thu,10:21
+B-013439,R-319,Clubhouse,Wed,18:00,Sun,13:38
+B-013440,R-372,Badminton Court,Sun,21:00,Sat,14:46
+B-013441,R-394,Gym,Thu,07:00,Wed,18:10
+B-013442,R-358,Gym,Sat,18:00,Fri,15:45
+B-013443,R-129,Clubhouse,Fri,10:00,Thu,16:03
+B-013444,R-237,Gym,Fri,19:00,Fri,16:01
+B-013445,R-282,Badminton Court,Wed,19:00,Tue,16:50
+B-013446,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-013447,R-385,Badminton Court,Thu,19:00,Wed,17:23
+B-013448,R-235,Pool,Wed,18:00,Tue,17:15
+B-013449,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-013450,R-105,Badminton Court,Fri,19:00,Thu,18:15
+B-013451,R-199,Multipurpose Hall,Thu,06:00,Wed,10:55
+B-013452,R-388,Gym,Tue,06:00,Mon,18:49
+B-013453,R-272,Badminton Court,Tue,21:00,Mon,19:02
+B-013454,R-153,Pool,Sat,17:00,Fri,19:06
+B-013455,R-227,Badminton Court,Thu,07:00,Wed,19:52
+B-013456,R-284,Pool,Tue,07:00,Mon,19:46
+B-013457,R-161,Multipurpose Hall,Sun,06:00,Sat,21:02
+B-013458,R-242,Gym,Sun,19:00,Sun,12:03
+B-013459,R-188,Pool,Fri,18:00,Thu,20:25
+B-013460,R-267,Tennis Court,Sat,08:00,Thu,20:23
+B-013461,R-309,Gym,Thu,19:00,Wed,20:51
+B-013462,R-364,Gym,Wed,07:00,Tue,21:29
+B-013463,R-379,Multipurpose Hall,Tue,06:00,Mon,12:40
+B-013464,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-013465,R-300,Tennis Court,Fri,07:00,Thu,08:30
+B-013466,R-324,Gym,Wed,18:00,Tue,19:31
+B-013467,R-198,Gym,Thu,06:00,Wed,08:52
+B-013468,R-179,Gym,Thu,06:00,Wed,08:58
+B-013469,R-321,Tennis Court,Thu,17:00,Wed,09:44
+B-013470,R-159,Pool,Thu,18:00,Thu,10:08
+B-013471,R-247,Gym,Tue,19:00,Tue,10:41
+B-013472,R-298,Gym,Thu,06:00,Wed,14:15
+B-013473,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-013474,R-269,Clubhouse,Thu,19:00,Wed,11:30
+B-013475,R-338,Badminton Court,Fri,11:00,Thu,11:24
+B-013476,R-254,Gym,Fri,19:00,Fri,11:33
+B-013477,R-123,Gym,Fri,06:00,Thu,11:42
+B-013478,R-137,Pool,Wed,07:00,Tue,16:43
+B-013479,R-312,Badminton Court,Tue,18:00,Tue,12:32
+B-013480,R-221,Gym,Wed,07:00,Tue,10:14
+B-013481,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-013482,R-261,Pool,Wed,17:00,Tue,08:29
+B-013483,R-329,Pool,Wed,07:00,Tue,14:14
+B-013484,R-224,Badminton Court,Wed,21:00,Tue,15:08
+B-013485,R-203,Badminton Court,Wed,19:00,Tue,15:15
+B-013486,R-237,Gym,Tue,19:00,Tue,16:01
+B-013487,R-343,Multipurpose Hall,Sat,18:00,Fri,20:00
+B-013488,R-108,Clubhouse,Sun,11:00,Sat,16:48
+B-013489,R-127,Pool,Thu,18:00,Wed,10:08
+B-013490,R-318,Gym,Wed,07:00,Tue,16:54
+B-013491,R-235,Pool,Sat,18:00,Thu,17:15
+B-013492,R-387,Gym,Sun,18:00,Fri,17:57
+B-013493,R-197,Gym,Mon,19:00,Sun,17:55
+B-013494,R-131,Gym,Wed,07:00,Tue,21:25
+B-013495,R-305,Badminton Court,Wed,20:00,Tue,18:23
+B-013496,R-251,Gym,Wed,06:00,Tue,15:04
+B-013497,R-272,Badminton Court,Tue,21:00,Mon,19:02
+B-013498,R-231,Multipurpose Hall,Tue,15:00,Mon,18:56
+B-013499,R-114,Gym,Fri,19:00,Thu,19:09
+B-013500,R-304,Multipurpose Hall,Wed,07:00,Tue,20:30
+B-013501,R-291,Clubhouse,Thu,07:00,Wed,19:34
+B-013502,R-136,Badminton Court,Wed,18:00,Tue,09:39
+B-013503,R-304,Pool,Wed,07:00,Tue,20:30
+B-013504,R-242,Gym,Thu,19:00,Thu,12:03
+B-013505,R-308,Gym,Wed,06:00,Tue,14:09
+B-013506,R-248,Pool,Fri,17:00,Thu,08:43
+B-013507,R-261,Pool,Thu,11:00,Wed,08:29
+B-013508,R-199,Multipurpose Hall,Thu,06:00,Wed,10:55
+B-013509,R-284,Pool,Mon,07:00,Sun,19:46
+B-013510,R-321,Tennis Court,Mon,17:00,Sun,09:44
+B-013511,R-118,Pool,Sun,07:00,Sat,10:30
+B-013512,R-153,Pool,Sat,17:00,Fri,19:06
+B-013513,R-110,Badminton Court,Sun,19:00,Sat,20:05
+B-013514,R-242,Tennis Court,Thu,07:00,Wed,12:03
+B-013515,R-399,Badminton Court,Fri,20:00,Thu,11:32
+B-013516,R-123,Gym,Tue,06:00,Mon,11:42
+B-013517,R-125,Multipurpose Hall,Sun,19:00,Sun,10:45
+B-013518,R-177,Badminton Court,Wed,07:00,Tue,10:16
+B-013519,R-347,Pool,Thu,18:00,Thu,12:29
+B-013520,R-319,Pool,Wed,18:00,Tue,13:38
+B-013521,R-230,Badminton Court,Sun,19:00,Sat,12:54
+B-013522,R-236,Pool,Sat,18:00,Fri,13:49
+B-013523,R-275,Gym,Thu,07:00,Wed,10:13
+B-013524,R-154,Gym,Fri,07:00,Thu,13:27
+B-013525,R-295,Pool,Thu,07:00,Wed,14:33
+B-013526,R-358,Gym,Sat,16:00,Fri,15:45
+B-013527,R-393,Clubhouse,Tue,16:00,Mon,14:14
+B-013528,R-213,Gym,Fri,18:00,Thu,17:13
+B-013529,R-135,Tennis Court,Sun,18:00,Sun,11:16
+B-013530,R-222,Pool,Mon,17:00,Sun,18:54
+B-013531,R-141,Badminton Court,Sat,21:00,Fri,18:45
+B-013532,R-201,Pool,Thu,07:00,Wed,07:56
+B-013533,R-284,Pool,Mon,07:00,Sun,19:46
+B-013534,R-187,Clubhouse,Wed,11:00,Tue,17:41
+B-013535,R-232,Pool,Thu,17:00,Wed,10:46
+B-013536,R-211,Tennis Court,Sun,18:00,Sat,21:40
+B-013537,R-162,Pool,Fri,18:00,Thu,20:19
+B-013538,R-220,Pool,Fri,18:00,Thu,21:33
+B-013539,R-112,Badminton Court,Fri,19:00,Thu,21:25
+B-013540,R-357,Pool,Fri,18:00,Thu,21:33
+B-013541,R-218,Gym,Fri,06:00,Thu,14:40
+B-013542,R-364,Gym,Thu,07:00,Wed,21:29
+B-013543,R-370,Tennis Court,Thu,08:00,Wed,10:21
+B-013544,R-262,Badminton Court,Wed,20:00,Tue,15:15
+B-013545,R-209,Gym,Tue,07:00,Mon,19:54
+B-013546,R-234,Badminton Court,Tue,19:00,Mon,08:40
+B-013547,R-310,Tennis Court,Wed,18:00,Tue,08:45
+B-013548,R-136,Gym,Sun,18:00,Sat,09:39
+B-013549,R-143,Clubhouse,Fri,19:00,Thu,09:47
+B-013550,R-204,Gym,Thu,18:00,Wed,09:57
+B-013551,R-127,Pool,Sat,18:00,Thu,10:08
+B-013552,R-113,Clubhouse,Thu,11:00,Wed,10:21
+B-013553,R-149,Gym,Thu,07:00,Wed,10:46
+B-013554,R-199,Multipurpose Hall,Tue,06:00,Mon,10:55
+B-013555,R-166,Clubhouse,Thu,19:00,Wed,11:26
+B-013556,R-241,Pool,Wed,07:00,Tue,16:48
+B-013557,R-347,Pool,Sun,18:00,Sun,12:29
+B-013558,R-363,Gym,Wed,19:00,Wed,12:37
+B-013559,R-329,Pool,Sat,07:00,Fri,14:14
+B-013560,R-203,Badminton Court,Thu,18:00,Wed,15:15
+B-013561,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-013562,R-326,Gym,Thu,19:00,Wed,18:14
+B-013563,R-188,Pool,Fri,18:00,Thu,20:25
+B-013564,R-322,Gym,Wed,18:00,Tue,17:00
+B-013565,R-305,Badminton Court,Fri,20:00,Thu,18:23
+B-013566,R-333,Tennis Court,Fri,18:00,Thu,17:05
+B-013567,R-315,Gym,Wed,18:00,Tue,17:08
+B-013568,R-322,Gym,Wed,18:00,Tue,17:00
+B-013569,R-128,Clubhouse,Sat,07:00,Fri,17:47
+B-013570,R-285,Pool,Tue,17:00,Mon,18:22
+B-013571,R-222,Pool,Mon,17:00,Sun,18:54
+B-013572,R-388,Gym,Sun,06:00,Sat,18:49
+B-013573,R-114,Gym,Fri,19:00,Thu,19:09
+B-013574,R-324,Pool,Sun,18:00,Sat,19:31
+B-013575,R-291,Clubhouse,Thu,07:00,Wed,19:45
+B-013576,R-228,Gym,Sat,19:00,Fri,19:58
+B-013577,R-289,Pool,Thu,07:00,Wed,20:19
+B-013578,R-289,Pool,Fri,07:00,Thu,20:19
+B-013579,R-299,Pool,Sat,18:00,Fri,20:49
+B-013580,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-013581,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-013582,R-172,Gym,Sun,19:00,Sat,21:24
+B-013583,R-132,Badminton Court,Wed,21:00,Tue,21:16
+B-013584,R-131,Multipurpose Hall,Sun,07:00,Sat,21:25
+B-013585,R-133,Badminton Court,Thu,07:00,Wed,22:00
+B-013586,R-182,Tennis Court,Tue,18:00,Mon,21:37
+B-013587,R-220,Pool,Fri,18:00,Thu,21:33
+B-013588,R-298,Gym,Sat,06:00,Fri,14:15
+B-013589,R-180,Pool,Mon,17:00,Sun,16:06
+B-013590,R-367,Badminton Court,Mon,18:00,Sun,08:02
+B-013591,R-273,Gym,Wed,06:00,Tue,08:18
+B-013592,R-355,Badminton Court,Sun,18:00,Sat,17:09
+B-013593,R-200,Pool,Sun,07:00,Sat,15:26
+B-013594,R-337,Gym,Sat,19:00,Fri,09:06
+B-013595,R-370,Tennis Court,Fri,08:00,Thu,10:21
+B-013596,R-170,Clubhouse,Sat,16:00,Sat,12:29
+B-013597,R-285,Pool,Tue,11:00,Mon,18:22
+B-013598,R-117,Gym,Sat,07:00,Fri,10:50
+B-013599,R-338,Clubhouse,Fri,11:00,Thu,11:24
+B-013600,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-013601,R-138,Badminton Court,Fri,16:00,Thu,11:32
+B-013602,R-191,Clubhouse,Sun,11:00,Sat,12:11
+B-013603,R-226,Multipurpose Hall,Sun,15:00,Sat,20:37
+B-013604,R-170,Clubhouse,Sat,16:00,Sat,12:29
+B-013605,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-013606,R-154,Gym,Thu,06:00,Wed,13:27
+B-013607,R-313,Tennis Court,Wed,07:00,Tue,08:19
+B-013608,R-389,Clubhouse,Fri,11:00,Thu,13:39
+B-013609,R-103,Pool,Wed,18:00,Tue,11:22
+B-013610,R-393,Clubhouse,Sat,18:00,Fri,14:14
+B-013611,R-393,Clubhouse,Tue,16:00,Mon,14:14
+B-013612,R-319,Clubhouse,Mon,18:00,Sun,13:38
+B-013613,R-300,Tennis Court,Sun,19:00,Sun,08:30
+B-013614,R-249,Badminton Court,Sat,20:00,Fri,15:35
+B-013615,R-237,Gym,Fri,19:00,Thu,16:01
+B-013616,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-013617,R-363,Gym,Wed,19:00,Wed,12:37
+B-013618,R-282,Badminton Court,Fri,19:00,Thu,16:50
+B-013619,R-387,Gym,Fri,18:00,Thu,17:57
+B-013620,R-340,Gym,Sat,06:00,Fri,12:11
+B-013621,R-269,Tennis Court,Thu,07:00,Wed,11:30
+B-013622,R-105,Tennis Court,Fri,19:00,Thu,18:15
+B-013623,R-305,Badminton Court,Fri,20:00,Thu,18:23
+B-013624,R-193,Badminton Court,Sun,19:00,Fri,18:38
+B-013625,R-169,Pool,Sat,18:00,Fri,21:20
+B-013626,R-183,Badminton Court,Sat,21:00,Fri,15:23
+B-013627,R-210,Gym,Sat,07:00,Fri,20:10
+B-013628,R-179,Gym,Thu,06:00,Wed,08:58
+B-013629,R-163,Multipurpose Hall,Mon,17:00,Sun,18:29
+B-013630,R-307,Clubhouse,Tue,11:00,Mon,20:17
+B-013631,R-267,Tennis Court,Sat,08:00,Fri,20:23
+B-013632,R-373,Pool,Wed,18:00,Tue,08:29
+B-013633,R-220,Pool,Sun,18:00,Sat,21:33
+B-013634,R-336,Clubhouse,Sat,11:00,Fri,18:06
+B-013635,R-151,Clubhouse,Mon,19:00,Sun,07:56
+B-013636,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-013637,R-114,Clubhouse,Sat,07:00,Fri,19:09
+B-013638,R-192,Multipurpose Hall,Tue,15:00,Mon,08:51
+B-013639,R-142,Tennis Court,Mon,07:00,Sun,20:34
+B-013640,R-275,Gym,Sun,07:00,Sat,10:13
+B-013641,R-127,Pool,Sat,18:00,Thu,10:08
+B-013642,R-324,Gym,Sun,18:00,Sat,19:31
+B-013643,R-177,Badminton Court,Sun,07:00,Sat,10:16
+B-013644,R-260,Pool,Sun,18:00,Sat,15:39
+B-013645,R-117,Gym,Mon,07:00,Sun,10:50
+B-013646,R-216,Gym,Mon,19:00,Sun,11:27
+B-013647,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-013648,R-118,Pool,Sat,07:00,Fri,10:30
+B-013649,R-123,Gym,Fri,06:00,Thu,11:42
+B-013650,R-230,Badminton Court,Mon,19:00,Sun,13:13
+B-013651,R-271,Gym,Fri,07:00,Thu,13:42
+B-013652,R-319,Pool,Mon,18:00,Sun,13:38
+B-013653,R-389,Clubhouse,Sun,11:00,Sat,13:39
+B-013654,R-372,Badminton Court,Tue,18:00,Mon,14:46
+B-013655,R-275,Gym,Thu,07:00,Wed,10:13
+B-013656,R-200,Pool,Sun,07:00,Sat,15:26
+B-013657,R-225,Gym,Sun,18:00,Sat,10:08
+B-013658,R-132,Badminton Court,Sun,21:00,Sat,21:16
+B-013659,R-360,Pool,Mon,07:00,Sun,16:07
+B-013660,R-360,Gym,Mon,19:00,Sun,16:07
+B-013661,R-138,Clubhouse,Sat,16:00,Thu,11:32
+B-013662,R-333,Gym,Tue,18:00,Mon,17:05
+B-013663,R-119,Pool,Mon,18:00,Sun,16:49
+B-013664,R-355,Badminton Court,Sun,18:00,Sat,17:09
+B-013665,R-136,Gym,Sun,18:00,Sat,09:39
+B-013666,R-121,Badminton Court,Sat,16:00,Fri,20:00
+B-013667,R-315,Gym,Sun,18:00,Sat,17:08
+B-013668,R-285,Pool,Mon,11:00,Sun,18:22
+B-013669,R-145,Pool,Tue,17:00,Tue,10:23
+B-013670,R-153,Tennis Court,Sat,17:00,Fri,19:06
+B-013671,R-115,Tennis Court,Mon,11:00,Sun,17:27
+B-013672,R-355,Badminton Court,Fri,21:00,Thu,17:09
+B-013673,R-399,Badminton Court,Sat,20:00,Fri,11:32
+B-013674,R-343,Multipurpose Hall,Sat,18:00,Fri,20:00
+B-013675,R-219,Clubhouse,Thu,19:00,Thu,20:03
+B-013676,R-131,Gym,Sun,07:00,Sat,21:25
+B-013677,R-226,Multipurpose Hall,Sun,15:00,Sat,20:37
+B-013678,R-163,Multipurpose Hall,Mon,17:00,Sun,18:29
+B-013679,R-183,Gym,Sun,06:00,Sat,15:23
+B-013680,R-169,Pool,Mon,18:00,Sun,21:20
+B-013681,R-172,Gym,Sun,19:00,Sat,21:24
+B-013682,R-357,Tennis Court,Fri,18:00,Thu,21:33
+B-013683,R-220,Pool,Sun,18:00,Sat,21:33
+B-013684,R-338,Clubhouse,Sun,11:00,Sat,11:24
+B-013685,R-298,Gym,Thu,06:00,Wed,14:15
+B-013686,R-169,Pool,Sat,18:00,Fri,21:20
+B-013687,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-013688,R-313,Tennis Court,Mon,07:00,Sun,08:19
+B-013689,R-300,Gym,Wed,07:00,Tue,08:30
+B-013690,R-352,Gym,Mon,18:00,Mon,08:23
+B-013691,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-013692,R-225,Gym,Wed,18:00,Tue,10:08
+B-013693,R-321,Tennis Court,Mon,17:00,Sun,09:44
+B-013694,R-243,Gym,Sun,17:00,Sat,09:41
+B-013695,R-126,Pool,Fri,17:00,Thu,10:27
+B-013696,R-287,Badminton Court,Sun,19:00,Sat,10:58
+B-013697,R-117,Gym,Fri,07:00,Thu,10:50
+B-013698,R-113,Clubhouse,Tue,11:00,Mon,10:21
+B-013699,R-327,Badminton Court,Tue,06:00,Mon,13:03
+B-013700,R-319,Gym,Wed,18:00,Tue,13:38
+B-013701,R-261,Pool,Wed,17:00,Tue,08:29
+B-013702,R-393,Clubhouse,Sat,19:00,Fri,14:14
+B-013703,R-296,Gym,Sun,06:00,Sat,14:21
+B-013704,R-329,Pool,Tue,07:00,Mon,14:14
+B-013705,R-184,Gym,Sat,19:00,Fri,14:34
+B-013706,R-251,Gym,Sun,06:00,Sat,15:04
+B-013707,R-324,Pool,Sun,18:00,Sat,19:31
+B-013708,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-013709,R-144,Pool,Mon,07:00,Sun,16:36
+B-013710,R-318,Gym,Sat,07:00,Fri,16:54
+B-013711,R-333,Tennis Court,Tue,18:00,Mon,17:05
+B-013712,R-197,Gym,Sun,19:00,Sat,17:55
+B-013713,R-384,Pool,Wed,07:00,Tue,16:43
+B-013714,R-284,Pool,Tue,07:00,Mon,19:46
+B-013715,R-252,Multipurpose Hall,Tue,07:00,Mon,20:39
+B-013716,R-206,Badminton Court,Sat,19:00,Fri,21:24
+B-013717,R-306,Gym,Mon,06:00,Sun,09:14
+B-013718,R-220,Pool,Mon,18:00,Sun,21:33
+B-013719,R-181,Pool,Fri,07:00,Thu,21:51
+B-013720,R-160,Clubhouse,Thu,07:00,Wed,13:09
+B-013721,R-163,Multipurpose Hall,Mon,17:00,Sun,20:12
+B-013722,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-013723,R-337,Gym,Wed,19:00,Tue,09:06
+B-013724,R-251,Gym,Wed,06:00,Tue,15:04
+B-013725,R-136,Gym,Wed,18:00,Tue,09:39
+B-013726,R-127,Pool,Thu,18:00,Tue,10:08
+B-013727,R-159,Pool,Thu,18:00,Tue,10:08
+B-013728,R-366,Gym,Wed,18:00,Wed,10:05
+B-013729,R-125,Multipurpose Hall,Sun,17:00,Sun,10:45
+B-013730,R-104,Badminton Court,Fri,19:00,Thu,10:30
+B-013731,R-339,Badminton Court,Thu,06:00,Wed,13:31
+B-013732,R-232,Pool,Tue,17:00,Mon,10:46
+B-013733,R-398,Badminton Court,Thu,07:00,Wed,10:39
+B-013734,R-155,Multipurpose Hall,Mon,18:00,Sat,13:15
+B-013735,R-107,Badminton Court,Sun,19:00,Fri,12:00
+B-013736,R-247,Gym,Sat,19:00,Fri,10:41
+B-013737,R-363,Gym,Sun,19:00,Sun,12:37
+B-013738,R-154,Gym,Wed,06:00,Tue,13:27
+B-013739,R-277,Pool,Mon,18:00,Sun,11:41
+B-013740,R-175,Clubhouse,Mon,19:00,Sun,13:47
+B-013741,R-188,Pool,Tue,18:00,Mon,20:25
+B-013742,R-295,Pool,Tue,07:00,Mon,14:33
+B-013743,R-379,Multipurpose Hall,Sun,06:00,Sat,12:40
+B-013744,R-203,Badminton Court,Sun,18:00,Sat,15:15
+B-013745,R-127,Pool,Thu,18:00,Tue,10:08
+B-013746,R-260,Pool,Mon,18:00,Sun,15:39
+B-013747,R-129,Clubhouse,Fri,11:00,Thu,16:03
+B-013748,R-344,Gym,Wed,19:00,Tue,21:51
+B-013749,R-213,Multipurpose Hall,Tue,15:00,Mon,17:13
+B-013750,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-013751,R-285,Pool,Tue,11:00,Mon,18:22
+B-013752,R-148,Pool,Tue,18:00,Mon,08:47
+B-013753,R-272,Badminton Court,Thu,21:00,Tue,19:02
+B-013754,R-219,Clubhouse,Thu,19:00,Thu,20:03
+B-013755,R-134,Badminton Court,Sun,19:00,Sat,21:13
+B-013756,R-364,Gym,Sun,07:00,Sat,21:29
+B-013757,R-131,Multipurpose Hall,Wed,07:00,Tue,21:25
+B-013758,R-357,Tennis Court,Wed,18:00,Tue,21:33
+B-013759,R-133,Badminton Court,Mon,07:00,Sun,22:00
+B-013760,R-109,Pool,Tue,07:00,Mon,20:12
+B-013761,R-191,Clubhouse,Wed,11:00,Tue,12:11
+B-013762,R-125,Tennis Court,Tue,15:00,Tue,10:45
+B-013763,R-379,Gym,Sun,15:00,Sat,12:40
+B-013764,R-374,Multipurpose Hall,Tue,15:00,Mon,10:15
+B-013765,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-013766,R-221,Gym,Wed,07:00,Tue,10:14
+B-013767,R-300,Tennis Court,Wed,19:00,Tue,08:30
+B-013768,R-192,Multipurpose Hall,Tue,15:00,Mon,08:51
+B-013769,R-186,Pool,Thu,18:00,Wed,08:45
+B-013770,R-179,Gym,Thu,06:00,Wed,08:58
+B-013771,R-368,Gym,Wed,06:00,Tue,09:49
+B-013772,R-321,Tennis Court,Thu,17:00,Wed,09:44
+B-013773,R-237,Gym,Tue,19:00,Mon,16:01
+B-013774,R-250,Pool,Wed,07:00,Tue,11:00
+B-013775,R-166,Clubhouse,Wed,19:00,Tue,11:26
+B-013776,R-173,Gym,Tue,18:00,Mon,11:42
+B-013777,R-157,Pool,Wed,18:00,Tue,14:40
+B-013778,R-365,Clubhouse,Wed,19:00,Tue,12:04
+B-013779,R-388,Gym,Tue,06:00,Mon,18:49
+B-013780,R-363,Gym,Fri,19:00,Thu,12:37
+B-013781,R-363,Gym,Fri,19:00,Thu,12:37
+B-013782,R-312,Tennis Court,Mon,18:00,Mon,12:32
+B-013783,R-387,Gym,Thu,18:00,Tue,17:57
+B-013784,R-154,Gym,Wed,07:00,Tue,13:27
+B-013785,R-149,Gym,Thu,07:00,Wed,10:46
+B-013786,R-214,Gym,Thu,06:00,Wed,14:31
+B-013787,R-214,Gym,Wed,06:00,Tue,14:31
+B-013788,R-329,Pool,Wed,07:00,Tue,14:14
+B-013789,R-120,Multipurpose Hall,Mon,10:00,Sun,15:15
+B-013790,R-224,Badminton Court,Sun,06:00,Sat,15:08
+B-013791,R-262,Badminton Court,Wed,20:00,Tue,15:15
+B-013792,R-254,Gym,Thu,19:00,Thu,11:33
+B-013793,R-241,Pool,Wed,07:00,Tue,16:48
+B-013794,R-210,Gym,Wed,07:00,Tue,20:10
+B-013795,R-400,Pool,Wed,17:00,Tue,15:33
+B-013796,R-130,Gym,Thu,11:00,Wed,21:28
+B-013797,R-237,Gym,Fri,19:00,Thu,16:01
+B-013798,R-318,Gym,Sat,07:00,Fri,16:54
+B-013799,R-101,Pool,Wed,18:00,Tue,17:51
+B-013800,R-394,Gym,Tue,07:00,Mon,18:10
+B-013801,R-326,Gym,Thu,19:00,Thu,18:14
+B-013802,R-394,Gym,Thu,07:00,Wed,18:10
+B-013803,R-377,Gym,Wed,07:00,Tue,18:01
+B-013804,R-105,Gym,Wed,19:00,Tue,18:15
+B-013805,R-197,Gym,Wed,19:00,Tue,17:55
+B-013806,R-252,Clubhouse,Tue,07:00,Mon,20:39
+B-013807,R-285,Pool,Fri,11:00,Thu,18:22
+B-013808,R-356,Clubhouse,Wed,08:00,Tue,18:46
+B-013809,R-305,Badminton Court,Mon,20:00,Sun,18:23
+B-013810,R-221,Badminton Court,Wed,07:00,Tue,10:14
+B-013811,R-227,Badminton Court,Mon,07:00,Sun,19:52
+B-013812,R-121,Badminton Court,Wed,16:00,Tue,20:00
+B-013813,R-249,Badminton Court,Thu,19:00,Wed,15:35
+B-013814,R-343,Multipurpose Hall,Sat,18:00,Fri,20:00
+B-013815,R-371,Badminton Court,Wed,19:00,Tue,20:14
+B-013816,R-390,Pool,Sun,18:00,Sat,20:39
+B-013817,R-261,Clubhouse,Wed,17:00,Tue,08:29
+B-013818,R-364,Gym,Wed,07:00,Tue,21:29
+B-013819,R-251,Badminton Court,Wed,06:00,Tue,15:04
+B-013820,R-156,Multipurpose Hall,Mon,16:00,Sun,15:49
+B-013821,R-300,Gym,Fri,19:00,Thu,08:30
+B-013822,R-310,Gym,Wed,18:00,Wed,08:45
+B-013823,R-192,Multipurpose Hall,Sat,15:00,Fri,08:51
+B-013824,R-311,Pool,Sat,07:00,Fri,13:10
+B-013825,R-337,Gym,Wed,19:00,Tue,09:06
+B-013826,R-113,Clubhouse,Thu,11:00,Wed,10:21
+B-013827,R-273,Gym,Fri,06:00,Thu,08:18
+B-013828,R-360,Gym,Sun,19:00,Sat,16:07
+B-013829,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-013830,R-199,Gym,Tue,06:00,Mon,10:55
+B-013831,R-269,Tennis Court,Sun,19:00,Sat,11:30
+B-013832,R-314,Clubhouse,Fri,19:00,Thu,11:18
+B-013833,R-166,Clubhouse,Thu,19:00,Wed,11:26
+B-013834,R-166,Clubhouse,Wed,11:00,Tue,11:26
+B-013835,R-105,Gym,Fri,19:00,Thu,18:15
+B-013836,R-340,Gym,Fri,06:00,Thu,12:11
+B-013837,R-270,Gym,Wed,19:00,Tue,11:50
+B-013838,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-013839,R-274,Gym,Wed,19:00,Tue,16:25
+B-013840,R-347,Pool,Sun,18:00,Sun,12:29
+B-013841,R-194,Badminton Court,Sun,19:00,Sun,13:11
+B-013842,R-319,Pool,Mon,18:00,Sun,13:38
+B-013843,R-389,Badminton Court,Fri,19:00,Thu,13:39
+B-013844,R-278,Pool,Mon,17:00,Sun,14:12
+B-013845,R-296,Gym,Thu,06:00,Wed,14:21
+B-013846,R-298,Gym,Thu,06:00,Wed,14:15
+B-013847,R-295,Pool,Thu,07:00,Wed,14:33
+B-013848,R-391,Gym,Sun,08:00,Sat,17:42
+B-013849,R-249,Badminton Court,Thu,20:00,Wed,15:35
+B-013850,R-203,Badminton Court,Wed,18:00,Tue,15:15
+B-013851,R-108,Tennis Court,Fri,19:00,Thu,16:48
+B-013852,R-135,Tennis Court,Sun,18:00,Sat,18:00
+B-013853,R-241,Pool,Thu,07:00,Wed,16:48
+B-013854,R-213,Gym,Fri,18:00,Thu,17:13
+B-013855,R-315,Gym,Thu,18:00,Wed,17:08
+B-013856,R-285,Tennis Court,Fri,08:00,Thu,18:22
+B-013857,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-013858,R-149,Gym,Fri,07:00,Thu,10:46
+B-013859,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-013860,R-356,Clubhouse,Fri,11:00,Thu,18:46
+B-013861,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-013862,R-324,Multipurpose Hall,Wed,18:00,Tue,19:31
+B-013863,R-304,Multipurpose Hall,Thu,07:00,Wed,20:30
+B-013864,R-201,Pool,Fri,07:00,Thu,07:56
+B-013865,R-289,Pool,Sat,07:00,Fri,20:19
+B-013866,R-267,Tennis Court,Sun,07:00,Sat,20:23
+B-013867,R-390,Pool,Sun,17:00,Sat,20:39
+B-013868,R-296,Gym,Sat,06:00,Fri,14:21
+B-013869,R-139,Gym,Sun,06:00,Sat,16:08
+B-013870,R-291,Gym,Tue,07:00,Mon,19:45
+B-013871,R-222,Pool,Mon,17:00,Sun,18:54
+B-013872,R-206,Badminton Court,Thu,19:00,Wed,21:24
+B-013873,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-013874,R-163,Tennis Court,Sat,17:00,Fri,20:12
+B-013875,R-248,Pool,Fri,17:00,Thu,08:43
+B-013876,R-306,Badminton Court,Thu,19:00,Wed,09:14
+B-013877,R-159,Gym,Thu,18:00,Wed,10:08
+B-013878,R-272,Gym,Tue,21:00,Sun,19:02
+B-013879,R-118,Clubhouse,Sun,18:00,Sat,10:30
+B-013880,R-232,Pool,Thu,17:00,Wed,10:46
+B-013881,R-269,Tennis Court,Sat,19:00,Fri,11:30
+B-013882,R-303,Gym,Tue,21:00,Mon,11:19
+B-013883,R-399,Badminton Court,Sun,20:00,Sat,11:32
+B-013884,R-123,Gym,Tue,06:00,Mon,11:42
+B-013885,R-365,Clubhouse,Fri,19:00,Thu,12:04
+B-013886,R-336,Clubhouse,Tue,11:00,Mon,18:06
+B-013887,R-336,Clubhouse,Tue,11:00,Mon,12:14
+B-013888,R-107,Badminton Court,Thu,19:00,Wed,12:00
+B-013889,R-365,Clubhouse,Wed,19:00,Tue,12:04
+B-013890,R-242,Gym,Sun,19:00,Sat,11:47
+B-013891,R-265,Badminton Court,Fri,07:00,Thu,13:05
+B-013892,R-353,Gym,Sat,19:00,Sat,10:11
+B-013893,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-013894,R-193,Badminton Court,Sat,19:00,Fri,18:38
+B-013895,R-253,Tennis Court,Sat,08:00,Fri,13:26
+B-013896,R-389,Badminton Court,Sun,19:00,Sat,13:39
+B-013897,R-181,Pool,Wed,07:00,Tue,21:51
+B-013898,R-275,Gym,Mon,07:00,Sun,10:13
+B-013899,R-254,Gym,Thu,19:00,Thu,11:33
+B-013900,R-379,Gym,Sun,06:00,Sat,12:40
+B-013901,R-372,Badminton Court,Mon,21:00,Sun,14:46
+B-013902,R-203,Badminton Court,Thu,18:00,Wed,15:35
+B-013903,R-262,Badminton Court,Thu,20:00,Wed,15:15
+B-013904,R-172,Gym,Sat,19:00,Fri,21:24
+B-013905,R-260,Pool,Sun,18:00,Sat,15:39
+B-013906,R-237,Gym,Wed,19:00,Tue,16:29
+B-013907,R-215,Gym,Fri,18:00,Thu,16:55
+B-013908,R-108,Tennis Court,Fri,19:00,Thu,16:48
+B-013909,R-369,Gym,Tue,18:00,Mon,17:14
+B-013910,R-370,Tennis Court,Wed,08:00,Tue,10:21
+B-013911,R-355,Badminton Court,Fri,21:00,Thu,17:09
+B-013912,R-208,Gym,Wed,18:00,Tue,16:45
+B-013913,R-315,Gym,Sun,18:00,Sat,17:08
+B-013914,R-322,Gym,Wed,18:00,Tue,17:00
+B-013915,R-149,Gym,Fri,07:00,Thu,10:46
+B-013916,R-135,Tennis Court,Sun,18:00,Sat,16:35
+B-013917,R-144,Pool,Wed,07:00,Tue,16:36
+B-013918,R-163,Multipurpose Hall,Sat,17:00,Fri,08:12
+B-013919,R-114,Clubhouse,Fri,07:00,Thu,19:09
+B-013920,R-267,Tennis Court,Sat,08:00,Fri,20:23
+B-013921,R-169,Pool,Mon,18:00,Sun,21:20
+B-013922,R-132,Badminton Court,Wed,21:00,Tue,21:16
+B-013923,R-172,Gym,Sun,19:00,Sat,21:24
+B-013924,R-112,Badminton Court,Fri,19:00,Thu,21:25
+B-013925,R-220,Pool,Fri,18:00,Thu,21:33
+B-013926,R-292,Badminton Court,Sun,20:00,Sat,20:01
+B-013927,R-300,Tennis Court,Fri,19:00,Thu,08:30
+B-013928,R-105,Gym,Sat,19:00,Fri,18:15
+B-013929,R-262,Badminton Court,Wed,20:00,Tue,15:15
+B-013930,R-362,Tennis Court,Mon,20:00,Sun,07:58
+B-013931,R-300,Gym,Sun,19:00,Sat,08:30
+B-013932,R-261,Pool,Thu,17:00,Wed,08:29
+B-013933,R-256,Multipurpose Hall,Sat,18:00,Fri,08:31
+B-013934,R-255,Pool,Wed,17:00,Wed,14:27
+B-013935,R-134,Badminton Court,Fri,19:00,Thu,21:13
+B-013936,R-111,Gym,Fri,19:00,Thu,09:32
+B-013937,R-321,Clubhouse,Fri,17:00,Thu,09:44
+B-013938,R-127,Pool,Sat,18:00,Thu,10:08
+B-013939,R-247,Gym,Sat,19:00,Fri,10:41
+B-013940,R-258,Clubhouse,Sat,19:00,Fri,14:31
+B-013941,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-013942,R-117,Gym,Fri,07:00,Thu,10:50
+B-013943,R-269,Clubhouse,Sat,19:00,Fri,11:30
+B-013944,R-269,Clubhouse,Thu,19:00,Wed,11:30
+B-013945,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-013946,R-338,Clubhouse,Fri,11:00,Thu,11:24
+B-013947,R-138,Clubhouse,Sun,16:00,Fri,11:32
+B-013948,R-387,Gym,Fri,18:00,Thu,17:57
+B-013949,R-113,Clubhouse,Tue,11:00,Mon,10:21
+B-013950,R-384,Pool,Mon,07:00,Sun,16:43
+B-013951,R-319,Pool,Wed,18:00,Tue,13:38
+B-013952,R-104,Badminton Court,Wed,07:00,Tue,10:30
+B-013953,R-298,Gym,Sat,06:00,Fri,14:15
+B-013954,R-345,Clubhouse,Fri,11:00,Thu,15:07
+B-013955,R-188,Pool,Fri,18:00,Thu,20:25
+B-013956,R-203,Badminton Court,Wed,18:00,Tue,15:35
+B-013957,R-251,Gym,Sun,06:00,Sat,15:04
+B-013958,R-249,Badminton Court,Sat,20:00,Fri,15:35
+B-013959,R-313,Tennis Court,Wed,07:00,Tue,08:19
+B-013960,R-298,Gym,Thu,06:00,Wed,14:15
+B-013961,R-360,Gym,Sun,19:00,Sat,16:07
+B-013962,R-126,Pool,Thu,17:00,Wed,10:27
+B-013963,R-335,Clubhouse,Sat,19:00,Fri,16:30
+B-013964,R-180,Badminton Court,Sat,17:00,Fri,16:06
+B-013965,R-119,Pool,Sun,18:00,Sun,16:49
+B-013966,R-342,Pool,Tue,17:00,Mon,17:03
+B-013967,R-210,Gym,Sun,07:00,Sat,20:10
+B-013968,R-296,Gym,Sat,07:00,Fri,14:21
+B-013969,R-193,Gym,Sat,19:00,Fri,18:38
+B-013970,R-157,Pool,Wed,18:00,Tue,14:40
+B-013971,R-114,Gym,Fri,07:00,Thu,19:09
+B-013972,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-013973,R-110,Gym,Sun,18:00,Fri,20:05
+B-013974,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-013975,R-109,Pool,Fri,07:00,Thu,20:12
+B-013976,R-210,Gym,Sun,07:00,Sat,20:10
+B-013977,R-289,Badminton Court,Fri,07:00,Thu,20:19
+B-013978,R-220,Tennis Court,Sun,18:00,Sat,21:33
+B-013979,R-199,Gym,Fri,06:00,Thu,10:55
+B-013980,R-172,Gym,Sat,19:00,Fri,21:24
+B-013981,R-142,Tennis Court,Tue,07:00,Mon,20:34
+B-013982,R-135,Tennis Court,Thu,18:00,Wed,18:00
+B-013983,R-276,Tennis Court,Wed,07:00,Tue,08:04
+B-013984,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-013985,R-275,Gym,Sun,07:00,Sat,10:13
+B-013986,R-173,Badminton Court,Sun,18:00,Sat,11:42
+B-013987,R-353,Gym,Sat,19:00,Sat,10:11
+B-013988,R-287,Badminton Court,Sun,19:00,Sat,10:58
+B-013989,R-216,Gym,Mon,19:00,Sun,11:27
+B-013990,R-138,Clubhouse,Sat,16:00,Thu,11:32
+B-013991,R-270,Gym,Wed,19:00,Tue,11:50
+B-013992,R-365,Clubhouse,Wed,19:00,Tue,12:04
+B-013993,R-125,Tennis Court,Mon,17:00,Mon,10:45
+B-013994,R-131,Gym,Sun,07:00,Sat,21:25
+B-013995,R-288,Tennis Court,Thu,18:00,Wed,13:03
+B-013996,R-244,Badminton Court,Wed,21:00,Tue,10:41
+B-013997,R-282,Badminton Court,Wed,19:00,Tue,16:50
+B-013998,R-183,Gym,Sat,06:00,Fri,15:23
+B-013999,R-200,Pool,Sun,16:00,Sat,15:26
+B-014000,R-218,Gym,Sun,06:00,Sat,14:40
+B-014001,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-014002,R-376,Badminton Court,Tue,19:00,Mon,08:57
+B-014003,R-142,Tennis Court,Tue,07:00,Mon,20:34
+B-014004,R-208,Gym,Fri,18:00,Thu,16:45
+B-014005,R-369,Gym,Sun,18:00,Sat,17:14
+B-014006,R-315,Gym,Sun,18:00,Sat,17:08
+B-014007,R-315,Gym,Thu,18:00,Wed,17:08
+B-014008,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-014009,R-197,Gym,Sun,18:00,Sat,17:55
+B-014010,R-197,Gym,Wed,19:00,Tue,17:55
+B-014011,R-305,Badminton Court,Fri,20:00,Thu,18:23
+B-014012,R-178,Pool,Thu,17:00,Wed,19:06
+B-014013,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-014014,R-292,Badminton Court,Sun,19:00,Sat,20:01
+B-014015,R-382,Tennis Court,Sat,07:00,Fri,19:55
+B-014016,R-343,Multipurpose Hall,Sat,18:00,Fri,20:00
+B-014017,R-300,Gym,Fri,19:00,Thu,08:30
+B-014018,R-225,Clubhouse,Wed,18:00,Tue,10:08
+B-014019,R-394,Gym,Thu,07:00,Wed,18:10
+B-014020,R-109,Pool,Tue,07:00,Mon,20:12
+B-014021,R-344,Gym,Wed,19:00,Mon,21:51
+B-014022,R-388,Gym,Sun,15:00,Sat,18:49
+B-014023,R-226,Multipurpose Hall,Tue,15:00,Mon,20:37
+B-014024,R-185,Pool,Sun,19:00,Sat,19:22
+B-014025,R-313,Tennis Court,Mon,07:00,Sun,08:19
+B-014026,R-373,Pool,Wed,18:00,Mon,08:29
+B-014027,R-248,Tennis Court,Sun,17:00,Sat,08:43
+B-014028,R-134,Badminton Court,Sun,19:00,Sat,21:13
+B-014029,R-234,Badminton Court,Tue,19:00,Mon,08:40
+B-014030,R-306,Gym,Mon,06:00,Sun,09:14
+B-014031,R-224,Gym,Sun,07:00,Sat,15:08
+B-014032,R-325,Pool,Sat,18:00,Sat,21:07
+B-014033,R-143,Clubhouse,Sun,19:00,Sat,09:47
+B-014034,R-366,Gym,Wed,18:00,Wed,10:05
+B-014035,R-127,Pool,Thu,18:00,Tue,10:08
+B-014036,R-113,Clubhouse,Tue,11:00,Mon,10:21
+B-014037,R-353,Gym,Thu,19:00,Mon,10:11
+B-014038,R-117,Gym,Mon,07:00,Sun,10:50
+B-014039,R-121,Badminton Court,Sat,16:00,Fri,20:00
+B-014040,R-358,Gym,Sun,18:00,Sat,15:45
+B-014041,R-270,Gym,Wed,19:00,Tue,11:50
+B-014042,R-191,Clubhouse,Sun,11:00,Sat,12:11
+B-014043,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-014044,R-343,Multipurpose Hall,Sat,18:00,Fri,20:00
+B-014045,R-397,Pool,Thu,07:00,Wed,14:07
+B-014046,R-218,Multipurpose Hall,Mon,06:00,Sun,14:40
+B-014047,R-237,Gym,Tue,19:00,Tue,16:29
+B-014048,R-354,Clubhouse,Tue,19:00,Mon,16:54
+B-014049,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-014050,R-119,Pool,Mon,18:00,Mon,16:49
+B-014051,R-169,Pool,Sat,18:00,Fri,21:20
+B-014052,R-131,Multipurpose Hall,Wed,07:00,Tue,21:25
+B-014053,R-105,Gym,Sat,19:00,Fri,18:15
+B-014054,R-312,Tennis Court,Mon,18:00,Mon,12:32
+B-014055,R-292,Badminton Court,Tue,20:00,Mon,20:01
+B-014056,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-014057,R-252,Tennis Court,Tue,07:00,Mon,20:39
+B-014058,R-206,Badminton Court,Sat,19:00,Fri,21:24
+B-014059,R-344,Gym,Mon,19:00,Sun,21:51
+B-014060,R-122,Clubhouse,Tue,18:00,Mon,15:27
+B-014061,R-220,Tennis Court,Mon,18:00,Sun,21:33
+B-014062,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-014063,R-357,Pool,Fri,18:00,Thu,21:37
+B-014064,R-148,Pool,Sat,18:00,Fri,08:47
+B-014065,R-370,Tennis Court,Wed,08:00,Tue,10:21
+B-014066,R-306,Gym,Thu,06:00,Wed,09:14
+B-014067,R-166,Clubhouse,Wed,11:00,Tue,11:26
+B-014068,R-306,Badminton Court,Thu,06:00,Mon,09:14
+B-014069,R-107,Badminton Court,Sun,19:00,Fri,12:00
+B-014070,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-014071,R-175,Clubhouse,Fri,19:00,Thu,13:47
+B-014072,R-242,Gym,Sun,19:00,Sat,11:47
+B-014073,R-193,Gym,Sun,19:00,Sat,18:38
+B-014074,R-250,Pool,Mon,07:00,Sun,11:00
+B-014075,R-212,Gym,Thu,07:00,Wed,11:16
+B-014076,R-222,Pool,Mon,17:00,Sun,18:54
+B-014077,R-123,Gym,Tue,06:00,Mon,11:42
+B-014078,R-304,Pool,Thu,07:00,Wed,20:30
+B-014079,R-379,Multipurpose Hall,Sun,15:00,Sat,12:40
+B-014080,R-363,Gym,Wed,19:00,Tue,12:37
+B-014081,R-309,Gym,Mon,18:00,Sun,20:51
+B-014082,R-352,Gym,Wed,18:00,Wed,08:23
+B-014083,R-142,Tennis Court,Tue,07:00,Mon,20:34
+B-014084,R-321,Clubhouse,Mon,17:00,Sun,09:44
+B-014085,R-319,Pool,Wed,18:00,Tue,13:38
+B-014086,R-366,Gym,Wed,18:00,Wed,10:05
+B-014087,R-153,Pool,Sun,17:00,Sat,19:06
+B-014088,R-251,Gym,Wed,19:00,Tue,15:04
+B-014089,R-203,Badminton Court,Wed,18:00,Tue,15:35
+B-014090,R-200,Clubhouse,Sun,16:00,Sat,15:26
+B-014091,R-387,Gym,Thu,18:00,Wed,17:57
+B-014092,R-241,Pool,Wed,07:00,Tue,16:48
+B-014093,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-014094,R-322,Gym,Wed,18:00,Tue,17:00
+B-014095,R-329,Pool,Sat,07:00,Fri,14:14
+B-014096,R-319,Pool,Wed,18:00,Tue,13:38
+B-014097,R-394,Gym,Tue,07:00,Mon,18:10
+B-014098,R-197,Gym,Mon,19:00,Sun,17:55
+B-014099,R-154,Gym,Mon,06:00,Sun,13:27
+B-014100,R-135,Tennis Court,Sun,18:00,Sat,18:00
+B-014101,R-356,Clubhouse,Fri,08:00,Thu,18:46
+B-014102,R-285,Tennis Court,Mon,08:00,Sun,18:22
+B-014103,R-210,Gym,Wed,07:00,Tue,20:10
+B-014104,R-291,Gym,Tue,07:00,Mon,19:45
+B-014105,R-383,Gym,Thu,07:00,Wed,20:14
+B-014106,R-188,Pool,Tue,18:00,Tue,20:25
+B-014107,R-352,Gym,Wed,18:00,Wed,08:23
+B-014108,R-252,Tennis Court,Tue,07:00,Mon,20:39
+B-014109,R-364,Gym,Thu,07:00,Wed,21:04
+B-014110,R-388,Gym,Tue,06:00,Mon,18:49
+B-014111,R-372,Badminton Court,Sun,21:00,Sat,14:46
+B-014112,R-131,Gym,Wed,07:00,Tue,21:25
+B-014113,R-182,Clubhouse,Tue,10:00,Mon,21:37
+B-014114,R-149,Gym,Thu,07:00,Wed,10:46
+B-014115,R-155,Multipurpose Hall,Tue,18:00,Sun,13:15
+B-014116,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-014117,R-273,Gym,Fri,06:00,Thu,08:18
+B-014118,R-154,Badminton Court,Wed,07:00,Tue,13:27
+B-014119,R-187,Clubhouse,Tue,11:00,Mon,17:56
+B-014120,R-256,Multipurpose Hall,Wed,18:00,Wed,08:31
+B-014121,R-310,Gym,Wed,18:00,Wed,08:45
+B-014122,R-261,Pool,Wed,11:00,Tue,08:29
+B-014123,R-198,Gym,Fri,06:00,Thu,08:52
+B-014124,R-169,Pool,Sat,18:00,Fri,21:20
+B-014125,R-204,Gym,Wed,18:00,Tue,09:57
+B-014126,R-102,Gym,Thu,19:00,Thu,14:26
+B-014127,R-170,Clubhouse,Fri,16:00,Fri,12:29
+B-014128,R-127,Pool,Thu,18:00,Wed,10:08
+B-014129,R-368,Gym,Sat,06:00,Fri,09:49
+B-014130,R-370,Tennis Court,Wed,11:00,Tue,10:21
+B-014131,R-126,Multipurpose Hall,Thu,19:00,Wed,10:27
+B-014132,R-199,Multipurpose Hall,Tue,06:00,Mon,10:55
+B-014133,R-166,Badminton Court,Wed,11:00,Tue,11:26
+B-014134,R-123,Gym,Fri,06:00,Thu,11:42
+B-014135,R-173,Gym,Tue,18:00,Mon,11:42
+B-014136,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-014137,R-234,Badminton Court,Sat,19:00,Fri,08:40
+B-014138,R-363,Gym,Wed,19:00,Tue,12:37
+B-014139,R-363,Gym,Fri,19:00,Thu,12:37
+B-014140,R-393,Clubhouse,Sat,16:00,Fri,14:14
+B-014141,R-214,Gym,Thu,06:00,Wed,14:31
+B-014142,R-397,Pool,Thu,07:00,Wed,14:07
+B-014143,R-133,Badminton Court,Mon,07:00,Sun,22:00
+B-014144,R-295,Pool,Tue,07:00,Mon,14:33
+B-014145,R-132,Badminton Court,Sun,19:00,Sat,21:16
+B-014146,R-109,Pool,Tue,07:00,Mon,20:25
+B-014147,R-224,Gym,Wed,21:00,Tue,15:08
+B-014148,R-260,Pool,Mon,18:00,Sun,15:39
+B-014149,R-400,Pool,Sun,15:00,Sat,15:43
+B-014150,R-137,Pool,Fri,07:00,Thu,16:43
+B-014151,R-364,Gym,Wed,07:00,Tue,21:04
+B-014152,R-137,Pool,Sat,07:00,Fri,16:43
+B-014153,R-241,Pool,Thu,07:00,Wed,16:48
+B-014154,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-014155,R-318,Gym,Wed,07:00,Tue,16:54
+B-014156,R-394,Gym,Thu,07:00,Wed,18:10
+B-014157,R-377,Gym,Sun,07:00,Sat,18:01
+B-014158,R-313,Tennis Court,Wed,07:00,Tue,08:19
+B-014159,R-305,Badminton Court,Mon,20:00,Sun,18:23
+B-014160,R-387,Gym,Thu,18:00,Wed,17:57
+B-014161,R-375,Gym,Thu,06:00,Wed,16:30
+B-014162,R-387,Gym,Fri,18:00,Thu,17:57
+B-014163,R-259,Pool,Mon,07:00,Sun,15:38
+B-014164,R-324,Pool,Sun,18:00,Sat,19:31
+B-014165,R-143,Clubhouse,Wed,19:00,Tue,09:47
+B-014166,R-347,Pool,Thu,18:00,Thu,12:29
+B-014167,R-109,Pool,Fri,15:00,Thu,20:25
+B-014168,R-304,Pool,Wed,07:00,Tue,20:30
+B-014169,R-230,Badminton Court,Mon,19:00,Sun,13:13
+B-014170,R-161,Gym,Wed,06:00,Tue,21:02
+B-014171,R-384,Pool,Mon,07:00,Sun,16:43
+B-014172,R-232,Pool,Tue,17:00,Mon,10:46
+B-014173,R-251,Badminton Court,Wed,06:00,Tue,14:54
+B-014174,R-386,Pool,Wed,18:00,Wed,19:26
+B-014175,R-234,Badminton Court,Sat,19:00,Fri,08:40
+B-014176,R-192,Multipurpose Hall,Tue,15:00,Mon,08:51
+B-014177,R-198,Gym,Fri,06:00,Thu,08:52
+B-014178,R-275,Gym,Mon,07:00,Sun,10:13
+B-014179,R-206,Badminton Court,Thu,19:00,Wed,21:24
+B-014180,R-378,Multipurpose Hall,Sat,18:00,Fri,15:00
+B-014181,R-269,Tennis Court,Thu,07:00,Wed,11:30
+B-014182,R-269,Clubhouse,Thu,07:00,Wed,11:30
+B-014183,R-254,Gym,Thu,19:00,Thu,11:33
+B-014184,R-166,Clubhouse,Thu,11:00,Wed,11:26
+B-014185,R-166,Clubhouse,Wed,19:00,Tue,11:26
+B-014186,R-107,Badminton Court,Thu,19:00,Wed,12:00
+B-014187,R-191,Clubhouse,Wed,11:00,Tue,12:11
+B-014188,R-153,Pool,Sun,17:00,Sat,19:06
+B-014189,R-186,Pool,Sat,18:00,Fri,08:45
+B-014190,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-014191,R-203,Badminton Court,Thu,18:00,Wed,15:35
+B-014192,R-296,Gym,Sun,06:00,Sat,14:21
+B-014193,R-102,Gym,Thu,20:00,Wed,14:26
+B-014194,R-214,Gym,Thu,06:00,Wed,14:31
+B-014195,R-157,Pool,Tue,18:00,Mon,14:40
+B-014196,R-295,Pool,Thu,07:00,Wed,14:33
+B-014197,R-330,Tennis Court,Wed,17:00,Tue,16:08
+B-014198,R-337,Gym,Sat,19:00,Fri,09:06
+B-014199,R-120,Multipurpose Hall,Mon,10:00,Sun,15:15
+B-014200,R-114,Clubhouse,Sat,07:00,Fri,19:09
+B-014201,R-113,Clubhouse,Thu,11:00,Wed,10:21
+B-014202,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-014203,R-172,Gym,Sun,19:00,Sat,21:24
+B-014204,R-315,Gym,Thu,18:00,Wed,17:08
+B-014205,R-187,Clubhouse,Thu,11:00,Wed,17:56
+B-014206,R-298,Gym,Thu,06:00,Wed,14:15
+B-014207,R-105,Gym,Sat,19:00,Fri,18:15
+B-014208,R-331,Gym,Fri,07:00,Thu,13:36
+B-014209,R-193,Gym,Sat,19:00,Fri,18:38
+B-014210,R-132,Badminton Court,Wed,19:00,Tue,21:16
+B-014211,R-355,Badminton Court,Sun,10:00,Sat,17:09
+B-014212,R-188,Pool,Fri,18:00,Thu,20:25
+B-014213,R-304,Pool,Sat,15:00,Fri,20:30
+B-014214,R-206,Badminton Court,Sat,19:00,Fri,21:24
+B-014215,R-364,Gym,Thu,07:00,Wed,21:04
+B-014216,R-172,Gym,Sun,19:00,Sun,21:24
+B-014217,R-149,Gym,Thu,07:00,Wed,10:46
+B-014218,R-357,Tennis Court,Wed,18:00,Tue,21:37
+B-014219,R-315,Gym,Sun,18:00,Sat,17:08
+B-014220,R-369,Gym,Fri,18:00,Thu,17:14
+B-014221,R-367,Badminton Court,Sun,18:00,Sat,08:02
+B-014222,R-398,Badminton Court,Sun,07:00,Sat,10:39
+B-014223,R-261,Pool,Thu,11:00,Wed,08:29
+B-014224,R-248,Pool,Thu,17:00,Wed,08:43
+B-014225,R-337,Gym,Sat,19:00,Fri,09:06
+B-014226,R-291,Gym,Wed,19:00,Tue,19:45
+B-014227,R-111,Gym,Tue,19:00,Mon,09:32
+B-014228,R-242,Gym,Thu,19:00,Wed,11:47
+B-014229,R-368,Gym,Sat,21:00,Fri,09:49
+B-014230,R-201,Pool,Fri,07:00,Thu,07:56
+B-014231,R-244,Badminton Court,Wed,21:00,Tue,10:41
+B-014232,R-310,Gym,Thu,18:00,Wed,08:45
+B-014233,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-014234,R-254,Gym,Fri,19:00,Fri,11:33
+B-014235,R-340,Gym,Thu,06:00,Wed,12:11
+B-014236,R-205,Clubhouse,Sun,07:00,Sat,09:15
+B-014237,R-366,Gym,Wed,18:00,Wed,10:05
+B-014238,R-319,Clubhouse,Sat,18:00,Fri,13:38
+B-014239,R-379,Multipurpose Hall,Sun,15:00,Sat,12:40
+B-014240,R-285,Clubhouse,Fri,08:00,Thu,18:22
+B-014241,R-258,Clubhouse,Tue,19:00,Mon,14:31
+B-014242,R-369,Gym,Sun,18:00,Sat,17:14
+B-014243,R-220,Tennis Court,Fri,18:00,Thu,21:33
+B-014244,R-360,Pool,Sun,19:00,Sat,16:07
+B-014245,R-108,Tennis Court,Thu,19:00,Wed,16:48
+B-014246,R-282,Badminton Court,Wed,19:00,Tue,16:50
+B-014247,R-213,Gym,Tue,18:00,Mon,17:13
+B-014248,R-387,Gym,Thu,18:00,Wed,17:57
+B-014249,R-105,Gym,Wed,19:00,Tue,18:15
+B-014250,R-305,Badminton Court,Sun,20:00,Sat,18:23
+B-014251,R-193,Gym,Sat,19:00,Fri,18:38
+B-014252,R-231,Multipurpose Hall,Sun,15:00,Sat,18:56
+B-014253,R-114,Clubhouse,Fri,07:00,Thu,19:09
+B-014254,R-110,Gym,Wed,18:00,Tue,20:05
+B-014255,R-289,Pool,Thu,07:00,Wed,20:19
+B-014256,R-299,Pool,Thu,18:00,Wed,20:49
+B-014257,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-014258,R-169,Pool,Sun,18:00,Sat,21:20
+B-014259,R-112,Badminton Court,Thu,19:00,Wed,21:25
+B-014260,R-275,Gym,Sun,07:00,Sat,10:13
+B-014261,R-292,Badminton Court,Fri,20:00,Thu,20:01
+B-014262,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-014263,R-362,Tennis Court,Mon,07:00,Sun,07:58
+B-014264,R-273,Gym,Sat,06:00,Fri,08:18
+B-014265,R-148,Multipurpose Hall,Sat,18:00,Fri,08:47
+B-014266,R-337,Gym,Wed,19:00,Tue,09:06
+B-014267,R-382,Gym,Sun,08:00,Sat,19:55
+B-014268,R-225,Gym,Sun,18:00,Sat,10:08
+B-014269,R-117,Gym,Sat,07:00,Fri,10:50
+B-014270,R-172,Gym,Sat,19:00,Fri,21:24
+B-014271,R-117,Gym,Mon,07:00,Sun,10:50
+B-014272,R-242,Gym,Tue,19:00,Mon,11:47
+B-014273,R-199,Multipurpose Hall,Thu,06:00,Wed,10:55
+B-014274,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-014275,R-134,Badminton Court,Sun,19:00,Sat,21:13
+B-014276,R-277,Tennis Court,Sat,18:00,Fri,11:41
+B-014277,R-123,Gym,Tue,06:00,Mon,11:42
+B-014278,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-014279,R-247,Gym,Tue,19:00,Mon,10:30
+B-014280,R-329,Pool,Wed,07:00,Tue,14:14
+B-014281,R-253,Tennis Court,Sat,08:00,Fri,13:26
+B-014282,R-260,Pool,Sun,18:00,Sat,15:39
+B-014283,R-249,Badminton Court,Thu,20:00,Wed,15:35
+B-014284,R-180,Pool,Mon,19:00,Sun,16:06
+B-014285,R-267,Tennis Court,Sun,07:00,Sat,20:23
+B-014286,R-226,Multipurpose Hall,Sun,15:00,Sat,20:37
+B-014287,R-335,Clubhouse,Wed,19:00,Tue,16:30
+B-014288,R-355,Badminton Court,Sun,10:00,Sat,17:09
+B-014289,R-363,Gym,Fri,19:00,Thu,12:37
+B-014290,R-135,Tennis Court,Sun,18:00,Sat,18:00
+B-014291,R-193,Gym,Sun,19:00,Fri,18:38
+B-014292,R-114,Gym,Sat,19:00,Fri,19:09
+B-014293,R-178,Pool,Thu,17:00,Wed,19:06
+B-014294,R-150,Gym,Fri,06:00,Thu,19:52
+B-014295,R-153,Pool,Sun,17:00,Sat,19:06
+B-014296,R-291,Clubhouse,Tue,19:00,Mon,19:45
+B-014297,R-289,Badminton Court,Sat,07:00,Fri,20:19
+B-014298,R-137,Pool,Sat,07:00,Fri,16:43
+B-014299,R-133,Gym,Mon,07:00,Sun,22:00
+B-014300,R-194,Badminton Court,Sun,19:00,Sat,13:11
+B-014301,R-163,Tennis Court,Mon,17:00,Sun,18:29
+B-014302,R-108,Gym,Thu,19:00,Wed,16:48
+B-014303,R-354,Clubhouse,Tue,19:00,Mon,16:54
+B-014304,R-261,Pool,Sun,17:00,Sat,08:29
+B-014305,R-297,Badminton Court,Sun,19:00,Sun,09:18
+B-014306,R-136,Gym,Sun,18:00,Sat,09:39
+B-014307,R-158,Gym,Sun,07:00,Sat,10:07
+B-014308,R-338,Clubhouse,Sun,11:00,Sat,11:24
+B-014309,R-314,Clubhouse,Sat,19:00,Fri,11:18
+B-014310,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-014311,R-251,Gym,Sun,06:00,Sat,14:54
+B-014312,R-107,Badminton Court,Tue,19:00,Mon,12:00
+B-014313,R-379,Gym,Sun,15:00,Sat,12:40
+B-014314,R-363,Gym,Wed,19:00,Tue,12:37
+B-014315,R-155,Multipurpose Hall,Wed,18:00,Tue,13:15
+B-014316,R-154,Badminton Court,Mon,06:00,Fri,13:27
+B-014317,R-172,Gym,Sat,19:00,Sat,21:24
+B-014318,R-218,Multipurpose Hall,Fri,06:00,Thu,14:40
+B-014319,R-287,Badminton Court,Sat,19:00,Fri,10:58
+B-014320,R-131,Gym,Sun,07:00,Sat,21:25
+B-014321,R-200,Pool,Sun,16:00,Sat,15:26
+B-014322,R-180,Gym,Mon,19:00,Sun,16:06
+B-014323,R-360,Pool,Sun,07:00,Sat,16:07
+B-014324,R-194,Badminton Court,Tue,19:00,Mon,13:11
+B-014325,R-119,Pool,Sat,18:00,Sat,16:49
+B-014326,R-324,Gym,Sun,19:00,Sat,19:31
+B-014327,R-139,Gym,Sun,06:00,Sat,16:08
+B-014328,R-211,Tennis Court,Sun,18:00,Sat,21:40
+B-014329,R-101,Pool,Sun,18:00,Sat,17:51
+B-014330,R-260,Pool,Mon,18:00,Sun,15:39
+B-014331,R-305,Gym,Sun,20:00,Sat,18:23
+B-014332,R-388,Gym,Sun,15:00,Sat,18:49
+B-014333,R-379,Multipurpose Hall,Tue,15:00,Mon,12:40
+B-014334,R-391,Gym,Sun,07:00,Sat,14:54
+B-014335,R-382,Gym,Sun,08:00,Sat,19:55
+B-014336,R-134,Badminton Court,Sun,19:00,Sat,21:13
+B-014337,R-390,Multipurpose Hall,Sat,17:00,Fri,20:39
+B-014338,R-266,Badminton Court,Thu,18:00,Wed,20:51
+B-014339,R-134,Badminton Court,Fri,19:00,Thu,21:13
+B-014340,R-112,Badminton Court,Thu,18:00,Wed,21:25
+B-014341,R-220,Tennis Court,Sun,18:00,Sat,21:33
+B-014342,R-101,Gym,Wed,18:00,Tue,17:51
+B-014343,R-139,Gym,Sun,06:00,Sat,16:08
+B-014344,R-251,Gym,Wed,06:00,Tue,14:54
+B-014345,R-163,Multipurpose Hall,Mon,17:00,Sun,18:29
+B-014346,R-352,Gym,Wed,18:00,Wed,08:23
+B-014347,R-149,Gym,Fri,07:00,Thu,10:46
+B-014348,R-300,Gym,Sun,19:00,Sat,08:30
+B-014349,R-372,Badminton Court,Sun,21:00,Sat,14:46
+B-014350,R-216,Gym,Tue,19:00,Mon,11:27
+B-014351,R-306,Badminton Court,Wed,06:00,Sun,09:14
+B-014352,R-205,Pool,Fri,07:00,Thu,12:12
+B-014353,R-347,Pool,Sun,18:00,Sun,12:29
+B-014354,R-143,Clubhouse,Sun,19:00,Sat,09:47
+B-014355,R-127,Pool,Sat,18:00,Fri,10:08
+B-014356,R-159,Gym,Mon,18:00,Sat,10:08
+B-014357,R-321,Tennis Court,Thu,17:00,Wed,09:44
+B-014358,R-118,Clubhouse,Sun,19:00,Sat,10:30
+B-014359,R-221,Gym,Tue,07:00,Mon,10:14
+B-014360,R-104,Gym,Wed,07:00,Tue,10:30
+B-014361,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-014362,R-285,Clubhouse,Mon,08:00,Sun,18:22
+B-014363,R-269,Clubhouse,Thu,19:00,Wed,11:30
+B-014364,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-014365,R-242,Gym,Tue,19:00,Mon,11:47
+B-014366,R-319,Clubhouse,Wed,18:00,Tue,13:38
+B-014367,R-393,Clubhouse,Sat,16:00,Fri,14:14
+B-014368,R-172,Gym,Sun,19:00,Sat,21:24
+B-014369,R-175,Clubhouse,Fri,19:00,Fri,13:47
+B-014370,R-278,Pool,Sun,17:00,Sat,14:12
+B-014371,R-298,Gym,Sat,06:00,Fri,14:15
+B-014372,R-294,Pool,Mon,07:00,Sun,14:45
+B-014373,R-203,Badminton Court,Fri,18:00,Thu,15:35
+B-014374,R-183,Badminton Court,Mon,06:00,Sun,19:53
+B-014375,R-260,Pool,Mon,18:00,Sun,15:39
+B-014376,R-260,Pool,Mon,18:00,Sun,15:39
+B-014377,R-197,Gym,Wed,19:00,Tue,17:55
+B-014378,R-180,Badminton Court,Sat,17:00,Fri,16:06
+B-014379,R-230,Tennis Court,Thu,19:00,Wed,13:13
+B-014380,R-354,Clubhouse,Mon,19:00,Sun,16:54
+B-014381,R-241,Pool,Wed,07:00,Tue,16:48
+B-014382,R-384,Pool,Sat,07:00,Fri,16:43
+B-014383,R-225,Clubhouse,Wed,18:00,Tue,10:08
+B-014384,R-394,Gym,Tue,07:00,Mon,18:10
+B-014385,R-285,Clubhouse,Tue,08:00,Mon,18:22
+B-014386,R-178,Pool,Sun,17:00,Sat,19:06
+B-014387,R-275,Gym,Thu,07:00,Wed,10:13
+B-014388,R-257,Clubhouse,Tue,19:00,Mon,20:01
+B-014389,R-196,Badminton Court,Fri,20:00,Thu,21:03
+B-014390,R-364,Gym,Wed,07:00,Tue,21:04
+B-014391,R-251,Gym,Sun,06:00,Sat,14:54
+B-014392,R-382,Gym,Mon,08:00,Sun,19:55
+B-014393,R-248,Pool,Sun,17:00,Sat,08:43
+B-014394,R-352,Gym,Mon,18:00,Mon,08:23
+B-014395,R-248,Tennis Court,Thu,17:00,Wed,08:43
+B-014396,R-324,Pool,Wed,18:00,Tue,19:31
+B-014397,R-256,Multipurpose Hall,Thu,18:00,Wed,08:31
+B-014398,R-310,Gym,Wed,18:00,Tue,08:45
+B-014399,R-169,Pool,Sat,18:00,Fri,21:20
+B-014400,R-376,Badminton Court,Tue,18:00,Mon,08:57
+B-014401,R-303,Gym,Tue,21:00,Mon,11:19
+B-014402,R-111,Gym,Sun,19:00,Sat,09:32
+B-014403,R-221,Gym,Tue,07:00,Mon,10:14
+B-014404,R-126,Pool,Fri,17:00,Thu,10:27
+B-014405,R-393,Clubhouse,Sat,16:00,Fri,14:14
+B-014406,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-014407,R-247,Gym,Tue,19:00,Mon,10:30
+B-014408,R-347,Pool,Thu,18:00,Thu,12:29
+B-014409,R-312,Gym,Tue,18:00,Tue,12:32
+B-014410,R-150,Gym,Tue,06:00,Mon,19:52
+B-014411,R-258,Clubhouse,Tue,19:00,Mon,14:31
+B-014412,R-329,Pool,Wed,07:00,Tue,14:14
+B-014413,R-329,Pool,Wed,07:00,Tue,14:14
+B-014414,R-372,Badminton Court,Tue,18:00,Mon,14:46
+B-014415,R-360,Pool,Mon,07:00,Sun,16:07
+B-014416,R-364,Gym,Thu,07:00,Wed,21:04
+B-014417,R-208,Gym,Wed,18:00,Tue,16:45
+B-014418,R-369,Gym,Tue,18:00,Mon,17:14
+B-014419,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-014420,R-319,Clubhouse,Wed,18:00,Sun,13:38
+B-014421,R-141,Badminton Court,Sat,21:00,Fri,18:45
+B-014422,R-313,Tennis Court,Mon,07:00,Sun,08:19
+B-014423,R-227,Pool,Mon,07:00,Sun,19:52
+B-014424,R-206,Badminton Court,Thu,19:00,Wed,21:24
+B-014425,R-131,Gym,Sun,07:00,Sat,21:25
+B-014426,R-211,Tennis Court,Sun,18:00,Sat,21:40
+B-014427,R-218,Multipurpose Hall,Sun,06:00,Sat,14:40
+B-014428,R-300,Gym,Wed,19:00,Tue,08:30
+B-014429,R-296,Gym,Sat,06:00,Fri,14:21
+B-014430,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-014431,R-166,Clubhouse,Wed,19:00,Tue,11:26
+B-014432,R-151,Clubhouse,Thu,19:00,Wed,07:56
+B-014433,R-300,Gym,Wed,19:00,Tue,08:30
+B-014434,R-389,Badminton Court,Sun,19:00,Sat,13:39
+B-014435,R-154,Gym,Wed,06:00,Tue,13:27
+B-014436,R-261,Pool,Wed,17:00,Tue,08:29
+B-014437,R-234,Badminton Court,Tue,19:00,Mon,08:40
+B-014438,R-398,Pool,Sun,10:00,Sat,10:39
+B-014439,R-143,Clubhouse,Wed,19:00,Tue,09:47
+B-014440,R-127,Pool,Thu,18:00,Tue,10:08
+B-014441,R-221,Badminton Court,Wed,07:00,Tue,10:14
+B-014442,R-104,Gym,Sat,07:00,Fri,10:30
+B-014443,R-104,Gym,Wed,07:00,Tue,10:30
+B-014444,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-014445,R-269,Tennis Court,Thu,19:00,Wed,11:30
+B-014446,R-166,Clubhouse,Thu,11:00,Wed,11:26
+B-014447,R-107,Badminton Court,Tue,19:00,Sun,12:00
+B-014448,R-242,Gym,Tue,19:00,Mon,11:47
+B-014449,R-270,Gym,Sat,19:00,Fri,11:50
+B-014450,R-173,Gym,Sun,18:00,Sat,11:42
+B-014451,R-242,Gym,Thu,19:00,Wed,11:47
+B-014452,R-229,Gym,Thu,06:00,Wed,12:49
+B-014453,R-312,Tennis Court,Tue,18:00,Mon,12:32
+B-014454,R-288,Tennis Court,Wed,18:00,Tue,13:03
+B-014455,R-289,Tennis Court,Thu,07:00,Wed,20:19
+B-014456,R-237,Gym,Wed,19:00,Tue,16:29
+B-014457,R-254,Gym,Thu,19:00,Thu,11:33
+B-014458,R-102,Multipurpose Hall,Tue,19:00,Mon,14:26
+B-014459,R-214,Gym,Wed,06:00,Tue,14:31
+B-014460,R-224,Pool,Sun,21:00,Sat,15:08
+B-014461,R-157,Pool,Tue,18:00,Mon,14:40
+B-014462,R-122,Clubhouse,Fri,18:00,Thu,21:05
+B-014463,R-378,Multipurpose Hall,Sat,18:00,Fri,15:00
+B-014464,R-291,Clubhouse,Tue,19:00,Mon,19:45
+B-014465,R-156,Gym,Mon,07:00,Sun,15:49
+B-014466,R-304,Multipurpose Hall,Sat,07:00,Fri,20:30
+B-014467,R-318,Gym,Sat,07:00,Fri,16:54
+B-014468,R-384,Pool,Wed,07:00,Tue,16:55
+B-014469,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-014470,R-385,Badminton Court,Thu,19:00,Wed,17:23
+B-014471,R-328,Gym,Sat,19:00,Fri,17:17
+B-014472,R-135,Tennis Court,Thu,18:00,Wed,18:00
+B-014473,R-105,Gym,Sat,19:00,Fri,18:15
+B-014474,R-305,Badminton Court,Wed,20:00,Tue,18:23
+B-014475,R-222,Pool,Thu,17:00,Wed,18:54
+B-014476,R-388,Gym,Tue,06:00,Mon,18:49
+B-014477,R-272,Gym,Tue,21:00,Sun,19:02
+B-014478,R-308,Badminton Court,Sat,19:00,Fri,14:09
+B-014479,R-153,Pool,Sun,17:00,Sat,19:11
+B-014480,R-291,Clubhouse,Thu,19:00,Wed,19:45
+B-014481,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-014482,R-266,Badminton Court,Fri,20:00,Thu,20:51
+B-014483,R-101,Gym,Wed,18:00,Tue,17:51
+B-014484,R-251,Gym,Sun,06:00,Sat,14:54
+B-014485,R-135,Tennis Court,Sun,18:00,Sat,18:00
+B-014486,R-182,Clubhouse,Fri,18:00,Thu,21:37
+B-014487,R-385,Badminton Court,Tue,19:00,Mon,17:23
+B-014488,R-365,Clubhouse,Wed,19:00,Tue,12:04
+B-014489,R-189,Gym,Fri,06:00,Thu,10:42
+B-014490,R-300,Tennis Court,Sun,19:00,Sat,08:30
+B-014491,R-241,Pool,Thu,07:00,Wed,16:48
+B-014492,R-321,Tennis Court,Thu,17:00,Wed,09:44
+B-014493,R-204,Gym,Thu,18:00,Wed,09:57
+B-014494,R-127,Pool,Sat,18:00,Fri,10:08
+B-014495,R-159,Gym,Thu,18:00,Tue,10:08
+B-014496,R-149,Gym,Thu,07:00,Wed,10:46
+B-014497,R-269,Clubhouse,Thu,19:00,Wed,11:30
+B-014498,R-166,Badminton Court,Thu,11:00,Wed,11:26
+B-014499,R-254,Gym,Thu,19:00,Wed,11:33
+B-014500,R-107,Badminton Court,Thu,19:00,Wed,12:00
+B-014501,R-360,Gym,Sun,07:00,Sat,16:07
+B-014502,R-320,Gym,Sun,06:00,Sat,12:47
+B-014503,R-232,Pool,Thu,07:00,Wed,10:46
+B-014504,R-238,Badminton Court,Thu,19:00,Wed,13:04
+B-014505,R-399,Badminton Court,Sun,20:00,Sat,11:32
+B-014506,R-278,Pool,Sun,17:00,Sat,14:12
+B-014507,R-298,Gym,Thu,06:00,Wed,14:15
+B-014508,R-214,Gym,Thu,06:00,Wed,14:31
+B-014509,R-393,Clubhouse,Tue,18:00,Sun,14:14
+B-014510,R-255,Pool,Wed,17:00,Tue,09:04
+B-014511,R-298,Gym,Sat,06:00,Fri,14:15
+B-014512,R-397,Badminton Court,Thu,07:00,Wed,14:07
+B-014513,R-110,Badminton Court,Wed,18:00,Tue,20:05
+B-014514,R-203,Badminton Court,Thu,18:00,Wed,15:35
+B-014515,R-363,Gym,Wed,19:00,Tue,12:37
+B-014516,R-274,Gym,Thu,19:00,Thu,16:25
+B-014517,R-237,Gym,Tue,19:00,Mon,16:29
+B-014518,R-333,Tennis Court,Fri,18:00,Thu,17:05
+B-014519,R-137,Pool,Wed,07:00,Tue,16:43
+B-014520,R-315,Gym,Thu,18:00,Wed,17:08
+B-014521,R-387,Gym,Thu,18:00,Wed,17:57
+B-014522,R-197,Gym,Mon,19:00,Sun,17:55
+B-014523,R-105,Badminton Court,Fri,19:00,Thu,18:15
+B-014524,R-305,Gym,Fri,20:00,Thu,18:23
+B-014525,R-261,Pool,Thu,17:00,Wed,08:29
+B-014526,R-114,Gym,Fri,19:00,Thu,19:09
+B-014527,R-272,Gym,Thu,21:00,Wed,19:02
+B-014528,R-291,Clubhouse,Thu,19:00,Wed,19:45
+B-014529,R-291,Clubhouse,Tue,19:00,Mon,19:45
+B-014530,R-289,Badminton Court,Thu,07:00,Wed,20:19
+B-014531,R-112,Badminton Court,Thu,18:00,Wed,21:25
+B-014532,R-304,Pool,Thu,07:00,Wed,20:30
+B-014533,R-182,Multipurpose Hall,Fri,18:00,Thu,21:37
+B-014534,R-241,Pool,Thu,07:00,Wed,16:48
+B-014535,R-303,Gym,Fri,21:00,Thu,11:19
+B-014536,R-248,Pool,Fri,17:00,Thu,08:43
+B-014537,R-300,Gym,Fri,19:00,Thu,08:30
+B-014538,R-300,Gym,Fri,19:00,Thu,08:30
+B-014539,R-279,Clubhouse,Fri,16:00,Fri,08:21
+B-014540,R-306,Gym,Thu,06:00,Wed,09:14
+B-014541,R-148,Pool,Tue,11:00,Mon,08:47
+B-014542,R-192,Multipurpose Hall,Sun,15:00,Sat,08:51
+B-014543,R-306,Gym,Thu,06:00,Wed,09:14
+B-014544,R-114,Gym,Fri,19:00,Thu,19:09
+B-014545,R-297,Badminton Court,Mon,19:00,Mon,09:18
+B-014546,R-179,Gym,Thu,06:00,Wed,08:58
+B-014547,R-111,Gym,Fri,19:00,Thu,09:32
+B-014548,R-243,Tennis Court,Tue,18:00,Mon,09:41
+B-014549,R-159,Pool,Thu,18:00,Wed,10:08
+B-014550,R-221,Gym,Tue,07:00,Mon,10:14
+B-014551,R-244,Badminton Court,Wed,21:00,Tue,10:41
+B-014552,R-125,Multipurpose Hall,Mon,15:00,Sun,10:45
+B-014553,R-151,Clubhouse,Mon,19:00,Sun,07:56
+B-014554,R-379,Gym,Sun,15:00,Sun,12:40
+B-014555,R-123,Gym,Tue,06:00,Mon,11:42
+B-014556,R-149,Gym,Fri,07:00,Thu,10:46
+B-014557,R-314,Clubhouse,Sat,19:00,Fri,11:18
+B-014558,R-269,Tennis Court,Sat,07:00,Fri,11:30
+B-014559,R-350,Gym,Sun,18:00,Sat,19:00
+B-014560,R-166,Clubhouse,Thu,11:00,Wed,11:26
+B-014561,R-314,Pool,Sun,19:00,Sat,11:18
+B-014562,R-242,Gym,Thu,19:00,Wed,11:47
+B-014563,R-379,Multipurpose Hall,Sun,15:00,Sat,12:40
+B-014564,R-170,Clubhouse,Sat,16:00,Sat,12:29
+B-014565,R-229,Gym,Thu,06:00,Wed,12:49
+B-014566,R-331,Gym,Sat,07:00,Fri,13:36
+B-014567,R-393,Clubhouse,Sat,16:00,Fri,14:14
+B-014568,R-218,Multipurpose Hall,Fri,06:00,Thu,14:40
+B-014569,R-315,Gym,Sun,18:00,Sat,17:08
+B-014570,R-384,Pool,Sat,07:00,Fri,16:55
+B-014571,R-224,Pool,Sun,21:00,Sat,15:08
+B-014572,R-262,Badminton Court,Wed,20:00,Tue,15:15
+B-014573,R-237,Gym,Tue,19:00,Mon,16:29
+B-014574,R-201,Pool,Thu,07:00,Wed,07:56
+B-014575,R-215,Gym,Sun,18:00,Sat,16:55
+B-014576,R-213,Gym,Tue,18:00,Mon,17:13
+B-014577,R-215,Gym,Sun,18:00,Sun,16:55
+B-014578,R-369,Gym,Fri,18:00,Thu,17:14
+B-014579,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-014580,R-326,Gym,Fri,19:00,Fri,18:14
+B-014581,R-141,Badminton Court,Fri,21:00,Thu,18:45
+B-014582,R-209,Gym,Tue,07:00,Mon,19:54
+B-014583,R-292,Badminton Court,Sun,19:00,Sat,20:01
+B-014584,R-176,Badminton Court,Thu,20:00,Wed,20:23
+B-014585,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-014586,R-289,Badminton Court,Sat,07:00,Fri,20:19
+B-014587,R-142,Tennis Court,Tue,07:00,Mon,20:34
+B-014588,R-390,Multipurpose Hall,Sat,17:00,Fri,20:39
+B-014589,R-344,Gym,Mon,19:00,Sun,21:51
+B-014590,R-172,Gym,Sat,19:00,Sat,21:24
+B-014591,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-014592,R-220,Pool,Sun,18:00,Sat,21:33
+B-014593,R-148,Clubhouse,Sat,11:00,Fri,08:47
+B-014594,R-337,Gym,Wed,19:00,Wed,09:06
+B-014595,R-381,Badminton Court,Fri,19:00,Thu,09:31
+B-014596,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-014597,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-014598,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-014599,R-104,Gym,Sat,07:00,Fri,10:30
+B-014600,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-014601,R-153,Pool,Sat,08:00,Fri,19:11
+B-014602,R-277,Tennis Court,Mon,18:00,Sun,11:41
+B-014603,R-303,Badminton Court,Fri,21:00,Thu,11:19
+B-014604,R-123,Gym,Tue,06:00,Mon,11:42
+B-014605,R-304,Tennis Court,Sat,07:00,Fri,20:30
+B-014606,R-234,Badminton Court,Sat,19:00,Fri,08:40
+B-014607,R-296,Gym,Thu,06:00,Wed,14:21
+B-014608,R-329,Pool,Sat,07:00,Fri,14:14
+B-014609,R-251,Gym,Sun,07:00,Sat,14:54
+B-014610,R-289,Pool,Sat,15:00,Fri,20:19
+B-014611,R-249,Badminton Court,Thu,19:00,Wed,15:35
+B-014612,R-358,Gym,Sat,18:00,Fri,15:45
+B-014613,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-014614,R-360,Pool,Sun,07:00,Sat,16:07
+B-014615,R-237,Gym,Tue,19:00,Tue,16:29
+B-014616,R-134,Badminton Court,Fri,19:00,Thu,21:13
+B-014617,R-333,Tennis Court,Tue,18:00,Mon,17:05
+B-014618,R-115,Gym,Mon,11:00,Sun,17:27
+B-014619,R-208,Gym,Sat,18:00,Fri,16:45
+B-014620,R-285,Tennis Court,Fri,08:00,Thu,18:22
+B-014621,R-216,Gym,Tue,19:00,Mon,11:27
+B-014622,R-387,Gym,Fri,10:00,Thu,17:57
+B-014623,R-355,Badminton Court,Fri,10:00,Thu,17:09
+B-014624,R-128,Clubhouse,Sat,11:00,Fri,17:47
+B-014625,R-325,Gym,Sat,18:00,Fri,21:07
+B-014626,R-105,Badminton Court,Sat,19:00,Fri,18:15
+B-014627,R-193,Gym,Sat,19:00,Fri,18:38
+B-014628,R-193,Gym,Sun,18:00,Sat,18:38
+B-014629,R-388,Gym,Sun,06:00,Sat,18:49
+B-014630,R-324,Gym,Sun,18:00,Sat,19:31
+B-014631,R-382,Tennis Court,Sun,08:00,Sat,19:55
+B-014632,R-139,Gym,Mon,07:00,Sun,16:08
+B-014633,R-267,Tennis Court,Sun,07:00,Sat,20:23
+B-014634,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-014635,R-134,Badminton Court,Sat,19:00,Sat,21:13
+B-014636,R-206,Badminton Court,Sat,19:00,Fri,21:24
+B-014637,R-325,Gym,Sun,18:00,Sat,21:07
+B-014638,R-220,Tennis Court,Sun,18:00,Sat,21:33
+B-014639,R-142,Tennis Court,Mon,07:00,Sun,20:34
+B-014640,R-234,Badminton Court,Sat,19:00,Fri,08:40
+B-014641,R-306,Gym,Mon,06:00,Sun,09:14
+B-014642,R-324,Multipurpose Hall,Sun,18:00,Sat,19:31
+B-014643,R-127,Pool,Sat,18:00,Fri,10:08
+B-014644,R-321,Tennis Court,Mon,17:00,Sun,09:44
+B-014645,R-225,Gym,Sun,18:00,Sat,10:08
+B-014646,R-287,Clubhouse,Sat,19:00,Fri,10:58
+B-014647,R-149,Gym,Wed,07:00,Tue,10:46
+B-014648,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-014649,R-269,Tennis Court,Sat,19:00,Fri,11:30
+B-014650,R-166,Clubhouse,Fri,11:00,Thu,11:26
+B-014651,R-216,Gym,Mon,19:00,Sun,11:27
+B-014652,R-166,Clubhouse,Wed,11:00,Tue,11:26
+B-014653,R-154,Badminton Court,Mon,07:00,Sun,13:27
+B-014654,R-242,Gym,Sun,19:00,Sat,11:47
+B-014655,R-191,Clubhouse,Sun,11:00,Sat,12:11
+B-014656,R-199,Gym,Tue,06:00,Mon,10:55
+B-014657,R-247,Gym,Sat,19:00,Fri,10:30
+B-014658,R-319,Clubhouse,Sat,18:00,Wed,13:38
+B-014659,R-246,Tennis Court,Wed,18:00,Tue,14:47
+B-014660,R-299,Pool,Sat,18:00,Fri,20:49
+B-014661,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-014662,R-355,Badminton Court,Sun,10:00,Sat,17:19
+B-014663,R-117,Gym,Sat,07:00,Fri,10:50
+B-014664,R-147,Clubhouse,Sat,19:00,Fri,16:10
+B-014665,R-360,Pool,Sun,07:00,Sat,16:07
+B-014666,R-101,Pool,Sun,19:00,Sat,17:51
+B-014667,R-197,Gym,Sun,19:00,Sat,17:55
+B-014668,R-105,Badminton Court,Wed,19:00,Tue,18:15
+B-014669,R-130,Gym,Thu,11:00,Wed,21:28
+B-014670,R-169,Pool,Sat,18:00,Fri,21:20
+B-014671,R-220,Tennis Court,Mon,18:00,Sun,21:33
+B-014672,R-131,Gym,Sun,07:00,Sat,21:25
+B-014673,R-132,Badminton Court,Sun,19:00,Sat,21:16
+B-014674,R-314,Pool,Sat,19:00,Fri,11:18
+B-014675,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-014676,R-352,Gym,Wed,18:00,Wed,08:23
+B-014677,R-373,Pool,Wed,18:00,Mon,08:29
+B-014678,R-261,Pool,Sun,11:00,Sat,08:29
+B-014679,R-179,Gym,Wed,06:00,Tue,08:58
+B-014680,R-306,Gym,Thu,06:00,Wed,09:14
+B-014681,R-381,Badminton Court,Sun,19:00,Sat,09:31
+B-014682,R-343,Pool,Sat,18:00,Fri,20:00
+B-014683,R-224,Pool,Sun,21:00,Sat,15:08
+B-014684,R-275,Gym,Thu,07:00,Wed,10:13
+B-014685,R-159,Gym,Mon,18:00,Sat,10:08
+B-014686,R-154,Badminton Court,Mon,06:00,Sun,13:27
+B-014687,R-353,Gym,Thu,19:00,Mon,10:11
+B-014688,R-125,Multipurpose Hall,Tue,15:00,Tue,10:45
+B-014689,R-250,Pool,Wed,07:00,Tue,11:00
+B-014690,R-231,Multipurpose Hall,Sun,15:00,Sat,18:56
+B-014691,R-143,Clubhouse,Sun,19:00,Sat,09:47
+B-014692,R-107,Badminton Court,Sun,19:00,Sat,12:00
+B-014693,R-229,Gym,Wed,06:00,Tue,12:49
+B-014694,R-230,Badminton Court,Mon,19:00,Sun,13:13
+B-014695,R-172,Gym,Sun,19:00,Sun,21:24
+B-014696,R-319,Badminton Court,Mon,18:00,Sun,13:38
+B-014697,R-175,Clubhouse,Fri,19:00,Thu,13:47
+B-014698,R-397,Pool,Tue,07:00,Mon,14:07
+B-014699,R-135,Tennis Court,Thu,18:00,Wed,18:00
+B-014700,R-393,Clubhouse,Tue,16:00,Mon,14:14
+B-014701,R-248,Pool,Mon,17:00,Sun,08:43
+B-014702,R-347,Pool,Thu,18:00,Thu,12:29
+B-014703,R-360,Pool,Mon,07:00,Sun,16:07
+B-014704,R-149,Gym,Wed,07:00,Tue,10:46
+B-014705,R-215,Gym,Sun,18:00,Sat,16:55
+B-014706,R-327,Gym,Sun,06:00,Sat,13:03
+B-014707,R-384,Pool,Mon,07:00,Sun,16:55
+B-014708,R-119,Pool,Mon,18:00,Mon,16:49
+B-014709,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-014710,R-342,Pool,Tue,17:00,Mon,17:03
+B-014711,R-315,Gym,Sun,18:00,Sat,17:08
+B-014712,R-385,Tennis Court,Tue,19:00,Mon,17:23
+B-014713,R-197,Gym,Wed,19:00,Tue,17:55
+B-014714,R-305,Badminton Court,Mon,20:00,Sun,18:23
+B-014715,R-388,Gym,Tue,15:00,Mon,18:49
+B-014716,R-163,Tennis Court,Mon,17:00,Sun,07:45
+B-014717,R-386,Pool,Thu,18:00,Thu,19:26
+B-014718,R-285,Clubhouse,Mon,08:00,Sun,18:22
+B-014719,R-219,Clubhouse,Thu,19:00,Thu,20:03
+B-014720,R-199,Gym,Tue,06:00,Mon,10:55
+B-014721,R-188,Pool,Tue,18:00,Mon,20:25
+B-014722,R-390,Multipurpose Hall,Sun,17:00,Sat,20:39
+B-014723,R-284,Pool,Tue,07:00,Mon,19:46
+B-014724,R-105,Badminton Court,Wed,19:00,Tue,18:15
+B-014725,R-133,Pool,Wed,07:00,Tue,22:00
+B-014726,R-117,Gym,Mon,07:00,Sun,10:50
+B-014727,R-187,Clubhouse,Tue,11:00,Mon,17:41
+B-014728,R-203,Badminton Court,Wed,18:00,Tue,15:35
+B-014729,R-151,Badminton Court,Wed,19:00,Tue,07:56
+B-014730,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-014731,R-313,Tennis Court,Wed,07:00,Tue,08:19
+B-014732,R-300,Gym,Fri,19:00,Tue,08:30
+B-014733,R-300,Gym,Fri,19:00,Thu,08:30
+B-014734,R-136,Gym,Wed,18:00,Tue,09:39
+B-014735,R-114,Clubhouse,Fri,19:00,Thu,19:09
+B-014736,R-196,Badminton Court,Sat,20:00,Fri,21:03
+B-014737,R-312,Tennis Court,Mon,18:00,Mon,12:32
+B-014738,R-239,Multipurpose Hall,Wed,07:00,Tue,10:58
+B-014739,R-372,Badminton Court,Sun,21:00,Sat,14:46
+B-014740,R-166,Clubhouse,Mon,11:00,Sun,11:26
+B-014741,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-014742,R-379,Multipurpose Hall,Tue,06:00,Tue,12:40
+B-014743,R-131,Gym,Wed,07:00,Tue,21:25
+B-014744,R-363,Gym,Tue,19:00,Mon,12:37
+B-014745,R-257,Badminton Court,Tue,19:00,Mon,20:01
+B-014746,R-327,Gym,Tue,06:00,Mon,13:03
+B-014747,R-241,Pool,Tue,07:00,Mon,16:48
+B-014748,R-352,Gym,Mon,18:00,Mon,08:23
+B-014749,R-397,Pool,Tue,07:00,Mon,14:07
+B-014750,R-298,Gym,Thu,06:00,Wed,14:15
+B-014751,R-295,Pool,Fri,07:00,Thu,14:33
+B-014752,R-319,Clubhouse,Sat,18:00,Wed,13:38
+B-014753,R-203,Tennis Court,Wed,18:00,Tue,15:35
+B-014754,R-200,Clubhouse,Sun,16:00,Sat,15:26
+B-014755,R-400,Pool,Sun,15:00,Sat,15:43
+B-014756,R-180,Badminton Court,Sat,17:00,Fri,16:06
+B-014757,R-180,Badminton Court,Sat,17:00,Fri,16:06
+B-014758,R-125,Multipurpose Hall,Tue,17:00,Tue,10:45
+B-014759,R-147,Clubhouse,Fri,19:00,Thu,16:10
+B-014760,R-318,Gym,Sat,07:00,Fri,16:54
+B-014761,R-354,Clubhouse,Tue,19:00,Mon,16:54
+B-014762,R-241,Pool,Thu,07:00,Wed,16:48
+B-014763,R-279,Clubhouse,Wed,16:00,Tue,08:21
+B-014764,R-387,Gym,Thu,18:00,Wed,17:57
+B-014765,R-285,Clubhouse,Tue,08:00,Mon,18:22
+B-014766,R-221,Gym,Tue,07:00,Mon,10:14
+B-014767,R-153,Pool,Sun,08:00,Sat,19:11
+B-014768,R-209,Gym,Tue,07:00,Mon,19:54
+B-014769,R-110,Badminton Court,Sun,18:00,Sat,20:05
+B-014770,R-245,Pool,Tue,07:00,Mon,12:03
+B-014771,R-109,Pool,Tue,15:00,Mon,20:25
+B-014772,R-172,Gym,Sat,19:00,Sat,21:24
+B-014773,R-336,Badminton Court,Sat,11:00,Fri,12:14
+B-014774,R-329,Pool,Wed,07:00,Tue,14:14
+B-014775,R-248,Pool,Fri,17:00,Thu,08:43
+B-014776,R-148,Clubhouse,Tue,18:00,Mon,08:47
+B-014777,R-289,Badminton Court,Thu,18:00,Wed,20:19
+B-014778,R-352,Gym,Wed,18:00,Wed,08:23
+B-014779,R-159,Pool,Thu,18:00,Wed,10:08
+B-014780,R-370,Clubhouse,Thu,11:00,Wed,10:21
+B-014781,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-014782,R-303,Badminton Court,Tue,21:00,Mon,11:19
+B-014783,R-166,Clubhouse,Wed,19:00,Tue,11:26
+B-014784,R-254,Gym,Thu,19:00,Thu,11:33
+B-014785,R-216,Gym,Tue,19:00,Mon,11:27
+B-014786,R-107,Badminton Court,Tue,19:00,Mon,12:00
+B-014787,R-242,Gym,Tue,19:00,Mon,11:47
+B-014788,R-270,Gym,Sat,19:00,Fri,11:50
+B-014789,R-365,Clubhouse,Fri,19:00,Tue,12:04
+B-014790,R-365,Clubhouse,Fri,19:00,Tue,12:04
+B-014791,R-173,Gym,Sun,18:00,Sat,11:42
+B-014792,R-172,Gym,Sun,19:00,Sun,21:18
+B-014793,R-312,Badminton Court,Tue,18:00,Tue,12:32
+B-014794,R-102,Gym,Tue,19:00,Tue,14:26
+B-014795,R-160,Clubhouse,Thu,07:00,Wed,13:09
+B-014796,R-155,Multipurpose Hall,Tue,18:00,Mon,13:15
+B-014797,R-154,Badminton Court,Wed,06:00,Tue,13:27
+B-014798,R-155,Multipurpose Hall,Mon,18:00,Sat,13:15
+B-014799,R-298,Gym,Sat,06:00,Fri,14:15
+B-014800,R-262,Badminton Court,Wed,19:00,Tue,15:15
+B-014801,R-203,Tennis Court,Wed,19:00,Tue,15:15
+B-014802,R-118,Clubhouse,Thu,19:00,Wed,10:30
+B-014803,R-261,Pool,Wed,17:00,Tue,08:29
+B-014804,R-289,Badminton Court,Thu,15:00,Wed,20:19
+B-014805,R-369,Gym,Sun,18:00,Sat,17:14
+B-014806,R-237,Gym,Tue,19:00,Tue,16:29
+B-014807,R-137,Pool,Wed,07:00,Tue,16:43
+B-014808,R-118,Pool,Thu,07:00,Wed,10:30
+B-014809,R-305,Badminton Court,Wed,20:00,Tue,18:23
+B-014810,R-285,Tennis Court,Fri,08:00,Thu,18:22
+B-014811,R-284,Pool,Tue,07:00,Mon,19:46
+B-014812,R-131,Gym,Wed,07:00,Tue,21:25
+B-014813,R-121,Badminton Court,Wed,18:00,Tue,20:00
+B-014814,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-014815,R-304,Tennis Court,Wed,07:00,Tue,20:30
+B-014816,R-169,Pool,Mon,18:00,Sun,21:20
+B-014817,R-206,Badminton Court,Thu,19:00,Wed,21:24
+B-014818,R-198,Gym,Thu,06:00,Wed,08:52
+B-014819,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-014820,R-378,Multipurpose Hall,Sat,18:00,Fri,15:00
+B-014821,R-151,Badminton Court,Thu,19:00,Wed,07:56
+B-014822,R-179,Gym,Thu,06:00,Wed,08:58
+B-014823,R-368,Gym,Wed,21:00,Tue,09:49
+B-014824,R-127,Pool,Thu,18:00,Wed,10:08
+B-014825,R-126,Pool,Fri,17:00,Thu,10:27
+B-014826,R-221,Gym,Wed,07:00,Tue,10:14
+B-014827,R-303,Gym,Thu,21:00,Wed,11:19
+B-014828,R-247,Gym,Tue,19:00,Mon,10:30
+B-014829,R-149,Gym,Wed,07:00,Tue,10:46
+B-014830,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-014831,R-269,Clubhouse,Thu,19:00,Wed,11:30
+B-014832,R-166,Clubhouse,Thu,11:00,Wed,11:26
+B-014833,R-379,Gym,Sun,15:00,Sat,12:40
+B-014834,R-347,Pool,Thu,18:00,Thu,12:29
+B-014835,R-326,Gym,Thu,19:00,Wed,18:14
+B-014836,R-248,Pool,Fri,17:00,Thu,08:43
+B-014837,R-398,Badminton Court,Thu,19:00,Wed,10:39
+B-014838,R-295,Pool,Thu,07:00,Wed,14:33
+B-014839,R-101,Gym,Wed,18:00,Tue,17:51
+B-014840,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-014841,R-232,Pool,Wed,07:00,Tue,10:46
+B-014842,R-137,Pool,Fri,07:00,Thu,16:43
+B-014843,R-135,Tennis Court,Thu,18:00,Wed,18:00
+B-014844,R-251,Gym,Wed,07:00,Tue,14:54
+B-014845,R-231,Multipurpose Hall,Sun,18:00,Sat,18:56
+B-014846,R-394,Gym,Tue,07:00,Mon,18:10
+B-014847,R-304,Pool,Thu,07:00,Wed,20:30
+B-014848,R-289,Badminton Court,Sat,07:00,Fri,20:19
+B-014849,R-214,Gym,Wed,06:00,Tue,14:31
+B-014850,R-367,Badminton Court,Sun,18:00,Sat,08:02
+B-014851,R-300,Gym,Fri,19:00,Tue,08:30
+B-014852,R-399,Badminton Court,Sat,07:00,Fri,11:32
+B-014853,R-149,Gym,Thu,07:00,Wed,10:46
+B-014854,R-338,Clubhouse,Fri,11:00,Thu,11:24
+B-014855,R-269,Clubhouse,Sat,19:00,Fri,11:30
+B-014856,R-242,Gym,Thu,19:00,Wed,11:47
+B-014857,R-123,Gym,Tue,06:00,Mon,11:42
+B-014858,R-102,Gym,Thu,19:00,Thu,14:26
+B-014859,R-242,Gym,Tue,19:00,Tue,11:47
+B-014860,R-108,Tennis Court,Fri,19:00,Thu,16:48
+B-014861,R-191,Clubhouse,Wed,11:00,Tue,12:11
+B-014862,R-261,Pool,Thu,11:00,Wed,08:29
+B-014863,R-215,Gym,Thu,18:00,Thu,16:55
+B-014864,R-363,Gym,Fri,19:00,Thu,12:37
+B-014865,R-111,Gym,Sun,19:00,Sat,09:32
+B-014866,R-397,Pool,Thu,07:00,Wed,14:07
+B-014867,R-324,Gym,Wed,18:00,Tue,19:31
+B-014868,R-139,Gym,Mon,07:00,Sun,16:08
+B-014869,R-129,Clubhouse,Fri,11:00,Thu,16:03
+B-014870,R-360,Pool,Sun,07:00,Sat,16:07
+B-014871,R-137,Pool,Sat,07:00,Fri,16:43
+B-014872,R-282,Badminton Court,Wed,19:00,Tue,16:50
+B-014873,R-384,Pool,Wed,07:00,Tue,16:55
+B-014874,R-165,Badminton Court,Fri,21:00,Thu,16:56
+B-014875,R-355,Badminton Court,Fri,10:00,Thu,17:19
+B-014876,R-203,Tennis Court,Thu,18:00,Wed,15:15
+B-014877,R-213,Gym,Tue,18:00,Mon,17:01
+B-014878,R-387,Gym,Fri,18:00,Thu,17:57
+B-014879,R-326,Gym,Thu,19:00,Thu,18:14
+B-014880,R-105,Badminton Court,Fri,19:00,Thu,18:15
+B-014881,R-343,Gym,Sat,18:00,Fri,20:00
+B-014882,R-305,Gym,Fri,20:00,Thu,18:23
+B-014883,R-153,Tennis Court,Sat,08:00,Fri,19:11
+B-014884,R-153,Pool,Sat,08:00,Fri,19:11
+B-014885,R-284,Pool,Tue,07:00,Mon,19:46
+B-014886,R-188,Pool,Fri,18:00,Thu,20:25
+B-014887,R-350,Gym,Sun,18:00,Sat,19:00
+B-014888,R-176,Badminton Court,Fri,20:00,Thu,20:23
+B-014889,R-188,Pool,Tue,18:00,Mon,20:25
+B-014890,R-267,Tennis Court,Sun,07:00,Sat,20:23
+B-014891,R-226,Multipurpose Hall,Tue,15:00,Mon,20:37
+B-014892,R-109,Multipurpose Hall,Fri,15:00,Thu,20:25
+B-014893,R-378,Tennis Court,Sat,18:00,Fri,15:00
+B-014894,R-304,Tennis Court,Sat,07:00,Fri,20:30
+B-014895,R-370,Tennis Court,Thu,08:00,Wed,10:21
+B-014896,R-390,Multipurpose Hall,Sat,17:00,Fri,20:39
+B-014897,R-266,Badminton Court,Tue,18:00,Mon,20:51
+B-014898,R-220,Pool,Sun,18:00,Sat,21:33
+B-014899,R-357,Tennis Court,Mon,18:00,Sun,21:37
+B-014900,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-014901,R-273,Gym,Wed,06:00,Tue,08:18
+B-014902,R-300,Gym,Sun,19:00,Sat,08:30
+B-014903,R-222,Pool,Mon,17:00,Sun,18:54
+B-014904,R-114,Clubhouse,Fri,07:00,Thu,19:09
+B-014905,R-148,Clubhouse,Fri,11:00,Thu,08:47
+B-014906,R-136,Gym,Sun,18:00,Sat,09:39
+B-014907,R-364,Gym,Wed,07:00,Tue,21:04
+B-014908,R-243,Tennis Court,Sun,17:00,Sat,09:41
+B-014909,R-275,Gym,Mon,07:00,Sun,10:13
+B-014910,R-251,Gym,Sun,06:00,Sat,14:54
+B-014911,R-366,Gym,Wed,18:00,Wed,10:05
+B-014912,R-353,Gym,Thu,19:00,Thu,10:35
+B-014913,R-287,Clubhouse,Sat,16:00,Fri,10:39
+B-014914,R-260,Pool,Mon,18:00,Sun,15:39
+B-014915,R-117,Gym,Mon,07:00,Sun,10:50
+B-014916,R-269,Clubhouse,Thu,19:00,Wed,11:30
+B-014917,R-269,Clubhouse,Thu,19:00,Wed,11:30
+B-014918,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-014919,R-363,Gym,Wed,19:00,Tue,12:37
+B-014920,R-118,Clubhouse,Sat,07:00,Fri,10:30
+B-014921,R-125,Multipurpose Hall,Mon,17:00,Sun,10:45
+B-014922,R-295,Pool,Tue,07:00,Mon,14:33
+B-014923,R-183,Badminton Court,Sat,06:00,Fri,15:23
+B-014924,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-014925,R-224,Pool,Sun,07:00,Sat,15:08
+B-014926,R-251,Gym,Sun,06:00,Sat,14:54
+B-014927,R-360,Pool,Sun,07:00,Sat,16:07
+B-014928,R-237,Gym,Fri,19:00,Thu,16:29
+B-014929,R-343,Gym,Sun,18:00,Sat,20:00
+B-014930,R-119,Pool,Mon,18:00,Mon,16:49
+B-014931,R-187,Clubhouse,Thu,11:00,Wed,17:41
+B-014932,R-235,Pool,Sat,18:00,Fri,17:15
+B-014933,R-128,Clubhouse,Sat,11:00,Fri,17:47
+B-014934,R-237,Gym,Tue,19:00,Mon,16:29
+B-014935,R-257,Badminton Court,Sat,19:00,Fri,20:01
+B-014936,R-193,Gym,Sat,19:00,Thu,18:38
+B-014937,R-153,Pool,Sun,08:00,Sat,19:11
+B-014938,R-121,Badminton Court,Sun,19:00,Sat,20:00
+B-014939,R-209,Gym,Sat,07:00,Fri,19:54
+B-014940,R-267,Tennis Court,Sat,19:00,Fri,20:23
+B-014941,R-304,Tennis Court,Sat,15:00,Fri,20:30
+B-014942,R-108,Clubhouse,Thu,11:00,Wed,16:48
+B-014943,R-252,Clubhouse,Mon,07:00,Sun,20:39
+B-014944,R-220,Tennis Court,Sun,18:00,Sat,21:33
+B-014945,R-119,Pool,Sun,18:00,Sun,16:49
+B-014946,R-120,Multipurpose Hall,Sun,10:00,Sat,15:15
+B-014947,R-393,Clubhouse,Sat,16:00,Fri,14:14
+B-014948,R-192,Multipurpose Hall,Tue,15:00,Mon,08:51
+B-014949,R-373,Pool,Sat,18:00,Thu,08:29
+B-014950,R-313,Tennis Court,Sat,07:00,Fri,08:19
+B-014951,R-248,Pool,Fri,17:00,Thu,08:43
+B-014952,R-111,Gym,Sun,19:00,Sat,09:32
+B-014953,R-190,Gym,Sat,07:00,Fri,09:42
+B-014954,R-273,Gym,Wed,06:00,Tue,08:18
+B-014955,R-245,Pool,Thu,07:00,Wed,12:03
+B-014956,R-327,Badminton Court,Sun,21:00,Sat,13:03
+B-014957,R-275,Gym,Mon,07:00,Sun,10:13
+B-014958,R-159,Pool,Mon,18:00,Sun,10:08
+B-014959,R-145,Pool,Tue,17:00,Tue,10:23
+B-014960,R-374,Multipurpose Hall,Sat,15:00,Fri,10:15
+B-014961,R-298,Gym,Thu,06:00,Mon,14:15
+B-014962,R-287,Clubhouse,Sun,16:00,Sat,10:39
+B-014963,R-117,Gym,Mon,07:00,Sun,10:50
+B-014964,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-014965,R-234,Badminton Court,Sat,19:00,Sat,08:40
+B-014966,R-212,Gym,Tue,07:00,Mon,11:16
+B-014967,R-312,Badminton Court,Mon,18:00,Mon,12:32
+B-014968,R-134,Badminton Court,Sat,19:00,Fri,21:13
+B-014969,R-170,Clubhouse,Fri,16:00,Fri,12:29
+B-014970,R-347,Pool,Sun,18:00,Sun,12:29
+B-014971,R-240,Gym,Sun,18:00,Sat,12:53
+B-014972,R-230,Badminton Court,Sun,19:00,Sat,13:13
+B-014973,R-230,Badminton Court,Mon,19:00,Sun,13:13
+B-014974,R-237,Gym,Tue,19:00,Tue,16:29
+B-014975,R-339,Gym,Thu,06:00,Wed,13:31
+B-014976,R-258,Clubhouse,Fri,19:00,Thu,14:31
+B-014977,R-298,Gym,Thu,06:00,Wed,14:15
+B-014978,R-372,Badminton Court,Tue,21:00,Mon,14:46
+B-014979,R-358,Gym,Sun,18:00,Sat,15:45
+B-014980,R-139,Gym,Sun,07:00,Sat,16:08
+B-014981,R-355,Tennis Court,Sun,10:00,Sat,17:19
+B-014982,R-180,Badminton Court,Sat,17:00,Fri,16:06
+B-014983,R-394,Gym,Tue,07:00,Mon,18:10
+B-014984,R-197,Gym,Wed,19:00,Tue,17:55
+B-014985,R-377,Gym,Sun,07:00,Sat,18:01
+B-014986,R-197,Gym,Sun,19:00,Sat,17:55
+B-014987,R-163,Multipurpose Hall,Mon,17:00,Sun,07:45
+B-014988,R-142,Tennis Court,Sat,07:00,Fri,20:34
+B-014989,R-272,Gym,Tue,21:00,Mon,19:02
+B-014990,R-150,Gym,Sat,06:00,Fri,19:52
+B-014991,R-109,Multipurpose Hall,Tue,07:00,Mon,20:25
+B-014992,R-143,Clubhouse,Sun,19:00,Sat,09:47
+B-014993,R-131,Gym,Sun,07:00,Sat,21:25
+B-014994,R-200,Clubhouse,Sun,16:00,Sat,15:26
+B-014995,R-138,Clubhouse,Sun,16:00,Fri,11:32
+B-014996,R-151,Badminton Court,Mon,19:00,Sun,07:56
+B-014997,R-300,Tennis Court,Wed,19:00,Tue,08:30
+B-014998,R-135,Tennis Court,Sun,18:00,Sat,18:00
+B-014999,R-125,Multipurpose Hall,Tue,19:00,Tue,10:45
+B-015000,R-366,Gym,Wed,18:00,Wed,10:05
+B-015001,R-366,Gym,Wed,18:00,Wed,10:05
+B-015002,R-121,Badminton Court,Sun,19:00,Sat,20:00
+B-015003,R-172,Gym,Sat,19:00,Sat,21:18
+B-015004,R-227,Badminton Court,Thu,07:00,Wed,19:52
+B-015005,R-149,Gym,Fri,07:00,Thu,10:46
+B-015006,R-103,Tennis Court,Mon,18:00,Sun,11:22
+B-015007,R-123,Gym,Tue,06:00,Mon,11:42
+B-015008,R-173,Gym,Sun,18:00,Sat,11:42
+B-015009,R-347,Pool,Thu,18:00,Thu,12:29
+B-015010,R-154,Gym,Mon,06:00,Sun,13:27
+B-015011,R-230,Tennis Court,Sun,19:00,Sat,13:13
+B-015012,R-203,Badminton Court,Wed,18:00,Tue,15:15
+B-015013,R-329,Pool,Sat,07:00,Fri,14:14
+B-015014,R-103,Tennis Court,Fri,18:00,Thu,11:22
+B-015015,R-356,Tennis Court,Wed,08:00,Tue,18:46
+B-015016,R-120,Multipurpose Hall,Mon,10:00,Sun,15:15
+B-015017,R-222,Pool,Mon,17:00,Sun,18:54
+B-015018,R-315,Gym,Thu,18:00,Wed,17:08
+B-015019,R-169,Pool,Sat,18:00,Fri,21:20
+B-015020,R-360,Gym,Mon,07:00,Sun,16:07
+B-015021,R-335,Clubhouse,Wed,11:00,Tue,16:30
+B-015022,R-306,Gym,Thu,06:00,Wed,09:14
+B-015023,R-333,Gym,Tue,18:00,Mon,17:05
+B-015024,R-118,Pool,Sun,07:00,Sat,10:30
+B-015025,R-285,Clubhouse,Mon,11:00,Sun,18:22
+B-015026,R-210,Gym,Wed,07:00,Tue,20:10
+B-015027,R-267,Clubhouse,Sun,19:00,Sat,20:23
+B-015028,R-142,Clubhouse,Mon,07:00,Sun,20:34
+B-015029,R-220,Tennis Court,Mon,18:00,Sun,21:33
+B-015030,R-321,Tennis Court,Thu,17:00,Wed,09:44
+B-015031,R-169,Pool,Mon,18:00,Sun,21:20
+B-015032,R-148,Clubhouse,Tue,18:00,Mon,08:47
+B-015033,R-224,Pool,Wed,21:00,Tue,15:08
+B-015034,R-107,Badminton Court,Thu,19:00,Wed,12:00
+B-015035,R-113,Clubhouse,Sat,11:00,Fri,10:21
+B-015036,R-249,Badminton Court,Thu,19:00,Wed,15:35
+B-015037,R-232,Pool,Thu,07:00,Wed,10:46
+B-015038,R-178,Pool,Sun,17:00,Sat,19:06
+B-015039,R-149,Gym,Thu,07:00,Wed,10:46
+B-015040,R-203,Badminton Court,Wed,19:00,Tue,15:15
+B-015041,R-216,Gym,Mon,19:00,Mon,11:27
+B-015042,R-242,Tennis Court,Sun,19:00,Sat,11:47
+B-015043,R-123,Gym,Fri,06:00,Thu,11:42
+B-015044,R-347,Pool,Thu,18:00,Thu,12:29
+B-015045,R-363,Gym,Wed,19:00,Tue,12:37
+B-015046,R-154,Badminton Court,Wed,06:00,Tue,13:27
+B-015047,R-218,Gym,Sun,06:00,Sat,14:40
+B-015048,R-192,Multipurpose Hall,Tue,15:00,Mon,08:45
+B-015049,R-165,Badminton Court,Tue,21:00,Mon,16:56
+B-015050,R-372,Badminton Court,Tue,21:00,Mon,14:46
+B-015051,R-391,Gym,Sun,07:00,Sat,14:54
+B-015052,R-180,Badminton Court,Mon,19:00,Sun,16:06
+B-015053,R-183,Badminton Court,Mon,06:00,Sun,15:23
+B-015054,R-200,Pool,Wed,07:00,Tue,15:26
+B-015055,R-180,Badminton Court,Sat,19:00,Fri,15:46
+B-015056,R-122,Clubhouse,Fri,18:00,Thu,15:27
+B-015057,R-151,Badminton Court,Thu,19:00,Wed,07:56
+B-015058,R-241,Pool,Wed,07:00,Tue,16:48
+B-015059,R-213,Gym,Tue,15:00,Mon,17:01
+B-015060,R-213,Gym,Fri,18:00,Thu,17:01
+B-015061,R-385,Badminton Court,Thu,19:00,Wed,17:23
+B-015062,R-387,Gym,Thu,18:00,Wed,17:57
+B-015063,R-105,Badminton Court,Sat,19:00,Fri,18:15
+B-015064,R-201,Pool,Thu,07:00,Wed,07:56
+B-015065,R-153,Pool,Thu,08:00,Wed,19:11
+B-015066,R-227,Badminton Court,Mon,07:00,Sun,19:52
+B-015067,R-291,Gym,Tue,19:00,Mon,19:45
+B-015068,R-319,Clubhouse,Wed,18:00,Tue,13:38
+B-015069,R-360,Gym,Sun,07:00,Sat,16:07
+B-015070,R-364,Gym,Wed,07:00,Tue,21:04
+B-015071,R-172,Gym,Sat,19:00,Fri,21:18
+B-015072,R-251,Gym,Wed,07:00,Tue,14:54
+B-015073,R-285,Clubhouse,Tue,11:00,Mon,18:22
+B-015074,R-313,Tennis Court,Mon,07:00,Sun,08:19
+B-015075,R-261,Pool,Sun,17:00,Sat,08:29
+B-015076,R-376,Badminton Court,Sun,19:00,Sat,08:57
+B-015077,R-111,Gym,Tue,19:00,Mon,09:32
+B-015078,R-389,Clubhouse,Fri,11:00,Thu,13:39
+B-015079,R-182,Multipurpose Hall,Tue,16:00,Mon,21:37
+B-015080,R-381,Badminton Court,Fri,19:00,Thu,09:31
+B-015081,R-366,Gym,Wed,18:00,Wed,10:05
+B-015082,R-131,Gym,Wed,07:00,Tue,21:25
+B-015083,R-125,Gym,Tue,19:00,Mon,10:45
+B-015084,R-159,Gym,Thu,18:00,Thu,10:08
+B-015085,R-372,Badminton Court,Tue,21:00,Mon,14:46
+B-015086,R-397,Badminton Court,Tue,19:00,Mon,14:07
+B-015087,R-327,Gym,Tue,06:00,Mon,13:03
+B-015088,R-341,Clubhouse,Thu,11:00,Wed,13:41
+B-015089,R-155,Multipurpose Hall,Mon,18:00,Sat,13:15
+B-015090,R-154,Gym,Sat,06:00,Fri,13:27
+B-015091,R-329,Pool,Wed,07:00,Tue,14:14
+B-015092,R-194,Badminton Court,Tue,19:00,Tue,13:11
+B-015093,R-188,Pool,Tue,18:00,Mon,20:25
+B-015094,R-253,Tennis Court,Sat,08:00,Fri,13:26
+B-015095,R-400,Pool,Sun,15:00,Sat,15:43
+B-015096,R-292,Badminton Court,Sun,19:00,Sat,20:01
+B-015097,R-370,Tennis Court,Wed,11:00,Tue,10:21
+B-015098,R-137,Pool,Sat,07:00,Fri,16:43
+B-015099,R-163,Multipurpose Hall,Sat,17:00,Fri,18:29
+B-015100,R-354,Clubhouse,Tue,19:00,Mon,16:54
+B-015101,R-326,Gym,Fri,19:00,Fri,18:14
+B-015102,R-179,Gym,Wed,06:00,Tue,08:58
+B-015103,R-203,Badminton Court,Thu,19:00,Wed,15:15
+B-015104,R-371,Badminton Court,Sun,19:00,Sat,20:14
+B-015105,R-365,Clubhouse,Wed,19:00,Tue,12:04
+B-015106,R-318,Gym,Wed,07:00,Tue,16:54
+B-015107,R-229,Gym,Wed,06:00,Tue,12:49
+B-015108,R-276,Tennis Court,Wed,07:00,Tue,08:04
+B-015109,R-143,Clubhouse,Wed,19:00,Tue,09:47
+B-015110,R-324,Gym,Wed,18:00,Tue,19:31
+B-015111,R-132,Badminton Court,Wed,21:00,Tue,21:16
+B-015112,R-353,Gym,Thu,19:00,Wed,10:35
+B-015113,R-145,Pool,Tue,17:00,Tue,10:23
+B-015114,R-250,Pool,Tue,07:00,Mon,11:00
+B-015115,R-254,Gym,Fri,19:00,Fri,11:33
+B-015116,R-306,Gym,Thu,06:00,Wed,09:14
+B-015117,R-206,Badminton Court,Thu,19:00,Wed,21:24
+B-015118,R-208,Gym,Sat,18:00,Fri,16:45
+B-015119,R-166,Clubhouse,Wed,19:00,Tue,11:26
+B-015120,R-305,Gym,Mon,20:00,Sun,18:23
+B-015121,R-157,Pool,Wed,18:00,Tue,14:57
+B-015122,R-337,Gym,Wed,19:00,Tue,09:06

@@ -171,4 +171,5 @@ numeric cells). A CSV copy is in `outputs/prediction_review.csv`.
 
 ## 6. Reproducing the results
 See `README.md`. In short: `pip install -r requirements.txt`, then `PYTHONPATH=src python -m facility_pred.run all`
-(optionally regenerating the data first with `python -m facility_pred.data_gen`).
+(optionally regenerating the data first with `python -m facility_pred.data_gen`). The three steps are also available
+separately: `run train`, `run predict` (predictions only, `outputs/predictions.csv`) and `run evaluate`.

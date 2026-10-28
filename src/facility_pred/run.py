@@ -1,8 +1,9 @@
-"""Command line entry point:  python -m facility_pred.run {train,evaluate,all}
+"""Command line entry point:  python -m facility_pred.run {train,predict,evaluate,all}
 
 train     build leakage-safe features, tune on the validation split, refit on train+val, save models
-evaluate  score the chronologically later TEST split, write metrics, error analysis and the review workbook
-all       data (if missing) -> train -> evaluate
+predict   predict the four outputs for the later TEST split -> outputs/predictions.csv (no actuals used)
+evaluate  compare those predictions with the actuals: metrics, error analysis and the review workbook
+all       data (if missing) -> train -> predict -> evaluate
 """
 import argparse
 import json
@@ -34,6 +35,26 @@ def train():
     (MODELS / "chosen_params.json").write_text(json.dumps(chosen, indent=2))
     n = X.split.value_counts().to_dict()
     print(f"trained on train+val ({n['train']}+{n['val']} rows); params -> models/chosen_params.json")
+
+
+def predict(since=None):
+    """Predictions only: facility, usage day, usage hour and nudge for each booking in the holdout period."""
+    bookings = load(str(DATA))
+    X = build(bookings)
+    fac = pd.read_csv(DATA / "facilities.csv").set_index("facility_id").facility_name.to_dict()
+    rows = X[X.split == "test"] if since is None else X[X.booking_ts >= pd.Timestamp(since)]
+    P = M.predict(M.load_models(MODELS / "models.joblib")["models"], rows)
+    days = dict(enumerate(review.DAYS))
+    out = pd.DataFrame({
+        "booking_id": rows.booking_id.values, "resident_id": rows.resident_id.values,
+        "predicted_facility": P.p_fac.map(lambda i: fac[f"F{int(i) + 1}"]).values,
+        "predicted_day": P.p_dow.map(days).values,
+        "predicted_hour": P.p_hour.map(lambda v: f"{int(v):02d}:00").values,
+        "predicted_nudge_day": P.p_nudge_dow.map(days).values,
+        "predicted_nudge_time": P.p_clock.map(review._hm).values})
+    Path("outputs").mkdir(exist_ok=True)
+    out.to_csv("outputs/predictions.csv", index=False)
+    print(f"wrote outputs/predictions.csv ({len(out)} rows)")
 
 
 def _pct(df):
@@ -101,10 +122,12 @@ def evaluate():
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["train", "evaluate", "all"])
+    ap.add_argument("step", choices=["train", "predict", "evaluate", "all"])
     s = ap.parse_args().step
     if s in ("train", "all"):
         train()
+    if s in ("predict", "all"):
+        predict()
     if s in ("evaluate", "all"):
         evaluate()
 

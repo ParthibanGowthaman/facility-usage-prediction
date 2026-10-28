@@ -6,7 +6,7 @@ For a residential community's shared facilities, predict a resident's next booki
 usage hour and notification (nudge) time**. Synthetic dataset, leakage-safe features, a chronological holdout, and a
 spreadsheet comparing every prediction with the actual booking.
 
-Full write-up: [`docs/TECHNICAL_DOC.md`](docs/TECHNICAL_DOC.md). Review spreadsheet: [`outputs/prediction_review.xlsx`](outputs/prediction_review.xlsx).
+Full write-up: [`docs/TECHNICAL_DOC.pdf`](docs/TECHNICAL_DOC.pdf) (also `.docx` and `.md`, same content). Review spreadsheet: [`outputs/prediction_review.xlsx`](outputs/prediction_review.xlsx).
 
 ## Run it
 
@@ -23,8 +23,9 @@ python -m facility_pred.run all       # train on the early period, score the lat
 pytest -q                             # leakage and reproducibility tests
 ```
 
-`run all` writes `models/` (fitted models and chosen hyper-parameters), `results/` (metrics and tables) and
-`outputs/prediction_review.xlsx` (+ `.csv`). `run train` and `run evaluate` run the two halves separately.
+`run all` runs three steps, which can also be run separately: `run train` (fits and saves `models/`), `run predict`
+(writes `outputs/predictions.csv` for the holdout period, without looking at actuals) and `run evaluate` (compares with
+the actuals; writes `results/` and `outputs/prediction_review.xlsx` + `.csv`).
 Results are deterministic: rerunning reproduces `results/metrics.json` exactly.
 
 ## Result on the held-out period (2,736 bookings, from 2025-11-01)
