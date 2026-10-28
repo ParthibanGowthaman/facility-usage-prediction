@@ -1,0 +1,7 @@
+facility_id,facility_name,open_hour,last_start_hour
+F1,Gym,5,22
+F2,Pool,6,21
+F3,Badminton Court,6,22
+F4,Tennis Court,6,21
+F5,Clubhouse,10,22
+F6,Multipurpose Hall,9,22
